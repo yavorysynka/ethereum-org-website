@@ -1,72 +1,72 @@
 ---
-title: What is Ethereum?
+title: Pre začiatočníkov
 meta:
   - 
-    name: description
-    content: Guides, resources, and tools for users completely new to Ethereum.
+    name: og:title
+    content: Pre začiatočníkov | Ethereum
   - 
     property: og:title
     content: What is Ethereum?
   - 
     property: og:description
     content: Guides, resources, and tools for users completely new to Ethereum.
-lang: en-US
+lang: sk
 ---
 
 # What is Ethereum? {#what-is-ethereum}
 
-New to Ethereum? You’re in the right place. Let’s start with the big picture.
+Počujete o Ethereu prvýkrát? Tak ste na správnom mieste. Začnime celkovým prehľadom.
 
-**Ethereum is the foundation for a new era of the internet:**
+**Ethereum je základom novej éry internetu:**
 
-- An internet where money and payments are built in.
-- An internet where users can own their data, and your apps don’t spy and steal from you.
-- An internet where everyone has access to an open financial system.
-- An internet built on neutral, open-access infrastructure, controlled by no company or person.
+- Internetu, v ktorom sú peniaze a platby vnútorne integrované.
+- Internetu, v ktorom používatelia majú možnosť vlastniť svoje osobné údaje, pričom tieto nebudú sledované a kradnuté aplikáciami, ktoré používajú.
+- Internetu, v ktorom má každý prístup k otvorenému finančnému systému.
+- Internetu postavenému na neutrálnej a otvorenej infraštruktúre, ktorá nie je pod kontrolou žiadnej korporácie ani osoby.
 
-**Launched in 2015, Ethereum is the world’s leading programmable blockchain.**
+**Ethereum, ktoré vzniklo v roku 2015, je dnes popredným svetovým programovateľným blockchainom.**
 
-**Like other blockchains, Ethereum has a native cryptocurrency called Ether (ETH).** ETH is digital money. If you’ve heard of [Bitcoin](http://bitcoin.org/), ETH has many of the same features. It is purely digital, and can be sent to anyone anywhere in the world instantly. The supply of ETH isn’t controlled by any government or company - it is decentralized, and it is scarce. People all over the world use ETH to make payments, as a store of value, or as collateral.
+**Rovnako ako iné blockchainy, má aj Ethereum svoju vlastnú kryptomenu nazývanú Ether (ETH).** ETH je digitálnou menou. Ak ste už počuli o [ bitcoine](http://bitcoin.org/), vedzte, že ETH má mnoho rovnakých funkcií. Je plne digitálna a je možné ju okamžite poslať komukoľvek na svete. ETH nie je pod kontrolou žiadnej vlády ani korporácie – je decentralizovaná a je nedostatkovou komoditou. Ľudia na celom svete ju používajú na uskutočňovanie platieb, investície alebo ako zábezpeku.
 
-**But unlike other blockchains, Ethereum can do much more.** Ethereum is programmable, which means that developers can use it to [build new kinds of applications](/use/#1-use-an-application-built-on-ethereum).
+**Avšak, na rozdiel od iných blockchainov, Ethereum dokáže oveľa viac.** Ethereum je programovateľný, čo znamená, že vývojári ho môžu použiť na [vytváranie nových druhov aplikácií](/sk/use/#1-use-an-application-built-on-ethereum).
 
-These decentralized applications (or “dapps”) gain the benefits of cryptocurrency and blockchain technology. They can be trustworthy, meaning that once they are “uploaded” to Ethereum, they will always run as programmed. They can control digital assets in order to create new kinds of financial applications. They can be decentralized, meaning that no single entity or person controls them.
+Výhodou týchto decentralizovaných aplikácií (alebo „dappiek“) je, že sú technologicky postavené na kryptomenách a blockchaine. Vďaka tomu môžu byť dôveryhodné, čo znamená, že akonáhle budú „uploadnuté“ do Etherea, budú vždy pracovať presne tak, ako boli naprogramované. Môžu tiež slúžiť na kontrolu digitálnych aktív a vytváranie nových druhov finančných aplikácií. Môžu byť decentralizované, čo znamená, že ich neriadi žiadna entita alebo osoba.
 
-**Right now, thousands of developers all over the world are building applications on Ethereum, and inventing new kinds of applications, many of which you can use today:**
+**Tisíce vývojárov z celého sveta v súčasnosti pracujú na vývoji rôznych inovatívnych aplikácií na Ethereu, z ktorých mnohé môžete používať už dnes:**
 
-- [**Cryptocurrency wallets**](/use/#3-what-is-a-wallet-and-which-one-should-i-use) that let you make cheap, instant payments with ETH or other assets
-- **Financial applications** that let you borrow, lend, or invest your digital assets
-- **Decentralized markets**, that let you trade digital assets, or even trade “predictions” about events in the real world
-- **Games** where you own in-game assets, and can even make real money
-- **And much,** much more.
+- [**Kryptomenové peňaženky**](/sk/use/#3-what-is-a-wallet-and-which-one-should-i-use), ktoré umožňujú lacné a okamžité platby pomocou ETH alebo iných aktív
+- **Finančné aplikácie**, ktoré umožňujú požičiavať si, požičiavať iným alebo investovať vaše digitálne aktíva
+- **Decentralizované trhy**, ktoré umožňujú obchodovať s digitálnymi aktívami alebo dokonca s „predpoveďami“ udalostí reálneho sveta
+- **Hry**, v ktorých priamo vlastníte svoje herné aktíva a dokonca máte možnosť zarobiť skutočné peniaze
+- **A veľa ďalších** a ďalších aplikácií.
 
-**The Ethereum community is the largest and most active blockchain community in the world.** It includes core protocol developers, cryptoeconomic researchers, cypherpunks, mining organizations, ETH holders, app developers, ordinary users, anarchists, fortune 500 companies, and, as of now, **you**.
+**Komunita projektu Ethereum je najväčšou a najaktívnejšou blockchainovou komunitou na svete.** Zahŕňa vývojárov základných protokolov, kryptoekonomických výskumníkov, cypherpunkov, ťažobné organizácie, držiteľov ETH, vývojárov aplikácií, bežných používateľov, anarchistov, veľké spoločnosti zo zoznamu Fortune 500 a odteraz **aj vás**.
 
-**There is no company or centralized organization that controls Ethereum.** Ethereum is maintained and improved over time by a diverse global community of contributors who work on everything from the core protocol to consumer applications. This website, just like the rest of Ethereum, was built - and continues to be built - by a collection of people working together.
+**Ethereum nie je pod kontrolou žiadnej súkromnej spoločnosti ani centralizovanej organizácie.** Za svoj chod a rast vďačí rozmanitej globálnej komunite prispievateľov, ktorí pracujú na všetkom, od základného protokolu až po používateľské aplikácie. A rovnako ako celý projekt Ethereum, aj táto webová lokalita bola vytvorená a vďačí za svoje fungovanie vzájomnej kooperácii rôznych skupín ľudí z celého sveta.
 
-**Welcome to Ethereum.**
+**Vitajte v Ethereu.**
 
-**Not sure where to go next?**
+**Kam ďalej?**
 
-- Want to get started using Ethereum? [ethereum.org/use](/use/)
-- Curious to learn more about Ethereum and its technology? [ethereum.org/learn](/learn/)
-- Are you a developer interested in building on ethereum? [ethereum.org/developers](/developers/)
+- Chcete začať používať Ethereum? [ethereum.org/sk/use](/sk/use/)
+- Chcete sa dozvedieť o Ethereu a jeho technológii viac? [ethereum.org/sk/learn](/sk/learn/)
+- Ste vývojárom a chcete programovať na Ethereu? [ethereum.org/sk/developers](/sk/developers/)
 
-**Looking for more beginner resources about Ethereum?**
+**Hľadáte ďalšie informácie pre začiatočníkov o Ethereu?**
 
-[Decentralized Everything with Vitalik Buterin](https://youtu.be/WSN5BaCzsbo)
+[Decentralizovať všetko s Vitalikom Buterinom](https://youtu.be/WSN5BaCzsbo)
 
 <div class="iframe-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WSN5BaCzsbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Ben Horowitz explains the road ahead for blockchain](https://www.youtube.com/watch?v=l9jvKWKmRfs&feature=youtu.be)
+[Ben Horowitz hovorí o ďalšom smerovaní technológie blockchainu](https://www.youtube.com/watch?v=l9jvKWKmRfs&feature=youtu.be)
 
 <div class="iframe-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/l9jvKWKmRfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Ethereum’s Blockchain by TechCrunch](https://www.youtube.com/watch?v=WfULutvxvzY)
+[Blockchain Ethereum v TechCrunch](https://www.youtube.com/watch?v=WfULutvxvzY)
 
 <div class="iframe-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WfULutvxvzY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
