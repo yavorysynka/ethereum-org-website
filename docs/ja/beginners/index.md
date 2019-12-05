@@ -1,58 +1,58 @@
 ---
-title: 初心者
+title: What is Ethereum?
 meta:
   - 
-    name: og:title
-    content: 初心者 | イーサリアム
+    name: description
+    content: Guides, resources, and tools for users completely new to Ethereum.
   - 
     property: og:title
     content: What is Ethereum?
   - 
     property: og:description
     content: Guides, resources, and tools for users completely new to Ethereum.
-lang: ja
+lang: en-US
 ---
 
 # What is Ethereum? {#what-is-ethereum}
 
-イーサリアムは初めてですか？ このページはこれからイーサリアムを知るのに最適なスタートラインです。 まずは全体像を説明します。
+New to Ethereum? You’re in the right place. Let’s start with the big picture.
 
-**イーサリアムは新時代のインターネットの基盤となります。**
+**Ethereum is the foundation for a new era of the internet:**
 
-- お金や支払いが組み込まれたインターネット
-- ユーザーが自らのデータを所有できるインターネットで、アプリケーションにより情報が奪われることもありません。
-- 誰もがオープンな金融システムにアクセスできるインターネット
-- 企業や個人によって支配されない、公平でオープンにアクセス可能なインターネット
+- An internet where money and payments are built in.
+- An internet where users can own their data, and your apps don’t spy and steal from you.
+- An internet where everyone has access to an open financial system.
+- An internet built on neutral, open-access infrastructure, controlled by no company or person.
 
-**2015年にローンチされた世界を牽引するプログラム可能なブロックチェーンです。**
+**Launched in 2015, Ethereum is the world’s leading programmable blockchain.**
 
-**他のブロックチェーンと同様にイーサリアムにはEther (ETH) と呼ばれるネイティブな暗号通貨が存在します。** ETHはデジタル通貨です。 [ビットコイン](http://bitcoin.org/)について聞いたことがある人にはわかりやすいですが、ETHにはビットコインと同様な特徴が多くあります。 ETHはデジタルな貨幣であり、世界中のあらゆる場所のあらゆる人にETHを瞬時に送ることができます。 ETHの供給は政府にも企業にもコントロールされることなく、非中央集権的に管理されるという通貨としては稀な例です。 世界中の人はETHを支払い手段や価値保存の手段、担保などとして使用できます。
+**Like other blockchains, Ethereum has a native cryptocurrency called Ether (ETH).** ETH is digital money. If you’ve heard of [Bitcoin](http://bitcoin.org/), ETH has many of the same features. It is purely digital, and can be sent to anyone anywhere in the world instantly. The supply of ETH isn’t controlled by any government or company - it is decentralized, and it is scarce. People all over the world use ETH to make payments, as a store of value, or as collateral.
 
-**ただ、他のブロックチェーンとは異なり、イーサリアムはより多くのことが可能です。** イーサリアムはプログラム可能であり、開発者が[新たな種類のアプリケーションをイーサリアム上に構築することができます](/ja/use/#1-use-an-application-built-on-ethereum)。
+**But unlike other blockchains, Ethereum can do much more.** Ethereum is programmable, which means that developers can use it to [build new kinds of applications](/use/#1-use-an-application-built-on-ethereum).
 
-分散型アプリケーション (dapp) は暗号通貨やブロックチェーンのメリットを利用できます。 Dappは一度イーサリアムにアップロードされると常にプログラムされた通りに動作するため、信頼できます。 そしてデジタルアセットを取り扱うことで新たな金融アプリケーションを作ることができます。 また、dappは非中央集権的であり、単独の主体がアプリケーションを管理することはありません。
+These decentralized applications (or “dapps”) gain the benefits of cryptocurrency and blockchain technology. They can be trustworthy, meaning that once they are “uploaded” to Ethereum, they will always run as programmed. They can control digital assets in order to create new kinds of financial applications. They can be decentralized, meaning that no single entity or person controls them.
 
-**現在、世界中で何千もの開発者がイーサリアム上にアプリケーションを構築して新たな種類のアプリケーションを発明しようとしています。その多くはすでに利用することができます。**
+**Right now, thousands of developers all over the world are building applications on Ethereum, and inventing new kinds of applications, many of which you can use today:**
 
-- [**暗号通貨ウォレット**](/ja/use/#3-what-is-a-wallet-and-which-one-should-i-use)を使えば安価で高速なETHやその他のアセットによる支払いが可能です
-- **金融アプリケーション**を使えばデジタルアセットの借り入れや、貸し出し、運用などが可能です
-- **分散型マーケット**ではデジタルアセットはもちろん、「現実世界の事象に関する予測」さえも市場で取引することができます
-- **ゲーム**内のアセットの自分自身で所有したり、現実のお金を稼いだりすることもできます
-- **他にももっと**多くのことに応用できます
+- [**Cryptocurrency wallets**](/use/#3-what-is-a-wallet-and-which-one-should-i-use) that let you make cheap, instant payments with ETH or other assets
+- **Financial applications** that let you borrow, lend, or invest your digital assets
+- **Decentralized markets**, that let you trade digital assets, or even trade “predictions” about events in the real world
+- **Games** where you own in-game assets, and can even make real money
+- **And much,** much more.
 
-**イーサリアムコミュニティは世界で最も巨大かつアクティブなコミュニティです。**コアプロトコル開発者や、クリプトエコノミクス研究者、サイファーパンク、マイニング組織、ETH保有者、アプリ開発者、一般的なユーザー、アナーキスト、Fortune 500の企業などが属しています。そしてこの瞬間から**あなた**もコミュニティの仲間です！
+**The Ethereum community is the largest and most active blockchain community in the world.** It includes core protocol developers, cryptoeconomic researchers, cypherpunks, mining organizations, ETH holders, app developers, ordinary users, anarchists, fortune 500 companies, and, as of now, **you**.
 
-**イーサリアムを管理する企業や中央集権的な組織は存在しません。** イーサリアムは、コアプロトコルからコンシューマーアプリケーションまでを含む、多様なグローバルコミュニティのコントリビューターによって管理され、進歩し続けています。 このウェブサイトも他のイーサリアムの部分と同様にコミュニティの協力によって作られ、今も改良を重ねています。
+**There is no company or centralized organization that controls Ethereum.** Ethereum is maintained and improved over time by a diverse global community of contributors who work on everything from the core protocol to consumer applications. This website, just like the rest of Ethereum, was built - and continues to be built - by a collection of people working together.
 
-**イーサリアムコミュニティへようこそ。**
+**Welcome to Ethereum.**
 
-**次に何をすればいいかわからない方へ**
+**Not sure where to go next?**
 
-- イーサリアムを使い始めるには [ethereum.org/ja/use](/ja/use/)
-- イーサリアムの技術や仕組みについてもっと詳しく知りたければこちら [ethereum.org/ja/learn](/ja/learn/)
-- イーサリアム上のアプリケーション開発に興味があればこちら [ethereum.org/ja/developers](/ja/developers/)
+- Want to get started using Ethereum? [ethereum.org/use](/use/)
+- Curious to learn more about Ethereum and its technology? [ethereum.org/learn](/learn/)
+- Are you a developer interested in building on ethereum? [ethereum.org/developers](/developers/)
 
-**初心者向けのリソースをお探しの方へ**
+**Looking for more beginner resources about Ethereum?**
 
 [Decentralized Everything with Vitalik Buterin](https://youtu.be/WSN5BaCzsbo)
 
