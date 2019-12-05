@@ -1,8 +1,15 @@
 ---
 title: Pre vývojárov
 meta:
-  - property: og:title
+  - 
+    name: og:title
     content: Pre vývojárov | Ethereum
+  - 
+    property: og:title
+    content: Ethereum for Developers
+  - 
+    property: og:description
+    content: Guides, resources, and tools for developers building on Ethereum.
 lang: sk
 sidebar: auto
 sidebarDepth: 0
@@ -18,6 +25,10 @@ sidebarDepth: 0
 
 Potrebujete si najprv rozšíriť základné vedomosti o Ethereu? Prejdite na [ethereum.org/sk/learn.](/sk/learn/)
 
+Každý program, ktorý beží na virtuálnom počítači Etherea (EVM), sa označuje ako „smart kontrakt“. Najobľúbenejšími jazykmi na písanie smart kontraktov na Ethereu sú **Solidity** a **Vyper** a <a href = "https://github.com/ConsenSys/ethereum-developer-tools-list#smart-contract-languages ">pripravujú sa ďalšie</a>.
+
+**Helpful Resources**
+
 - [Getting up to speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe) *Aug 7, 2017 - Matt Condon*
 - [Ethereum In Depth, Part 1](https://blog.zeppelin.solutions/ethereum-in-depth-part-1-968981e6f833) *May 11, 2018 - Facu Spagnuolo*
 - [Ethereum In Depth, Part 2 ](https://blog.zeppelin.solutions/ethereum-in-depth-part-2-6339cf6bddb9) *July 24, 2018 - Facu Spagnuolo*
@@ -31,299 +42,469 @@ Potrebujete si najprv rozšíriť základné vedomosti o Ethereu? Prejdite na [e
 
 ## Programovacie jazyky pre vývoj smart kontraktov {#smart-contract-languages}
 
-Každý program, ktorý beží na virtuálnom počítači Etherea (EVM), sa označuje ako „smart kontrakt“. Najobľúbenejšími jazykmi na písanie smart kontraktov na Ethereu sú **Solidity** a **Vyper** a <a href = "https://github.com/ConsenSys/ethereum-developer-tools-list#smart-contract-languages ">pripravujú sa ďalšie</a>.
+Blockchainové prehliadače sú služby, ktoré umožňujú prehľadávať blockchain Etherea (a jeho testovacie siete), s možnosťou vyhľadávania informácií o konkrétnych transakciách, blokoch, kontraktoch a iných aktivitách v rámci Etherea.
 
-### Solidity *Najobľúbenejší programovací jazyk Etherea, inšpirovaný jazykmi C ++, Python a Javascript.*
+Komunita Etherea spravuje viacero testovacích sietí. Využívané sú najmä vývojármi, ktorí ich používajú na testovanie svojich aplikácií za rôznych podmienok, pred uložením do „mainnet“ siete Etherea.
 
 - [Dokumentácia](https://solidity.readthedocs.io)
 - [GitHub](https://github.com/ethereum/solidity/)
 - [Solidity Gitter Chatroom](https://gitter.im/ethereum/solidity/)
 
-### Vyper *Programovací jazyk pre Ethereum so zameraním na bezpečnosť, ktorý je založený na jazyku Python.*
+Sieť Etherea pozostáva z mnohých uzlov, ktoré prevádzkujú kompatibilný klientsky softvér. Väčšina týchto uzlov beží na [Geth](https://geth.ethereum.org/) alebo [Parity](https://www.parity.io/ethereum/), z ktorých každý môže byť nakonfigurovaný rôznymi spôsobmi, podľa vašich potrieb.
 
 - [Dokumentácia](https://vyper.readthedocs.io)
 - [GitHub](https://github.com/ethereum/vyper)
 - [Vyper Gitter Chatroom](https://gitter.im/ethereum/vyper)
 
-### Kde nájsť ďalšie informácie?
+**Looking for other options?**
 
 - [Ethereum Developers Tools List #SmartContractLanguages](https://github.com/ConsenSys/ethereum-developer-tools-list#smart-contract-languages)
 
-## Nástroje pre vývojárov {#developer-tools}
+## Language Specific Resources {#language-specific-resources}
 
-Ethereum disponuje veľkým a rýchlo rastúcim počtom nástrojov, ktoré pomáhajú vývojárom vytvárať, testovať a spúšťať ich aplikácie. Nižšie sú uvedené najpopulárnejšie nástroje, ktoré vám pomôžu začať. Ak máte záujem o konkrétne detaily, pozrite si tento [podrobný zoznam](https://github.com/ConsenSys/ethereum-developer-tools-list).
+Niektoré EIP sa týkajú štandardov na úrovni aplikácií (napr. štandardný formát smart kontraktov), ktoré sú vedené ako [Žiadosti o pripomienkovanie Etherea (ERC)](https://eips.ethereum.org/erc). Mnohé ERC sú kritickými štandardmi a majú široké využitie v ekosystéme Etherea.
 
-### Truffle *Poskytuje vývojové prostredie, testovacie a vývojové rozhranie a ďalšie nástroje.* {#frameworks}
+- [truffleframework.com](/java/)
+- [GitHub](/python/)
+- [Ethereum for JavaScript developers](/javascript/)
+- [Ethereum for Go developers](/golang/)
+- [Ethereum for Rust developers](/rust/)
+- [Ethereum for .NET developers](/dot-net/)
+- More coming soon! Don't see your language here? [Open up an issue](https://github.com/ethereum/ethereum-org-website/issues/new/choose)!
 
-- [truffleframework.com](https://truffleframework.com/)
-- [GitHub](https://github.com/trufflesuite/truffle)
+## Developer Tools {#developer-tools}
 
-### Embark *Poskytuje vývojové prostredie, testovacie rozhranie a ďalšie nástroje integrované s Ethereom, IPFS a protokolom Whisper.* {#other-tools}
+Ethereum has a large and growing number of tools to help developers build, test, and deploy their applications. Below are the most popular tools to get you started. If you want to dive deeper, check out this [comprehensive list](https://github.com/ConsenSys/ethereum-developer-tools-list).
 
+### Frameworks {#frameworks}
+
+**Truffle -** **_A development environment, testing framework, build pipeline, and other tools._**
+
+- [GitHub](https://www.trufflesuite.com/)
+- [Dokumentácia](https://github.com/trufflesuite/truffle)
+
+**Embark -** **_A development environment, testing framework, and other tools integrated with Ethereum, IPFS, and Whisper._**
+
+- [getwaffle.io](https://embark.status.im/docs/)
 - [GitHub](https://github.com/embark-framework/embark)
-- [Dokumentácia](https://embark.status.im/docs/)
 
-### Waffle *Rámec pre vývoj a testing smart kontraktov pre pokročilých (založený na ethers.js).*
+**Waffle -** **_A framework for advanced smart contract development and testing (based on ethers.js)._**
 
-- [getwaffle.io](https://getwaffle.io/)
+- [Dokumentácia](https://getwaffle.io/)
 - [GitHub](https://github.com/EthWorks/Waffle)
 
-### Etherlime *Rozhranie založené na Ethers.js slúžiace na vývoj dappiek (Solidity & Vyper) a ich zverejnenie, ladenie, testovanie a na ďalšie súvisiace činnosti.*
+**Etherlime -** **_Ethers.js based framework for dapp development (Solidity & Vyper), deployment, debugging, testing and more._**
 
-- [Dokumentácia](https://etherlime.readthedocs.io/en/latest/)
+- [buidler.dev](https://etherlime.readthedocs.io/en/latest/)
 - [GitHub](https://github.com/LimeChain/etherlime)
 
-### Buidler *Task runner pre vývojárov smart kontraktov na Ethereu.*
+### Other Tools {#other-tools}
 
-- [buidler.dev](https://buidler.dev)
+**Ethereum Grid -** **_A desktop application for downloading, configuring, and running Ethereum clients and tools._**
+
+- [zeppelinos.org](https://grid.ethereum.org)
+- [GitHub](https://github.com/ethereum/grid)
+
+**Buidler -** **_A task runner for Ethereum smart contract developers._**
+
+- [Ethereum Developer Tools List #Frameworks](https://buidler.dev)
 - [GitHub](https://github.com/nomiclabs/buidler)
 
-### ZeppelinOS *Vývojové rozhranie na vytváranie inovovateľných smart kontraktov a bezpečnú správu na nich vytvorených aplikácií.*
+**OpenZeppelin SDK -** **_The Ultimate Smart Contract Toolkit: A suite of tools to help you develop, compile, upgrade, deploy and interact with smart contracts._**
 
-- [zeppelinos.org](https://zeppelinos.org)
-- [GitHub](https://github.com/zeppelinos)
-- [Komunitné fórum](https://forum.zeppelin.solutions/c/zeppelinos)
+- [Visual Studio Code](https://openzeppelin.com/sdk/)
+- [Azure Blockchain Workbench plugin](https://github.com/OpenZeppelin/openzeppelin-sdk)
+- [Vzorové kódy](https://forum.openzeppelin.com/c/sdk)
 
-### Kde nájsť ďalšie informácie?
+**The Graph -** **_A protocol for indexing Ethereum and IPFS data and querying it using GraphQL._**
 
-- [Ethereum Developer Tools List #Frameworks](https://github.com/ConsenSys/ethereum-developer-tools-list#frameworks)
+- [remix.ethereum.org](https://thegraph.com/)
+- [Graph Explorer](https://thegraph.com/explorer/)
+- [Documentation](https://thegraph.com/docs/)
+- [GitHub](https://github.com/graphprotocol/)
+- [Discord](https://thegraph.com/discord)
 
-## Integrované vývojové prostredia (IDE) {#integrated-development-environments-ides}
+**Tenderly -** **_A platform to easily monitor your smart contracts with error tracking, alerting, performance metrics, and detailed contract analytics._**
 
-### Visual Studio Code *Profesionálne multiplatformové IDE s oficiálnou podporou projektu Ethereum.* {#frameworks}
+- [superblocks.com/lab](https://tenderly.dev/)
+- [GitHub](https://github.com/Tenderly)
+- [Discord](https://discord.gg/eCWjuvt)
 
-- [Visual Studio Code](https://code.visualstudio.com/)
+**Python Tooling -** **_Variety of libraries for Ethereum interaction via Python._**
+
+- [ethfiddle.com](http://python.ethereum.org/)
+- [web3.py GitHub](https://github.com/ethereum/web3.py)
+- [web3.py Chat](https://gitter.im/ethereum/web3.py)
+
+**Brownie -** **_Python-based development environment and testing framework._**
+
+- [Ethereum Developer Tools List #IDEs](https://eth-brownie.readthedocs.io/en/latest/)
+- [GitHub](https://github.com/iamdefinitelyahuman/brownie)
+
+**web3j -** **_A Java/Android/Kotlin/Scala integration library for Ethereum._**
+
+- [GitHub](https://web3j.io)
+- [Dokumentácia](https://github.com/web3j/web3j)
+- [Docs](https://docs.web3j.io/)
+- [Gitter](https://gitter.im/web3j/web3j)
+
+**One Click Dapp -** **_Generate a frontend directly from ABI for fast development and testing._**
+
+- [GitHub](https://oneclickdapp.com)
+- [Dokumentácia](https://npmjs.org/package/oneclick)
+- [Remix Plugin](https://github.com/pi0neerpat/remix-plugin-one-click-dapp)
+- [GitHub](https://github.com/pi0neerpat/one-click-dapp)
+
+**Looking for other options?**
+
+- [GitHub](https://github.com/ConsenSys/ethereum-developer-tools-list#frameworks)
+
+## Integrated Development Environments (IDEs) {#integrated-development-environments-ides}
+
+**Ethereum Studio -** **_Web-based IDE ideal for new developers looking to experiment with smart contracts. Ethereum Studio features multiple templates, MetaMask integration, transaction logger, and a built in-browser Ethereum Virtual Machine (EVM) to help you get started building on Ethereum as fast as possible._**
+
+- [GitHub](https://studio.ethereum.org)
+- [Dokumentácia](https://superblocks.com/ethereum-studio)
+- [GitHub](https://github.com/SuperblocksHQ/ethereum-studio)
+
+**Visual Studio Code -** **_Professional cross-platform IDE with official Ethereum support._**
+
+- [Ethereum Developer Tools List #Frontend-Ethereum-APIs](https://code.visualstudio.com/)
+- [Azure Blockchain Development Kit for Ethereum](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain)
 - [Azure Blockchain Workbench plugin](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-azure-blockchain.azure-blockchain-workbench?tab=Overview)
-- [Vzorové kódy](https://github.com/Azure-Samples/blockchain/blob/master/blockchain-workbench/application-and-smart-contract-samples/readme.md)
+- [Code samples](https://github.com/Azure-Samples/blockchain/blob/master/blockchain-workbench/application-and-smart-contract-samples/readme.md)
+- [GitHub](https://github.com/microsoft/vscode)
 
-### Remix *Webové IDE s integrovanou statickou analýzou a testovacím virtuálnym počítačom pre blockchain.* {#other-tools}
+**Remix -** **_Web-based IDE with built in static analysis, and a test blockchain virtual machine._**
 
-- [remix.ethereum.org](https://remix.ethereum.org/)
+- [infura.io](https://remix.ethereum.org/)
 
-### Superblocks *Webové IDE s integrovaným webovým virtuálnym blockchain počítačom, integráciou MetaMasku, zapisovačom transakcií a ďalšími funkciami.*
+**EthFiddle -** **_Web-based IDE that lets you write, compile, and debug your smart contract._**
 
-- [superblocks.com/lab](https://superblocks.com/lab/)
+- [GitHub](https://ethfiddle.com/)
+- [Gitter](https://gitter.im/loomnetwork/ethfiddle)
 
-### EthFiddle *Webové IDE, ktoré umožňuje naprogramovať, skompilovať a zverejniť váš smart kontrakt.*
+**Looking for other options?**
 
-- [ethfiddle.com](https://ethfiddle.com/)
+- [mythx.io](https://github.com/ConsenSys/ethereum-developer-tools-list#ides)
 
-### Kde nájsť ďalšie informácie?
+## Frontend JavaScript APIs {#frontend-javascript-apis}
 
-- [Ethereum Developer Tools List #IDEs](https://github.com/ConsenSys/ethereum-developer-tools-list#ides)
+**Web3.js -** **_Ethereum JavaScript API._**
 
-## Frontend Javascript API rozhrania {#frontend-javascript-apis}
-
-### Web3.js *Ethereum Javascript API*
-
+- [GitHub](https://web3js.readthedocs.io/en/1.0/)
 - [GitHub](https://github.com/ethereum/web3.js/)
-- [Dokumentácia](https://web3js.readthedocs.io/en/1.0/)
 
-### Ethers.js *Kompletná implementácia a nástroje peňaženky pre Ethereum v skriptoch JavaScript a TypeScript*
+**Ethers.js -** **_Complete Ethereum wallet implementation and utilities in JavaScript and TypeScript._**
 
+- [securify.chainsecurity.com](https://docs.ethers.io/ethers.js/html/)
 - [GitHub](https://github.com/ethers-io/ethers.js/)
-- [Dokumentácia](https://docs.ethers.io/ethers.js/html/)
 
-### light.js *High-level reactive JS knižnica optimalizovaná pre light klientov.*
+**light.js -** **_A high-level reactive JS library optimized for light clients._**
 
+- [Documentation](https://paritytech.github.io/js-libs/light.js/)
 - [GitHub](https://github.com/paritytech/js-libs/tree/master/packages/light.js)
-- [Dokumentácia](https://paritytech.github.io/js-libs/light.js/)
 
-### Web3-wrapper *Typescript alternatíva k Web3.js*
+**Web3-wrapper -** **_Typescript alternative to Web3.js._**
 
-- [GitHub](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/web3-wrapper)
-- [Dokumentácia](https://0x.org/docs/web3-wrapper#introduction)
+- [Ethereum Developer Tools List #Security-Tools](https://0x.org/docs/web3-wrapper#introduction)
+- [GitHub](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper)
 
-### Kde nájsť ďalšie informácie?
+**Looking for other options?**
 
-- [Ethereum Developer Tools List #Frontend-Ethereum-APIs](https://github.com/ConsenSys/ethereum-developer-tools-list#frontend-ethereum-apis)
+- [GitHub](https://github.com/ConsenSys/ethereum-developer-tools-list#frontend-ethereum-apis)
 
-## Backend API rozhrania {#backend-apis}
+## Backend APIs {#backend-apis}
 
-### Infura *Ethereum API rozhranie ako služba*
+**Infura -** **_The Ethereum API as a service._**
 
-- [infura.io](https://infura.io)
+- [GitHub](https://infura.io)
+- [Documentation](https://infura.io/docs)
+- [GitHub](https://github.com/INFURA)
 
-## Bezpečnostné nástroje {#security-tools}
+**Cloudflare Ethereum Gateway.**
 
-### Slither *Rozhranie statickej analýzy pre Solidity, napísané v jazyku Python 3* {#smart-contract-security}
+- [Whiteblock.io](https://cloudflare-eth.com)
+
+**Nodesmith -** **_JSON-RPC API access to Ethereum mainnet and testnets._**
+
+- [Ethereum Developer Tools List #Testing-Tools](https://nodesmith.io/network/ethereum/)
+- [Documentation](https://nodesmith.io/docs/#/ethereum/apiRef)
+
+**Chainstack -** **_Shared and dedicated Ethereum nodes as a service._**
+
+- [Etherscan](https://chainstack.com)
+- [Blockscout](https://docs.chainstack.com)
+
+## Storage {#storage}
+
+**IPFS -** **_InterPlanetary File System is a decentralized storage and file referencing system for Ethereum._**
+
+- [Faucet pre získanie testovacieho ETH](https://ipfs.io/)
+- [Documentation](https://docs.ipfs.io/)
+- [GitHub](https://github.com/ipfs/ipfs)
+
+**Swarm -** **_A distributed storage platform and content distribution service for the Ethereum web3 stack._**
+
+- [Faucet pre získanie testovacieho ETH](https://ethersphere.github.io/swarm-home/)
+- [GitHub](https://github.com/ethersphere/swarm)
+
+**OrbitDB -** **_A decentralized peer to peer database on top of IPFS._**
+
+- [Faucet pre získanie testovacieho ETH](https://github.com/orbitdb/field-manual)
+- [goerli.net](https://github.com/orbitdb/orbit-db)
+
+## Security Tools {#security-tools}
+
+### Smart Contract Security {#smart-contract-security}
+
+**Slither -** **_Solidity static analysis framework written in Python 3._**
 
 - [GitHub](https://github.com/crytic/slither)
 
-### MythX *API pre bezpečnostné analýzy smart kontraktov na Ethereu* {#formal-verification}
+**MythX -** **_Security analysis API for Ethereum smart contracts._**
 
-- [mythx.io](https://mythx.io/)
+- [parity.io](https://mythx.io/)
+- [GitHub](https://docs.mythx.io/en/latest/)
 
-### Manticore *Rozhranie príkazového riadka, ktoré používa nástroj symbolického vykonávania smart kontraktov a binárnych súborov.*
+**Mythril -** **_Security analysis tool for EVM bytecode._**
 
-- [GitHub](https://github.com/trailofbits/manticore)
+- [GitHub](https://github.com/ConsenSys/mythril)
+- [Documentation](https://mythril-classic.readthedocs.io/en/master/about.html)
 
-### Securify *Bezpečnostný skener pre smart kontrakty na Ethereu*
+**SmartContract.Codes -** **_Search engine for verified solidity source codes._**
 
-- [securify.chainsecurity.com](https://securify.chainsecurity.com/)
+- [smartcontract.codes (alpha)](https://smartcontract.codes/)
+- [Documentation](https://github.com/ethereum-play/smartcontract.codes/blob/master/README.md)
 
-### Viac informácií o formálnej verifikácii
+**Manticore -** **_A command line interface that uses a symbolic execution tool on smart contracts and binaries._**
 
-- [How formal verification of smart-contacts works](https://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/) *July 20, 2018 - Brian Marick*
-- [How Formal Verification Can Ensure Flawless Smart Contracts](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1) *Jan 29, 2018 - Bernard Mueller*
+- [Ethereum Developer Tools List #Ethereum-clients](https://github.com/trailofbits/manticore)
+- [Documentation](https://github.com/trailofbits/manticore/wiki)
 
-### Kde nájsť ďalšie informácie?
+**Securify -** **_Security scanner for Ethereum smart contracts._**
 
-- [Ethereum Developer Tools List #Security-Tools](https://github.com/ConsenSys/ethereum-developer-tools-list#security-tools)
+- [dapp.tools/dappsys](https://securify.chainsecurity.com/)
+- [GitHub](https://discordapp.com/invite/nN77ckb)
 
-## Testovacie nástroje {#testing-tools}
+**ERC20 Verifier -** **_A verification tool used to check if a contract complies with the ERC20 standard._**
 
-### Solidity-Coverage *Alternatívny nástroj na testovanie kódu v jazyku Solidity.*
+- [openzeppelin.org](https://erc20-verifier.openzeppelin.com)
+- [GitHub](https://forum.openzeppelin.com/t/online-erc20-contract-verifier/1575)
 
-- [GitHub](https://github.com/sc-forks/solidity-coverage)
+### Formal Verification {#formal-verification}
 
-### hevm *Implementácia EVM vytvorená špeciálne pre unit testing a ladenie smart kontraktov.*
+**Information on Formal Verification**
 
-- [GitHub](https://github.com/dapphub/dapptools/tree/master/src/hevm)
+- [How formal verification of smart-contacts works](https://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/) _July 20, 2018 - Brian Marick_
+- [How Formal Verification Can Ensure Flawless Smart Contracts](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1) _Jan 29, 2018 - Bernard Mueller_
 
-### Whiteblock Genesis *End-to-end vývojový sandbox a testovacia platforma pre blockchain.*
+**Looking for other options?**
 
-- [Whiteblock.io](https://whiteblock.io)
+- [SWC registry](https://github.com/ConsenSys/ethereum-developer-tools-list#security-tools)
+
+## Testing Tools {#testing-tools}
+
+**Solidity-Coverage -** **_Alternative solidity code coverage tool._**
+
+- [consensys.github.io/smart-contract-best-practices/](https://github.com/sc-forks/solidity-coverage)
+
+**hevm -** **_Implementation of the EVM made specifically for unit testing and debugging smart contracts._**
+
+- [Ethereum Developer Tools List #Patterns—best-practices](https://github.com/dapphub/dapptools/tree/master/src/hevm)
+- [DappHub Chat](https://dapphub.chat/)
+
+**Whiteblock Genesis -** **_An end-to-end development sandbox and testing platform for blockchain._**
+
+- [ethereum.stackexchange.com](https://whiteblock.io)
+- [Documentation](https://docs.whiteblock.io)
 - [GitHub](https://github.com/whiteblock/genesis)
-- [Dokumentácia](https://docs.whiteblock.io)
 
-### Kde nájsť ďalšie informácie?
+**Looking for other options?**
 
-- [Ethereum Developer Tools List #Testing-Tools](https://github.com/ConsenSys/ethereum-developer-tools-list#testing-tools)
+- [gitter.im/ethereum/solidity](https://github.com/ConsenSys/ethereum-developer-tools-list#testing-tools)
 
-## Blockchainové prehliadače {#block-explorers}
+## Block Explorers {#block-explorers}
 
-Blockchainové prehliadače sú služby, ktoré umožňujú prehľadávať blockchain Etherea (a jeho testovacie siete), s možnosťou vyhľadávania informácií o konkrétnych transakciách, blokoch, kontraktoch a iných aktivitách v rámci Etherea.
+Block explorers are services that let you browse the Ethereum blockchain (and its testnets), by finding information about specific transactions, blocks, contracts, and other on-chain activity.
 
-- [Etherscan](https://etherscan.io/)
+- [gitter.im/ethereum/home](https://etherscan.io/)
 - [Blockscout](https://blockscout.com/)
 - [Etherchain](https://www.etherchain.org/)
 
-## Testovacie siete a faucety {#testnets-and-faucets}
+## Testnets and Faucets {#testnets-and-faucets}
 
-Komunita Etherea spravuje viacero testovacích sietí. Využívané sú najmä vývojármi, ktorí ich používajú na testovanie svojich aplikácií za rôznych podmienok, pred uložením do „mainnet“ siete Etherea.
+The Ethereum community maintains multiple testnets. These are used by developers to test their applications under different conditions before deploying to the Ethereum mainnet.
 
-### Ropsten *Proof of Work blockchain, na ktorom je možné ťažiť testovací ETH*
+**Ropsten -** **_Proof of Work blockchain, test-ether can be mined._**
 
-- [Faucet pre získanie testovacieho ETH](https://faucet.ropsten.be/)
+- [Cryptozombies.io](https://faucet.ropsten.be/)
 
-### Rinkeby *Proof of Authority blockchain, spravovaný vývojovým tímom Geth*
+**Rinkeby -** **_Proof of Authority blockchain, maintained by the Geth development team._**
 
-- [Faucet pre získanie testovacieho ETH](https://faucet.rinkeby.io/)
+- [chainshot.com](https://faucet.rinkeby.io/)
+- [Universal faucet](https://faucets.blockxlabs.com)
 
-### Goerli *Cross-client Proof of Authority blockchain, vytvorený a spravovaný komunitou Goerli*
+**Goerli -** **_Cross-client Proof of Authority blockchain, built and maintained by the Goerli community_**
 
-- [Faucet pre získanie testovacieho ETH](https://faucet.goerli.mudit.blog/)
+- [courses.blockgeeks.com](https://faucet.goerli.mudit.blog/)
 - [goerli.net](https://goerli.net/)
+- [Universal faucet](https://faucets.blockxlabs.com)
 
-## Klienti a prevádzkovanie vlastného uzla {#clients--running-your-own-node}
+## Clients & Running your own Node {#clients--running-your-own-node}
 
-Sieť Etherea pozostáva z mnohých uzlov, ktoré prevádzkujú kompatibilný klientsky softvér. Väčšina týchto uzlov beží na [Geth](https://geth.ethereum.org/) alebo [Parity](https://www.parity.io/ethereum/), z ktorých každý môže byť nakonfigurovaný rôznymi spôsobmi, podľa vašich potrieb.
+The Ethereum network is made up of many nodes who run compatible client software. The majority of these nodes run [Geth](https://geth.ethereum.org/) or [Parity](https://www.parity.io/ethereum/), each of which can be configured in different ways according to your needs.
 
-### Geth *Klienti Etherea napísaní v programe Go* {#clients}
+### Clients {#clients}
 
-- [GitHub](https://github.com/ethereum/go-ethereum)
+**Geth -** **_Ethereum clients written in Go._**
+
+- [DappUniversity.com](https://github.com/ethereum/go-ethereum)
 - [Discord chat](https://discordapp.com/invite/nthXNEv)
 
-### Parity *Klient Etherea napísaný v programe Rust* {#running-your-own-node}
+**Parity -** **_Ethereum client written in Rust._**
 
-- [parity.io](https://www.parity.io/)
+- [ethernaut.zeppelin.solutions](https://www.parity.io/)
 - [GitHub](https://github.com/paritytech/parity-ethereum)
 
-### Ethnode *Prevádzkujte uzol Etherea (Geth alebo Parity) pre lokálnu vývojárskú činnosť.*
+**Pantheon -** **_Ethereum client written in Java._**
 
-- [GitHub](https://github.com/vrde/ethnode)
+- [pegasys.tech](http://pegasys.tech)
+- [GitHub](https://github.com/PegaSysEng/pantheon/)
 
-### Informačné zdroje o prevádzkovaní uzlov
+**Nethermind -** **_Ethereum client written in C# .NET Core._**
 
-- [Node Configuration Cheat Sheet](https://dev.to/5chdn/ethereum-node-configuration-modes-cheat-sheet-25l8) *Jan 5, 2019 - Afri Schoeden*
+- [Zoznam EIP](http://nethermind.io/)
+- [EIP github repozitár](https://github.com/NethermindEth/nethermind)
+- [Diskusie o EIP](https://gitter.im/nethermindeth/nethermind)
 
-### Kde nájsť ďalšie informácie?
+### Running your own node {#running-your-own-node}
+
+**Ethnode -** **_Run an Ethereum node (Geth or Parity) for local development._**
+
+- [Zoznam ERC](https://github.com/vrde/ethnode)
+
+**Ethereum Node Resources**
+
+- [Node Configuration Cheat Sheet](https://dev.to/5chdn/ethereum-node-configuration-modes-cheat-sheet-25l8) _Jan 5, 2019 - Afri Schoeden_
+
+**Looking for other options?**
 
 - [Ethereum Developer Tools List #Ethereum-clients](https://github.com/ConsenSys/ethereum-developer-tools-list#ethereum-clients)
 
-## Osvedčené postupy, vzory a tipy, čomu sa vyhnúť {#best-practices-patterns-and-anti-patterns}
+## Best Practices, Patterns, and Anti-patterns {#best-practices-patterns-and-anti-patterns}
 
-### DappSys *Bezpečné, jednoduché a flexibilné stavebné bloky pre smart kontrakty.* {#smart-contracts}
+### Smart Contracts {#smart-contracts}
+
+**DappSys -** **_Safe, simple, flexible building-blocks for smart-contracts._**
 
 - [dapp.tools/dappsys](https://dapp.tools/dappsys/)
 - [GitHub](https://github.com/dapphub/dappsys)
 
-### OpenZeppelin *Knižnica pre bezpečný vývoj smart kontraktov.* {#security}
+**OpenZeppelin Contracts -** **_Library for secure smart contract development._**
 
-- [openzeppelin.org](https://openzeppelin.org/)
-- [GitHub](https://github.com/OpenZeppelin/openzeppelin-solidity)
+- [openzeppelin.com/contracts/](https://openzeppelin.com/contracts/)
+- [GitHub](https://github.com/OpenZeppelin/openzeppelin-contracts)
+- [Community Forum](https://forum.openzeppelin.com/c/contracts)
 
-### aragonOS *Vzory pre inovovateľnosť a správu povolení.*
+**aragonOS -** **_Patterns for upgradeability & permission control._**
 
-- [hack.aragon.org](https://hack.aragon.org/docs/aragonos-intro.html)
+- [hack.aragon.org](https://hack.aragon.org/docs/aragonos-intro.html#aragonos-provides-the-following-functionality)
+- [Documentation](https://wiki.aragon.org/)
 
-### Register chýb smart kontraktov
+**Smart Contract Weakness Registry**
 
 - [SWC registry](https://smartcontractsecurity.github.io/SWC-registry/)
 - [GitHub](https://github.com/SmartContractSecurity/SWC-registry)
 
-### Príručka osvedčených postupov pre bezpečnosť smart kontraktov
+### Security {#security}
+
+**Smart Contract Security Best Practices Guide**
 
 - [consensys.github.io/smart-contract-best-practices/](https://consensys.github.io/smart-contract-best-practices/)
 - [GitHub](https://github.com/ConsenSys/smart-contract-best-practices/)
-- [Súhrnný zoznam bezpečnostných odporúčaní a osvedčených postupov](https://github.com/guylando/KnowledgeLists/blob/master/EthereumSmartContracts.md)
+- [Aggregated collection of security recommendations and best practices](https://github.com/guylando/KnowledgeLists/blob/master/EthereumSmartContracts.md)
 
-### Kde nájsť ďalšie informácie?
+**Smart Contract Security Verification Standard (SCSVS)**
+
+- [securing.github.io/SCSVS/](https://securing.github.io/SCSVS/)
+
+**Looking for other options?**
 
 - [Ethereum Developer Tools List #Patterns—best-practices](https://github.com/ConsenSys/ethereum-developer-tools-list#patterns--best-practices)
 
-## Podpora a vzdelávanie pre vývojárov {#developer-support--training}
+## Developer Support & Training {#developer-support--training}
 
-### Ethereum Stackexchange {#general-learning}
+### General Learning {#general-learning}
+
+**Ethereum Stackexchange**
 
 - [ethereum.stackexchange.com](https://ethereum.stackexchange.com/)
 
-### Solidity Gitter Chatroom {#game-based-learning}
+**ConsenSys Academy -** **_An end-to-end Ethereum developer course that is self-paced and open year-round._**
+
+- [consensys.academy](https://consensys.net/academy/ondemand/)
+
+**Solidity Gitter Chatroom**
 
 - [gitter.im/ethereum/solidity](https://gitter.im/ethereum/solidity/)
 
-### Všetky Ethereum Gitter Chatrooms
+**All Ethereum Gitter Chatrooms**
 
 - [gitter.im/ethereum/home](https://gitter.im/ethereum/home)
 
-### Cryptozombies *Naučte sa programovať hry na Ethereu.*
-
-- [Cryptozombies.io](https://cryptozombies.io/)
-
-### Chainshot *Webové návody na kódovanie dappiek.*
+**Chainshot -** **_Web based dapp coding tutorials._**
 
 - [chainshot.com](https://www.chainshot.com/)
 
-### Blockgeeks *Online kurzy technológie blockchainu.*
+**Blockgeeks -** **_Online courses on blockchain technology._**
 
 - [courses.blockgeeks.com](https://courses.blockgeeks.com/)
 
-### DappUniversity *Naučte sa vytvárať decentralizované aplikácie na blockchaine Etherea.*
+**DappUniversity -** **_Learn to build decentralized applications on the Ethereum blockchain._**
 
 - [DappUniversity.com](http://www.dappuniversity.com/)
 
-### Ethernaut *Bojová hra naprogramovaná v jazyku Solidity, v ktorej každá úroveň predstavuje smart kontrakt, ktorý je potrebné hacknúť.*
+**B9lab Academy -** **_Home of the oldest professional Ethereum dapp developer course & further learning for auditors and QA. Incl. mentoring and code review._**
 
-- [ethernaut.zeppelin.solutions](https://ethernaut.zeppelin.solutions/)
+- [academy.b9lab.com](https://academy.b9lab.com)
 
-## UI/UX {#uiux-design}
+### Game-Based Learning {#game-based-learning}
 
-- [Challenge of UX in Ethereum](https://medium.com/ecf-review/challenge-of-ux-in-ethereum-122e1a33688d) *June 25, 2018 - Anna Rose*
-- [Designing for blockchain: what’s different and what’s at stake](https://media.consensys.net/designing-for-blockchain-whats-different-and-what-s-at-stake-b867eeade1c9) *March 22, 2018 - Sarah Baker Mills*
+**Cryptozombies -** **_Learn to code games on ethereum._**
 
-## Štandardy {#standards}
+- [Cryptozombies.io](https://cryptozombies.io/)
 
-Komunita Etherea prijala mnoho štandardov, ktoré sú užitočné pre vývojárov. Zvyčajne sa uvádzajú ako [Návrhy na zlepšenie Etherea](http://eips.ethereum.org/) (EIP), o ktorých členovia komunity diskutujú prostredníctvom [štandardného procesu](http://eips.ethereum.org/EIPS/eip-1).
+**Ethernaut -** **_Solidity based wargame where each level is a contract to be hacked._**
 
-- [Zoznam EIP](http://eips.ethereum.org/)
-- [EIP github repozitár](https://github.com/ethereum/EIPs)
-- [Diskusie o EIP](https://ethereum-magicians.org/c/eips)
-- [Ethereum Governance Overview](https://blog.bmannconsulting.com/ethereum-governance/) *March 31, 2019 - Boris Mann*
-- [Záznam všetkých stretnutí hlavných vývojárov Etherea](https://www.youtube.com/playlist?list=PLaM7G4Llrb7zfMXCZVEXEABT8OSnd4-7w) *(YouTube Playlist)*
+- [ethernaut.openzeppelin.com](https://ethernaut.openzeppelin.com/)
 
-Niektoré EIP sa týkajú štandardov na úrovni aplikácií (napr. štandardný formát smart kontraktov), ktoré sú vedené ako [Žiadosti o pripomienkovanie Etherea (ERC)](https://eips.ethereum.org/erc). Mnohé ERC sú kritickými štandardmi a majú široké využitie v ekosystéme Etherea.
+**Capture the Ether -** **_The game of Ethereum smart contract security._**
 
-- [Zoznam ERC](http://eips.ethereum.org/erc)
-- [ERC20 – štandardné rozhranie pre tokeny](https://eips.ethereum.org/EIPS/eip-20)
-- [ERC721 – štandardné rozhranie pre nemenné tokeny](https://eips.ethereum.org/EIPS/eip-721)
+- [capturetheether.com](https://capturetheether.com/)
+
+## UI/UX Design {#uiux-design}
+
+- [Challenge of UX in Ethereum](https://medium.com/ecf-review/challenge-of-ux-in-ethereum-122e1a33688d) _June 25, 2018 - Anna Rose_
+- [Designing for blockchain: what’s different and what’s at stake](https://media.consensys.net/designing-for-blockchain-whats-different-and-what-s-at-stake-b867eeade1c9) _March 22, 2018 - Sarah Baker Mills_
+
+**Rimble UI** **_- Adaptable components and design standards for decentralized applications._**
+
+- [rimble.consensys.design](https://rimble.consensys.design)
+- [GitHub](https://github.com/ConsenSys/rimble-ui)
+
+## Standards {#standards}
+
+The Ethereum community has adopted many standards that are helpful to developers. Typically these are introduced as [Ethereum Improvement Proposals](http://eips.ethereum.org/) (EIPs), which are discussed by community members through a [standard process](http://eips.ethereum.org/EIPS/eip-1).
+
+- [List of EIPs](http://eips.ethereum.org/)
+- [EIP github repo](https://github.com/ethereum/EIPs)
+- [EIP discussion board](https://ethereum-magicians.org/c/eips)
+- [Ethereum Governance Overview](https://blog.bmannconsulting.com/ethereum-governance/) _March 31, 2019 - Boris Mann_
+- [Playlist of all Ethereum Core Dev Meetings](https://www.youtube.com/playlist?list=PLaM7G4Llrb7zfMXCZVEXEABT8OSnd4-7w) _(YouTube Playlist)_
+
+Certain EIPs relate to application-level standards (e.g. a standard smart-contract format), which are introduced as [Ethereum Requests for Comment (ERC)](https://eips.ethereum.org/erc). Many ERCs are critical standards used widely across the Ethereum ecosystem.
+
+- [List of ERCs](http://eips.ethereum.org/erc)
+- [ERC20 - A standard interface for tokens](https://eips.ethereum.org/EIPS/eip-20)
+- [ERC721 - A standard interface for non-fungible tokens](https://eips.ethereum.org/EIPS/eip-721)
