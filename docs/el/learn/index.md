@@ -1,118 +1,118 @@
 ---
-title: Μάθηση
+title: Learn about Ethereum
 meta:
   - 
-    name: og:title
-    content: Μάθηση | Ethereum
+    name: description
+    content: A set of technical and non-technical articles, guides, and resources to learn about Ethereum.
   - 
     property: og:title
     content: Learn about Ethereum
   - 
     property: og:description
     content: A set of technical and non-technical articles, guides, and resources to learn about Ethereum.
-lang: el
+lang: en-US
 sidebar: auto
 sidebarDepth: 0
 ---
 
-# Μάθετε για το Ethereum {#learn-about-ethereum}
+# Learn about Ethereum {#learn-about-ethereum}
 
-**Καλώς ήρθατε στο [ethereum.org/el/learn ](/el/learn/), μια συλλογή πληροφοριών που θα σας βοηθήσουν να μάθετε περισσότερα για το Ethereum.** Αυτή η σελίδα περιλαμβάνει τεχνικά και μη τεχνικά άρθρα, οδηγούς και άλλα βοηθήματα. Εάν είστε εντελώς καινούργιοι στο Ethereum, [ προτείνουμε να ξεκινήσετε εδώ ](/el/beginners/).
+**Welcome to ethereum.org/learn, a set of resources to help you learn more about Ethereum.** This page includes technical **and** non-technical articles, guides, and resources. If you’re totally new to Ethereum, [we suggest you start here](/beginners/).
 
-Ακολουθούν μερικά εξαιρετικά κείμενα:
+Here are some excellent starting points:
 
 - [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo&feature=youtu.be) *Sep 18, 2017 - Vitalik Buterin (Video)*
+- [Why Decentralization Matters](https://medium.com/s/story/why-decentralization-matters-5e3f79f7638e) *Feb 18, 2018 - Chris Dixon*
 - [The Year in Ethereum](https://medium.com/@jjmstark/the-year-in-ethereum-87a17d6f8276) *Jan 16, 2019 - Josh Stark, Evan Van Ness, and Daniel Zakrisson*
 - [Ethereum is game-changing technology, literally](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8) *Mar 29, 2019 - Virgil Griffith*
-- [Ethereum is game-changing technology, literally](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8) *Mar 29, 2019 - Virgil Griffith*
 
-Εκτός από τις πληροφορίες αυτής της σελίδας, υπάρχουν πολλά ακόμη βοηθήματα δημιουργημένα από την κοινότητα του Ethereum που αξίζει να εξερευνήσετε:
+In addition to the information on this page, there are many community-built resources worth exploring:
 
-- [EthHub](https://docs.ethhub.io) *Πλήρης βάση γνώσεων για οτιδήποτε αφορά το Ethereum*
-- [District0x](https://education.district0x.io/general-topics/understanding-ethereum/) * Επιπλέον εκπαιδευτικό υλικό για το Ethereum που απευθύνεται σε αρχάριους*
-- [Ethereum.wiki](https://ethereum.wiki) *Ένα wiki που δημιουργήθηκε από την κοινότητα σχετικά με την τεχνολογία του Ethereum*
-- [Kauri](https://kauri.io) *Τεχνικά άρθρα και σεμινάρια για το Ethereum και σχετικά projects*
-- [Ethereum Foundation YouTube](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) *Βίντεο και συνομιλίες για το Ethereum*
-- [Week in Ethereum News](https://weekinethereumnews.com/) *Ένα εβδομαδιαίο ενημερωτικό δελτίο που καλύπτει τις βασικές εξελίξεις σε ολόκληρο το οικοσύστημα*
-- [What’s new in ETH 2.0](https://notes.ethereum.org/c/Sk8Zs--CQ) *Ένα τακτικό ενημερωτικό δελτίο για την ανάπτυξη του ETH 2.0*
-- [ETHGlobal](https://ethglobal.co) *Μία σειρά Ethereum hackathon - παρακολουθήστε ένα κοντά σας!*
+- [EthHub](https://docs.ethhub.io) *Comprehensive knowledge base for all things Ethereum*
+- [District0x](https://education.district0x.io/general-topics/understanding-ethereum/) *An educational resource about Ethereum targeted at beginners*
+- [Ethereum.wiki](https://ethereum.wiki) *A community-built wiki about Ethereum’s technology*
+- [Kauri](https://kauri.io) *Technical articles and tutorials for Ethereum and related projects*
+- [Ethereum Foundation YouTube](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) *Videos and talks about Ethereum*
+- [Week in Ethereum News](https://weekinethereumnews.com/) *A weekly newsletter covering key developments across the ecosystem*
+- [What’s new in ETH 2.0](https://notes.ethereum.org/c/Sk8Zs--CQ) *A regular newsletter about ETH 2.0 development*
+- [ethresear.ch forum](https://ethresear.ch/) *Deeper technical discussions on Ethereum for ETH 2.0 and beyond*
 - [ETHGlobal](https://ethglobal.co) *An Ethereum hackathon series - attend one near you!*
 
 
-## Τα βασικά του Ethereum {#ethereum-basics}
+## Ethereum basics {#ethereum-basics}
 
-Καινούργιοι στο Ethereum; Αυτά τα άρθρα και βοηθήματα είναι ένα καλό μέρος για να ξεκινήσετε.
+New to Ethereum? These articles and resources are a good place to get started.
 
 - [A Beginner’s Guide to Ethereum](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf) *Feb 23, 2017 - Linda Xie*
+- [Video: What is Ether and Ethereum?](https://www.youtube.com/watch?v=fjnovGRQrRE) *April 25, 2019 - CME Group*
 - [What is Ethereum?](https://education.district0x.io/general-topics/understanding-ethereum/what-is-ethereum/) *District0x*
-- [What is Ether?](https://docs.ethhub.io/ethereum-basics/what-is-ether/) *Ενημερώνεται συχνά - EthHub*
-- [The Case for Ethereum](http://blog.eladgil.com/2018/01/the-case-for-ethereum.html) *Jan 30, 2018 - Elad Gil*
-- [The Case for Ethereum](http://blog.eladgil.com/2018/01/the-case-for-ethereum.html) *Jan 30, 2018 - Elad Gil*
+- [What is Ether?](https://docs.ethhub.io/ethereum-basics/what-is-ether/) *Updated often - EthHub*
+- [Absolute Beginner Introduction to Ethereum](https://www.mewtopia.com/absolute-beginners-guide/) *July 23, 2019*
 - [The Case for Ethereum](http://blog.eladgil.com/2018/01/the-case-for-ethereum.html) *Jan 30, 2018 - Elad Gil*
 - [Blockchains: How they Work and Why they’ll Change the World](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world) *Sept 28, 2017 - Morgan Peck*
 
-## Πώς λειτουργεί το Ethereum {#how-ethereum-works}
-Επεξηγήσεις υψηλού επιπέδου σχετικά με την λειτουργία του Ethereum και την τεχνολογία blockchain γενικά.
+## How Ethereum works {#how-ethereum-works}
+High-level explanations of Ethereum and blockchain technology generally.
 - [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) *Sept 27, 2017 - Preethi Kasireddy*
 - [A Gentle Introduction to Ethereum](https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/) *Oct 2, 2016 - Antony Lewis*
-- [Introduction to Blockchain through Cryptoeconomics - Part 1](https://blockchainatberkeley.blog/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) *Jan 26, 2018 - Zubin Koticha*
+- [Introduction to Blockchain through Cryptoeconomics - Part 1](https://medium.com/blockchain-at-berkeley/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) *Jan 26, 2018 - Zubin Koticha*
 - [Introduction to Blockchain through Cryptoeconomics - Part 2](https://medium.com/mechanism-labs/introduction-to-bitcoin-through-cryptoeconomics-part-2-proof-of-work-and-nakamoto-consensus-1252f6a6c012) *July 19, 2018 - Zubin Koticha*
 
 
 ## Smart Contracts {#smart-contracts}
 
-Ένα "smart contract" είναι απλά ένα κομμάτι κώδικα που τρέχει στο Ethereum. Ονομάζεται "contract" επειδή ο κώδικας που τρέχει σε Ethereum μπορεί να ελέγξει πολύτιμα πράγματα όπως το ETH ή άλλα ψηφιακά στοιχεία.
+A “smart contract” is simply a piece of code that is running on Ethereum. It’s called a “contract” because code that runs on Ethereum can control valuable things like ETH or other digital assets.
 
 
-- Θέλετε να μάθετε πώς να προγραμματίζετε στο Ethereum με smart contracts; [ethereum.org/el/developers](/el/developers/)
+- Want to learn how to program on Ethereum with smart contracts? [ethereum.org/developers](/developers/)
 - [What is a Smart Contract?](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc#what-is-a-smart-contract) *Nov 12, 2018 - Andreas M. Antonopoulos, Gavin Wood*
 - [What are Smart Contracts/Decentralized Applications?](https://docs.ethhub.io/ethereum-basics/what-is-ethereum/#what-are-smart-contracts-and-decentralized-applications) *Updated often - Ethhub*
 
-## Απόδειξη της Εργασίας ("Proof of Work") και Εξόρυξη ("Mining") {#proof-of-work-and-mining}
+## Proof of Work and Mining {#proof-of-work-and-mining}
 
-Το Ethereum χρησιμοποιεί επί του παρόντος ένα σύστημα που ονομάζεται "Απόδειξη της Εργασίας". Αυτό επιτρέπει στο δίκτυο του Ethereum να συμφωνήσει για την κατάσταση όλων των πληροφοριών που καταγράφονται στο blockchain του Ethereum και ταυτόχρονα εμποδίζει οικονομικές επιθέσεις συγκεκριμένου τύπου.
+Ethereum currently uses a system called “Proof of Work”. This allows the Ethereum network to agree on the state of all information recorded on the Ethereum blockchain, and prevents certain kinds of economic attacks.
 
 
-- [What does it mean to mine Ethereum?](https://docs.ethhub.io/using-ethereum/mining/) *Ενημερώνεται συχνά - Ethhub*
+- [What does it mean to mine Ethereum?](https://docs.ethhub.io/using-ethereum/mining/) *Updated often - Ethhub*
 - [How Ethereum Mining Works](https://www.coindesk.com/information/ethereum-mining-works) *Coindesk*
 
-Στο ETH 2.0, το Ethereum θα μετακινηθεί σε ένα διαφορετικό σύστημα που ονομάζεται " Απόδειξη του Πονταρίσματος" (“Proof of Stake”). [Διαβάστε περισσότερα για το ETH 2.0 παρακάτω](./#eth-2-0).
+In ETH 2.0, Ethereum will be moving to a different system called “Proof of Stake”. [Read more about ETH 2.0 below](./#eth-2-0).
 
-## Πελάτες και κόμβοι {#clients-and-nodes}
-Το δίκτυο του Ethereum αποτελείται από πολλούς κόμβους, καθένας εκ των οποίων διαθέτει συμβατό λογισμικό πελάτη. Υπάρχουν δύο πελάτες που χρησιμοποιούνται από την πλειονότητα των κόμβων: [Geth](https://geth.ethereum.org/) (γραμμένος σε Go) και [Parity](https://www.parity.io/ethereum/) (γραμμένος σε Rust).
+## Clients and Nodes {#clients-and-nodes}
+The Ethereum network is made up of many nodes, each of which runs compatible client software. There are two clients that are used by a majority of nodes: [Geth](https://geth.ethereum.org/) (written in Go) and [Parity](https://www.parity.io/ethereum/) (written in Rust).
 
-- Θέλετε να μάθετε πώς να τρέχετε έναν δικό σας κόμβο; → [ethereum.org/el/developers](/el/developers/#clients-running-your-own-node)
-- [Πλήρης κατάλογος όλων των πελατών του Ethereum](https://github.com/ConsenSys/ethereum-developer-tools-list#ethereum-clients)
+- Want to learn how to run a node of your own? → [ethereum.org/developers](/developers/#clients-running-your-own-node)
+- [Comprehensive list of all Ethereum clients](https://github.com/ConsenSys/ethereum-developer-tools-list#ethereum-clients)
 
 ## Enterprise Ethereum {#enterprise-ethereum}
 
-Υπάρχουν πολλές προσπάθειες σε εξέλιξη για να καταστεί το Ethereum πιο "κλιμακούμενο" βελτιώνοντας την ταχύτητα και τη συνολική απόδοση συναλλαγών. Γενικά, αυτές ταξινομούνται σε λύσεις "Layer 1" και "Layer 2".
+Enterprise Ethereum refers to private, consortium, and hybrid implementations of the Ethereum codebase for business applications. Companies across the globe are already using Enterprise Ethereum to streamline financial markets, manage supply chains, and create new business models.
 
-Το "Layer 1" αναφέρεται στη βελτίωση του βασικού πρωτοκόλλου του Ethereum. Το κύριο έργο για τη βελτίωση του βασικού πρωτοκόλλου του Ethereum είναι το [ ETH 2.0 ](./#eth-2-0).
+Read more about [Enterprise Ethereum](/enterprise).
 
 
 ## Improving Ethereum’s Scalability {#improving-ethereums-scalability}
 
-Το "Layer 2" αναφέρεται σε τεχνολογίες που χτίζονται πάνω στο βασικό πρωτόκολλο του Ethereum, επιτρέποντας μεγαλύτερη κλιμάκωση χωρίς να διακυβεύεται η ασφάλεια. Υπάρχουν επίσης τεχνολογίες εκτός αλυσίδας, όπως οι πλευρικές αλυσίδες, οι οποίες επιτρέπουν μεγαλύτερη κλιμάκωση, αποδεχόμενες όμως ένα διαφορετικό επίπεδο ασφαλείας.
+There are many efforts underway to make Ethereum more “scalable” by improving its speed and overall transaction throughput. Generally these are sorted into “Layer 1” and “Layer 2” solutions.
 
-Το ETH 2.0 (επίσης γνωστό και ως "Serenity") αναφέρεται στην επόμενη σημαντική αναβάθμιση του βασικού πρωτοκόλλου του Ethereum. Συνδυάζει αρκετές βελτιώσεις στο βασικό πρωτόκολλο του Ethereum ("Layer 1").
+“Layer 1” refers to improving the core Ethereum protocol. The primary project to improve Ethereum’s core protocol is [ETH 2.0](./#eth-2-0).
 
-Το ETH 1.x είναι το όνομα ενός συνόλου αναβαθμίσεων στο υπάρχον πρωτόκολλο του Ethereum. Ο στόχος είναι να συνεχίσει να βελτιώνεται και να διατηρείται το Ethereum όσο το ETH 2.0 αναπτύσσεται και υλοποιείται.
+“Layer 2” refers to technologies that are built “on top” of the base Ethereum protocol, enabling greater scalability without compromising on security. There are also “off-chain” technologies like side-chains, which enable greater scalability by making a different set of security tradeoffs.
 
 - [Making Sense of Layer 2](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) *Feb 12, 2018 - Josh Stark*
 - [The Case for Ethereum Scalability](https://medium.com/connext/the-case-for-ethereum-scalability-d2a8035f880f) *Jan 18, 2019 - Hunter Hillman, Steven McKie, and Eric Olszewski*
 - [5 Ways to Scale your Ethereum Dapp](https://kauri.io/article/7ccaaa2fe7f344d5bf53807cb5c01530) *Apr 23, 2019 - Andreas Wallendahl*
 
 
-### Κανάλια Πληρωμής & Κατάστασης {#payment--state-channels}
+### Payment & State Channels {#payment--state-channels}
 - [State Channels - an explanation](https://www.jeffcoleman.ca/state-channels/) *Nov 6, 2015 - Jeff Coleman*
 - [Basics of State Channels](https://education.district0x.io/general-topics/understanding-ethereum/basics-state-channels/) *District0x*
-- [State Channels](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/state-channels/) *Ενημερώνεται συχνά - EthHub*
+- [State Channels](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/state-channels/) *Updated often - EthHub*
 
-### Πλευρικές αλυσίδες {#sidechains}
+### Sidechains {#sidechains}
 - [Scaling Ethereum Dapps through Sidechains](https://medium.com/loom-network/dappchains-scaling-ethereum-dapps-through-sidechains-f99e51fff447) *Feb 8, 2018 - Georgios Konstantopoulos*
 
-### Πλάσμα {#plasma}
+### Plasma {#plasma}
 - [Understanding Plasma, Part 1: The Basics](https://www.theblockcrypto.com/2019/02/07/understanding-plasma-part-1-the-basics/) *Feb 7, 2019 - Daniel Goldman*
 - [Understanding Plasma](https://education.district0x.io/general-topics/understanding-ethereum/understanding-plasma/) *District0x*
 - [Learn Plasma - A learning resource for the Plasma framework](https://www.learnplasma.org/en/)
@@ -120,12 +120,12 @@ sidebarDepth: 0
 
 ## ETH 2.0 {#eth-2-0}
 
-Για περισσότερες πληροφορίες, ανατρέξτε στη [ σελίδα εξήγησης του EthHub σχετικά με το ETH 1.x ](https://docs.ethhub.io/ethereum-roadmap/ethereum-1.x/)
+ETH 2.0 (also known as “Serenity”) refers to the next major upgrade of the core Ethereum protocol. It combines several improvements to Ethereum’s core protocol, or “Layer 1”.
 
-- [ETH 2.0 Roadmap and Phases](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/) *Ενημερώνεται συχνά - EthHub*
+- [ETH 2.0 Roadmap and Phases](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/) *Updated often - EthHub*
 - [8 Teams Are Sprinting to Build the Next Generation of Ethereum](https://www.coindesk.com/next-gen-buidlers-the-8-teams-working-on-ethereum-2-0) *Dec 9, 2018 - Christine Kim*
-- [Proof of Stake](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/) *Ενημερώνεται συχνά- EthHub*
-- [Sharding](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/sharding/) *Ενημερώνεται συχνά - EthHub*
+- [Proof of Stake](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/) *Updated often - EthHub*
+- [Sharding](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/sharding/) *Updated often - EthHub*
 - [ETH 2.0 - The Road to Scaling Ethereum - Vitalik Buterin](https://youtu.be/kCVpDrlVesA) *(Video) November, 2018 - YouTube*
 - [ETH 2.0 Researchers AMA Part 1](https://docs.ethhub.io/other/ethereum-2.0-ama/#part-1) *Jan 24, 2019 - EthHub*
 - [ETH 2.0 Researchers AMA Part 2](https://docs.ethhub.io/other/ethereum-2.0-ama/#part-2) *Jul 15, 2019 - EthHub*
@@ -134,9 +134,9 @@ sidebarDepth: 0
 
 ## ETH 1.x {#eth-1x}
 
-Τα "κρυπτοοικονομικά" είναι η πρακτική επιστήμη της δημιουργίας κατανεμημένων συστημάτων, όπου οι ιδιότητες αυτών των συστημάτων εξασφαλίζονται με οικονομικά κίνητρα και όπου οι οικονομικοί μηχανισμοί είναι εγγυημένοι από την κρυπτογράφηση. Είναι ο γενικός όρος για την πρακτική του σχεδιασμού και κλιμάκωσης blockchains όπως το Ethereum και το Bitcoin.
+ETH 1.x is the name for a collection of upgrades to the existing Ethereum protocol. The goal is to continue to improve and maintain Ethereum while ETH 2.0 is developed and implemented.
 
-Κριτικές απόψεις για το Ethereum και τα Κρυπτονομίσματα.
+For more information, see [EthHub’s explainer page about ETH 1.x](https://docs.ethhub.io/ethereum-roadmap/ethereum-1.x/)
 
 ## Cryptoeconomics {#cryptoeconomics}
 
