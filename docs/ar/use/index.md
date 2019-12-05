@@ -1,64 +1,65 @@
 ---
-title: استخدام إيثريوم
+title: Use Ethereum
 meta:
-  - name: description
-    content: المعلومات الأساسية التي تحتاجها للبدء في استخدام إيثريوم
-  - property: og:title
-    content: المعلومات الأساسية التي تحتاجها للبدء في استخدام إيثريوم
-  - property: og:description
-    content: المعلومات الأساسية التي تحتاجها للبدء في استخدام إيثريوم
-lang: ar
+  - 
+    name: description
+    content: The basic information you need to get started using Ethereum.
+  - 
+    property: og:title
+    content: Use Ethereum
+  - 
+    property: og:description
+    content: The basic information you need to get started using Ethereum.
+lang: en-US
 ---
 
-<div dir=rtl markdown=1>
+# Using Ethereum {#using-ethereum}
 
 <div class="featured">
 
-**هل تريد البدء باستخدام إيثريوم؟** ستزودك هذه الصفحة بالمعلومات الأساسية التي تحتاجها.
+**Want to get started using Ethereum?** This page will give you the basic information you need.
 
-1. [استخدام تطبيق مبني على إيثريوم](#1-use-an-application-built-on-ethereum)
-2. [ما هو ETH، وكيف أحصل عليه؟](#2-what-is-eth-and-how-do-i-get-it)
-3. [ما هي المحفظة، وأي منها ينبغي علي استخدامها؟](#3-what-is-a-wallet-and-which-one-should-i-use)
+1. [Use an application built on Ethereum](#1-use-an-application-built-on-ethereum)
+2. [What is ETH, and how do I get it?](#2-what-is-eth-and-how-do-i-get-it)
+3. [What is a wallet, and which one should I use?](#3-what-is-a-wallet-and-which-one-should-i-use)
 
 </div>
 
-## ١. استخدام تطبيق مبني على إيثريوم {#1-use-an-application-built-on-ethereum}
+## 1. Use an application built on ethereum {#1-use-an-application-built-on-ethereum}
 
-أفضل طريقة للبدء في استخدام إيثريوم هي البدء مباشرة! هناك العديد من التطبيقات القائمة على إيثريوم التي يمكنك استخدامها اليوم.
+The best way to get started with Ethereum is to jump right in! There are many Ethereum-based applications that you can use today.
+
+Here are just a few apps built on Ethereum - we rotate this list frequently!
+
 <RandomAppList />
-فيما يلي بعض التطبيقات المبنية على إيثريوم - نبدل عناصر هذه القائمة بشكل متكرر!
 
-- [Gitcoin](https://gitcoin.co), وهي شبكة من مطوري المصادر المفتوحة المحفزين
-- [Cent](https://beta.cent.co),شبكة اجتماعية حيث تكسب المال عن طريق النشر
-- [CryptoKitties](https://www.cryptokitties.co), منصة تداول تتيح لك وضع رهانات على أحداث العالم الواقعي
-- [DAI](https://makerdao.com/en/), عملة مشفرة ذات سعر ثابت 1 دولار أمريكي
+Some of these applications might require a wallet - [see the section below for more information.](./#3-what-is-a-wallet-and-which-one-should-i-use)
 
-بعض هذه التطبيقات يتطلب وجود محفظة
-
-- [راجع القسم أدناه لمزيد من المعلومات.](#3-what-is-a-wallet-and-which-one-should-i-use)
+Interested in looking at more applications built on Ethereum?
 
 - [Built on Ethereum](https://docs.ethhub.io/built-on-ethereum/built-on-ethereum/) _Updated often - EthHub_
-- [40 Ethereum Apps You Can Use Right Now](https://media.consensys.net/40-ethereum-apps-you-can-use-right-now-d643333769f7) _Aug 15, 2018 - ConsenSys_
+- [90+ Ethereum Apps You Can Use Right Now](https://media.consensys.net/40-ethereum-apps-you-can-use-right-now-d643333769f7) _April 24, 2019 - ConsenSys_
 - [Ethereum Dapps](https://www.stateofthedapps.com/rankings/platform/ethereum) _Updated often - State of the Dapps_
 - [Ethereum DeFi Ecosystem](https://defiprime.com/ethereum) _Updated often - Defiprime_
 - [DeFi Pulse](https://defipulse.com/) _Analytics + rankings of DeFi protocols - Defi Pulse_
 
-## ٢. ما ETH، وكيف أحصل عليها؟ {#2-what-is-eth-and-how-do-i-get-it}
+## 2. What is ETH, and how do I get it? {#2-what-is-eth-and-how-do-i-get-it}
 
-ETH هي عملة إيثريوم الأصلية. وهى "نقود رقمية" يمكن إرسالها عبر الإنترنت على الفور وبتكلفة منخفضة، كما يمكن استخدامها في العديد من التطبيقات القائمة على إيثريوم مثل تلك المذكورة أعلاه.
+ETH is Ethereum's native currency. It is "digital money" that can be sent over the internet instantly and cheaply, and also be used in many Ethereum-based applications like the ones above.
 
-أسهل طريقة للحصول على ETH هي الشراء. هناك العديد من عمليات تبادل العملة المشفرة التي تتيح لك شراء ETH، ولكن ستعتمد العملة التي ستستخدمها على مكان إقامتك وكيف تريد الدفع.
-لمزيد من المعلومات حول كيفية شراء ETH، راجع هذه الأدلة:
+The easiest way to get ETH is to buy some. There are many cryptocurrency exchanges that will allow you to buy ETH, but the one you should use will depend on where you live and how you want to pay.
+
+For more information on how to buy ETH check out these guides:
 
 - [How to buy Ether (ETH)](https://support.mycrypto.com/how-to/getting-started/how-to-buy-ether-with-usd) _Updated often - MyCrypto_
 - [How to Buy Ether](https://docs.ethhub.io/using-ethereum/how-to-buy-ether/) _Updated often - EthHub_
 - [Ethereum, a Digital Currency](https://www.cryptokitties.co/faq#ethereum-a-digital-currency) _CryptoKitties_
 
-## ٣. ما المحفظة، وأي منها ينبغي علي استخدامها؟? {#3-what-is-a-wallet-and-which-one-should-i-use}
+## 3. What is a wallet, and which one should I use? {#3-what-is-a-wallet-and-which-one-should-i-use}
 
-أسهل طريقة للحصول على ETH هي الشراء. هناك العديد من عمليات تبادل العملة المشفرة التي تتيح لك شراء ETH، ولكن ستعتمد العملة التي ستستخدمها على مكان إقامتك وكيف تريد الدفع.
+Wallets are applications that make it easy to hold and send ETH, as well as interact with applications built on Ethereum.
 
-هل تريد تثبيت محفظة؟
+Want to install a wallet?
 
 - [MetaMask](https://metamask.io) _browser extension for Chrome, Brave, Firefox and Opera_
 - [Opera](https://www.opera.com/crypto) _major browser with Ethereum integration_
@@ -66,17 +67,15 @@ ETH هي عملة إيثريوم الأصلية. وهى "نقود رقمية" ي
 - [TrustWallet](https://trustwallet.com/) _Ethereum compatible wallet for iOS and Android_
 - [MyEtherWallet](https://www.myetherwallet.com/) _client side Ethereum wallet_
 
-هل تريد معرفة المزيد عن محافظ إيثريوم
+Want to learn more about Ethereum wallets?
 
 - [Intro to Ethereum Wallets](https://docs.ethhub.io/using-ethereum/wallets/intro-to-ethereum-wallets/) _Updated often - EthHub_
 - [Absolute Beginner Introduction to Ethereum: The Full Download](https://www.mewtopia.com/absolute-beginners-guide/) _July 23, 2019 - MyEtherWallet_
 - [Best Ethereum Wallets 2019: Hardware vs. Software vs. Paper](https://blockonomi.com/best-ethereum-wallets/) _Dec 15, 2018 - Blockonomi_
 
-هل تريد معرفة المزيد حول تخزين الأموال بشكل آمن وإدارة المفاتيح الخاصة؟
+Want to learn more about securely storing funds and managing private keys?
 
 - [Protecting Yourself and Your Funds](https://support.mycrypto.com/staying-safe/protecting-yourself-and-your-funds) _Updated often - MyCrypto_
 - [The keys to keeping your crypto safe](https://blog.coinbase.com/the-keys-to-keeping-your-crypto-safe-96d497cce6cf) _Jan 16, 2019 - Coinbase blog_
 - [How to Store Digital Assets on Ethereum](https://media.consensys.net/how-to-store-digital-assets-on-ethereum-a2bfdcf66bd0) _May 30, 2018 - ConsenSys_
 - [Do you really need a hardware wallet?](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-1-do-you-really-need-a-hardware-wallet-7f5abbadd945) _Sep 24, 2018 - Ledger_
-
-</div>
