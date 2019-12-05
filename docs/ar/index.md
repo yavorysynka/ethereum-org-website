@@ -1,16 +1,16 @@
 ---
-title: Home
+title: الصفحة الرئيسية
 meta:
   - 
     name: description
-    content: Ethereum is a global, decentralized platform for money and new kinds of applications. On Ethereum, you can write code that controls money, and build applications accessible anywhere in the world.
+    content: إيثريوم منصة عالميه مفتوحة المصدر للتطبيقات اللامركزية. عبر إيثريوم يمكنك كتابة أكواد تتحكم بالقيمة الرقمية، ويتم تنفيذها تمامًا على النحو الذي تمت برمجتها به، ويمكن الوصول لها من أي مكان بالعالم.
   - 
     property: og:title
-    content: Home | Ethereum
+    content: إيثريوم | ethereum
   - 
     property: og:description
-    content: Ethereum is a global, decentralized platform for money and new kinds of applications. On Ethereum, you can write code that controls money, and build applications accessible anywhere in the world.
-lang: en-US
+    content: إيثريوم منصة عالميه مفتوحة المصدر للتطبيقات اللامركزية. عبر إيثريوم يمكنك كتابة أكواد تتحكم بالقيمة الرقمية، ويتم تنفيذها تمامًا على النحو الذي تمت برمجتها به، ويمكن الوصول لها من أي مكان بالعالم.
+lang: ar
 layout: home
 ---
 
