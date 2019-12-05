@@ -1,63 +1,58 @@
 ---
-title: المبتدئون
+title: What is Ethereum?
 meta:
-  - name: description
-    content: توضیحات٫ مراجع و برنامه هایی که برای کاربرهای جدید اتریوم.
-  - property: og:title
-    content: المبتدئون
-  - property: og:description
-    content: توضیحات٫ مراجع و برنامه هایی که برای کاربرهای جدید اتریوم.
-lang: ar
+  - 
+    name: description
+    content: Guides, resources, and tools for users completely new to Ethereum.
+  - 
+    property: og:title
+    content: What is Ethereum?
+  - 
+    property: og:description
+    content: Guides, resources, and tools for users completely new to Ethereum.
+lang: en-US
 ---
 
-<div dir=rtl markdown=1>
+# What is Ethereum? {#what-is-ethereum}
 
-# 👋 مرحباً! {#-welcome}
+New to Ethereum? You’re in the right place. Let’s start with the big picture.
 
-هل أنت جديد في إيثريوم؟ إذن أنت في المكان الصحيح. لنبدأ بنظرة شاملة عنه.
+**Ethereum is the foundation for a new era of the internet:**
 
-**يعتبر إيثريوم هو الأساس لعصر جديد من الإنترنت:**
+- An internet where money and payments are built in.
+- An internet where users can own their data, and your apps don’t spy and steal from you.
+- An internet where everyone has access to an open financial system.
+- An internet built on neutral, open-access infrastructure, controlled by no company or person.
 
-- الإنترنت حيث يتضمن النقود والمدفوعات.
-- الإنترنت حيث يمتلك المستخدمون بياناتهم, وتطبيقاتك لا تتجسس عليك أو تسرق منك.
-- الإنترنت حيث يمكن للجميع الوصول إلى نظام مالي مفتوح.
-- الإنترنت القائم على بنية تحتية محايدة متاحة الوصول، لا تتحكم فيها أي شركة أو شخص.
+**Launched in 2015, Ethereum is the world’s leading programmable blockchain.**
 
-**تم إطلاق إيثريم في عام 2015، ويعد سلسة الكُتل الرائدة عالميًا.**
+**Like other blockchains, Ethereum has a native cryptocurrency called Ether (ETH).** ETH is digital money. If you’ve heard of [Bitcoin](http://bitcoin.org/), ETH has many of the same features. It is purely digital, and can be sent to anyone anywhere in the world instantly. The supply of ETH isn’t controlled by any government or company - it is decentralized, and it is scarce. People all over the world use ETH to make payments, as a store of value, or as collateral.
 
-**كغيرها من سلاسل الكُتل، فإن إيثريوم لديها عملة مشفرة أصلية تسمى إيثر(Ether (ETH إيثر.** ETH هي نقود رقمية.
-إذا سمعت عن [بیت کوین](http://bitcoin.org) ، فإن ETH تتميز بالعديد من الميزات نفسها. إنها رقمية بشكل كامل، ويمكن إرسالها إلى أي شخص في أي مكان في العالم على الفور. لا يتم التحكم في إمدادات ETH من قبل أي حكومة أو شركة - إنها لا مركزية، و نادرة. يستخدم الناس في جميع أنحاء العالم ETH لإجراء المدفوعات، أو كحفظ للقيمة، أو كضمان.
+**But unlike other blockchains, Ethereum can do much more.** Ethereum is programmable, which means that developers can use it to [build new kinds of applications](/use/#1-use-an-application-built-on-ethereum).
 
-**ولكن على عكس سلاسل الكُتل الأخرى، يمكن لإيثريوم عمل الكثير.** إيثريوم قابلة للبرمجة، مما يعني أنه يمكن للمطورين استخدامها [لإنشاء أنواع جديدة من التطبيقات](/ar/use/#1-use-an-application-built-on-ethereum) .
+These decentralized applications (or “dapps”) gain the benefits of cryptocurrency and blockchain technology. They can be trustworthy, meaning that once they are “uploaded” to Ethereum, they will always run as programmed. They can control digital assets in order to create new kinds of financial applications. They can be decentralized, meaning that no single entity or person controls them.
 
-تكتسب هذه التطبيقات اللامركزية (أو "dapps") فوائد تقنية من العملات الرقمية و سلاسل الكُتل. يمكن أن تكون جديرة بالثقة، مما يعني أنه بمجرد "تحميلها" إلى إيثريوم، فإنها ستعمل دائمًا كما تم برمجتها. يمكنهم التحكم في الأصول الرقمية من أجل إنشاء أنواع جديدة من التطبيقات المالية. يمكن أن تكون لا مركزية، مما يعني أنه لا يوجد كيان أو شخص واحد يتحكم فيها.
+**Right now, thousands of developers all over the world are building applications on Ethereum, and inventing new kinds of applications, many of which you can use today:**
 
-**في الوقت الحالي، يقوم الآلاف من المطورين في جميع أنحاء العالم بإنشاء تطبيقات على إيثريوم، ويقومون بابتكار أنواع جديدة من التطبيقات، يمكنك استخدام الكثير منها اليوم:**
+- [**Cryptocurrency wallets**](/use/#3-what-is-a-wallet-and-which-one-should-i-use) that let you make cheap, instant payments with ETH or other assets
+- **Financial applications** that let you borrow, lend, or invest your digital assets
+- **Decentralized markets**, that let you trade digital assets, or even trade “predictions” about events in the real world
+- **Games** where you own in-game assets, and can even make real money
+- **And much,** much more.
 
-- [**محافظ عملات مشفرة**](/ar/use/#3-what-is-a-wallet-and-which-one-should-i-use)، تتيح لك إجراء مدفوعات فورية رخيصة باستخدام ETH أو الأصول الأخرى
-- **التطبيقات المالية**، التي تتيح لك استعارة أصولك الرقمية أو إقراضها أو استثمارها
-- **أسواق لامركزية**،تتيح لك تداول الأصول الرقمية، أو حتى تبادل "التوقعات" حول الأحداث في العالم الحقيقي
-- **الألعاب** والتي تمتلك فيها أصولًا داخل اللعبة، ويمكنك حتى كسب أموال حقيقية
-- **والكثير**، جدًا.
+**The Ethereum community is the largest and most active blockchain community in the world.** It includes core protocol developers, cryptoeconomic researchers, cypherpunks, mining organizations, ETH holders, app developers, ordinary users, anarchists, fortune 500 companies, and, as of now, **you**.
 
-**مجتمع إيثريوم هو مجتمع سلاسل الكُتل الأكبر والأكثر نشاطًا في العالم**
-ويشمل مطورو البروتوكول الأساسي، والباحثين في مجال الاقتصاديات المشفرة، وCypherpunks ، ومؤسسات التعدين، وحاملي ETH، ومطوري التطبيقات، والمستخدمين العاديين، والأناركيين، وقائمة فورتشين 500، وفي الوقت الحالي،
-**أنت**.
+**There is no company or centralized organization that controls Ethereum.** Ethereum is maintained and improved over time by a diverse global community of contributors who work on everything from the core protocol to consumer applications. This website, just like the rest of Ethereum, was built - and continues to be built - by a collection of people working together.
 
-**لا توجد شركة أو مؤسسة مركزية تسيطر على إيثريوم.** يتم الحفاظ على إيثريوم وتحسينه بمرور الوقت من قبل مجتمع عالمي متنوع من المساهمين الذين يعملون على كل شيء من البروتوكول الأساسي إلى تطبيقات المستهلك. تم بناء هذا الموقع، تمامًا مثل بقية إيثريوم، تم بناؤه - ومازال - بواسطة مجموعة من الأشخاص الذين يعملون معًا.
+**Welcome to Ethereum.**
 
-**مرحبا بك في إيثريوم.**
+**Not sure where to go next?**
 
-**لست متأكد من أين تبدأ؟**
+- Want to get started using Ethereum? [ethereum.org/use](/use/)
+- Curious to learn more about Ethereum and its technology? [ethereum.org/learn](/learn/)
+- Are you a developer interested in building on ethereum? [ethereum.org/developers](/developers/)
 
-- هل تريد البدء باستخدام إيثريوم؟
-  [اﻻستخدام](/ar/use/)
-- هل ترغب في معرفة المزيد عن إيثريوم وتقنيتها؟
-  [تعلّم](/ar/learn/)
-- هل أنت مطور مهتم بالبناء على إيثريوم؟
-  [المطورين](/ar/developers/)
-
-**تبحث عن المزيد من الموارد للمبتدئين حول إيثريوم؟**
+**Looking for more beginner resources about Ethereum?**
 
 [Decentralized Everything with Vitalik Buterin](https://youtu.be/WSN5BaCzsbo)
 
@@ -77,4 +72,3 @@ lang: ar
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WfULutvxvzY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-</div>
