@@ -1,16 +1,16 @@
 ---
-title: استخدام إيثريوم
+title: Use Ethereum
 meta:
   - 
     name: description
-    content: المعلومات الأساسية التي تحتاجها للبدء في استخدام إيثريوم
+    content: The basic information you need to get started using Ethereum.
   - 
     property: og:title
-    content: المعلومات الأساسية التي تحتاجها للبدء في استخدام إيثريوم
+    content: Use Ethereum
   - 
     property: og:description
-    content: المعلومات الأساسية التي تحتاجها للبدء في استخدام إيثريوم
-lang: ar
+    content: The basic information you need to get started using Ethereum.
+lang: en-US
 ---
 
 # Using Ethereum {#using-ethereum}
