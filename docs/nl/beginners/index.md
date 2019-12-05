@@ -1,72 +1,72 @@
 ---
-title: What is Ethereum?
+title: Beginners
 meta:
   - 
-    name: description
-    content: Guides, resources, and tools for users completely new to Ethereum.
+    name: og:title
+    content: Beginners | Ethereum
   - 
     property: og:title
     content: What is Ethereum?
   - 
     property: og:description
     content: Guides, resources, and tools for users completely new to Ethereum.
-lang: en-US
+lang: nl
 ---
 
 # What is Ethereum? {#what-is-ethereum}
 
-New to Ethereum? You’re in the right place. Let’s start with the big picture.
+Nieuw bij Ethereum? Je bent hier aan het juiste adres. Laten we beginnen met het grote plaatje.
 
-**Ethereum is the foundation for a new era of the internet:**
+**Ethereum is de basis voor een nieuw tijdperk van het internet:**
 
-- An internet where money and payments are built in.
-- An internet where users can own their data, and your apps don’t spy and steal from you.
-- An internet where everyone has access to an open financial system.
-- An internet built on neutral, open-access infrastructure, controlled by no company or person.
+- Een internet waar geld en betalingen zijn ingebouwd.
+- Een internet waar gebruikers hun eigen gegevens kunnen bezitten, en apps je niet afluisteren of je bestelen.
+- Een internet waar iedereen toegang heeft tot een open financieel systeem.
+- Een internet gebouwd op neutrale, open-access infrastructuur, dat niet beheerd wordt door één enkel bedrijf of persoon.
 
-**Launched in 2015, Ethereum is the world’s leading programmable blockchain.**
+**Ethereum is begonnen in 2015 en nu de toonaangevende programmeerbare blockchain van de wereld.**
 
-**Like other blockchains, Ethereum has a native cryptocurrency called Ether (ETH).** ETH is digital money. If you’ve heard of [Bitcoin](http://bitcoin.org/), ETH has many of the same features. It is purely digital, and can be sent to anyone anywhere in the world instantly. The supply of ETH isn’t controlled by any government or company - it is decentralized, and it is scarce. People all over the world use ETH to make payments, as a store of value, or as collateral.
+**Zoals andere blockchains heeft Ethereum een eigen cryptovaluta genaamd Ether (ETH).** ETH is digitaal geld. Als je van [Bitcoin](http://bitcoin.org/) hebt gehoord: ETH heeft veel dezelfde functies. Het is puur digitaal en kan onmiddellijk naar iedereen ter wereld worden gestuurd. Het aanbod van ETH wordt niet beheerd door een regering of een bedrijf: het is gedecentraliseerd en het is schaars. Mensen overal ter wereld gebruiken ETH om betalingen te doen, als waardeopslag, of als onderpand.
 
-**But unlike other blockchains, Ethereum can do much more.** Ethereum is programmable, which means that developers can use it to [build new kinds of applications](/use/#1-use-an-application-built-on-ethereum).
+**Maar anders dan andere blockchains kan Ethereum veel meer doen.** Ethereum is programmeerbaar, wat betekent dat ontwikkelaars het kunnen gebruiken om [nieuwe soorten toepassingen te bouwen](/nl/use/#1-use-an-application-built-on-ethereum).
 
-These decentralized applications (or “dapps”) gain the benefits of cryptocurrency and blockchain technology. They can be trustworthy, meaning that once they are “uploaded” to Ethereum, they will always run as programmed. They can control digital assets in order to create new kinds of financial applications. They can be decentralized, meaning that no single entity or person controls them.
+Deze gedecentraliseerde toepassingen (of ‘dapps’) hebben de voordelen van cryptocurrency en blockchaintechnologie. Ze kunnen betrouwbaar zijn, wat betekent dat ze, zodra ze zijn 'geüpload' naar Ethereum, altijd zullen werken zoals bedoeld. Ze kunnen digitale activa beheren om nieuwe soorten financiële toepassingen te creëren. Ze kunnen gedecentraliseerd worden, wat betekent dat geen enkele entiteit of persoon ze aanstuurt.
 
-**Right now, thousands of developers all over the world are building applications on Ethereum, and inventing new kinds of applications, many of which you can use today:**
+**Op dit moment bouwen duizenden ontwikkelaars overal ter wereld toepassingen op Ethereum en vinden nieuwe toepassingen uit, waarvan velen nu al gebruikt kunnen worden:**
 
-- [**Cryptocurrency wallets**](/use/#3-what-is-a-wallet-and-which-one-should-i-use) that let you make cheap, instant payments with ETH or other assets
-- **Financial applications** that let you borrow, lend, or invest your digital assets
-- **Decentralized markets**, that let you trade digital assets, or even trade “predictions” about events in the real world
-- **Games** where you own in-game assets, and can even make real money
-- **And much,** much more.
+- [**Cryptocurrency portemonnees ('wallets')**](/nl/use/#3-what-is-a-wallet-and-which-one-should-i-use) waarmee je goedkope, onmiddelijke betalingen met ETH of andere activa kunt doen
+- **Financiële toepassingen** waarmee je digitale activa kunt lenen, uitlenen of investeren
+- **Gedecentraliseerde markten**, waar je digitale activa kunt verhandelen, of zelfs 'voorspellingen' over gebeurtenissen in de echte wereld kunt verhandelen
+- **Games** waarin je in-game activa bezit, en je zelfs echt geld kunt verdienen
+- **En nog veel,** veel meer.
 
-**The Ethereum community is the largest and most active blockchain community in the world.** It includes core protocol developers, cryptoeconomic researchers, cypherpunks, mining organizations, ETH holders, app developers, ordinary users, anarchists, fortune 500 companies, and, as of now, **you**.
+**De Ethereum community is de grootste en meest actieve blockchaincommunity ter wereld.** Het omvat hoofdprotocolontwikkelaars, crypto-economische onderzoekers, cypherpunks, mijnorganisaties, ETH-houders, app-ontwikkelaars, gewone gebruikers, anarchisten, Fortune 500-bedrijven en, vanaf nu, **jou**.
 
-**There is no company or centralized organization that controls Ethereum.** Ethereum is maintained and improved over time by a diverse global community of contributors who work on everything from the core protocol to consumer applications. This website, just like the rest of Ethereum, was built - and continues to be built - by a collection of people working together.
+**Er is geen bedrijf of gecentraliseerde organisatie die Ethereum bestuurt.** Ethereum wordt onderhouden en verbeterd door een diverse wereldwijde gemeenschap van bijdragers die werken aan alles, van het protocol tot consumententoepassingen. Net als de rest van Ethereum is deze website gebouwd (en wordt deze nog steeds gebouwd) door een verzameling mensen die samenwerken.
 
-**Welcome to Ethereum.**
+**Welkom bij Ethereum.**
 
-**Not sure where to go next?**
+**Weet je niet waar je moet beginnen?**
 
-- Want to get started using Ethereum? [ethereum.org/use](/use/)
-- Curious to learn more about Ethereum and its technology? [ethereum.org/learn](/learn/)
-- Are you a developer interested in building on ethereum? [ethereum.org/developers](/developers/)
+- Wil je voor de eerste keer Ethereum gaan gebruiken? [ethereum.org/nl/use](/nl/use/)
+- Meer informatie over Ethereum en de technologie erachter? [ethereum.org/nl/learn](/nl/learn/)
+- Bent je als ontwikkelaar geïnteresseerd in het bouwen op Ethereum? [ethereum.org/nl/developers](/nl/developers/)
 
-**Looking for more beginner resources about Ethereum?**
+**Op zoek naar meer beginnersinformatie over Ethereum?**
 
-[Decentralized Everything with Vitalik Buterin](https://youtu.be/WSN5BaCzsbo)
+[Decentralized Everything met Vitalik Buterin](https://youtu.be/WSN5BaCzsbo)
 
 <div class="iframe-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WSN5BaCzsbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Ben Horowitz explains the road ahead for blockchain](https://www.youtube.com/watch?v=l9jvKWKmRfs&feature=youtu.be)
+[Ben Horowitz legt de toekomst van blockchain uit](https://www.youtube.com/watch?v=l9jvKWKmRfs&feature=youtu.be)
 
 <div class="iframe-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/l9jvKWKmRfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Ethereum’s Blockchain by TechCrunch](https://www.youtube.com/watch?v=WfULutvxvzY)
+[Ethereum's Blockchain door TechCrunch](https://www.youtube.com/watch?v=WfULutvxvzY)
 
 <div class="iframe-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WfULutvxvzY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
