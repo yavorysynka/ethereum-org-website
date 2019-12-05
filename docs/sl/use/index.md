@@ -1,69 +1,81 @@
 ---
-title: Uporaba
+title: Use Ethereum
 meta:
-  - property: og:title
-    content: Uporaba | Ethereum
-lang: sl
+  - 
+    name: description
+    content: The basic information you need to get started using Ethereum.
+  - 
+    property: og:title
+    content: Use Ethereum
+  - 
+    property: og:description
+    content: The basic information you need to get started using Ethereum.
+lang: en-US
 ---
 
-# Uporaba Ethereuma {#using-ethereum}
+# Using Ethereum {#using-ethereum}
 
 <div class="featured">
 
-**Ali želite začeti uporabljati Ethereum?** Na tej strani so osnovne informacije, ki jih potrebujete.
+**Want to get started using Ethereum?** This page will give you the basic information you need.
 
-1. [Uporaba aplikacije, zgrajene na Ethereumu](#1-use-an-application-built-on-ethereum)
-2. [Kaj je ETH in kako ga dobim?](#2-what-is-eth-and-how-do-i-get-it)
-3. [Kaj je denarnica in katero naj uporabim?](#3-what-is-a-wallet-and-which-one-should-i-use)
+1. [Use an application built on Ethereum](#1-use-an-application-built-on-ethereum)
+2. [What is ETH, and how do I get it?](#2-what-is-eth-and-how-do-i-get-it)
+3. [What is a wallet, and which one should I use?](#3-what-is-a-wallet-and-which-one-should-i-use)
 
 </div>
 
-## 1. Uporaba aplikacije, zgrajene na Ethereumu {#1-use-an-application-built-on-ethereum}
+## 1. Use an application built on ethereum {#1-use-an-application-built-on-ethereum}
 
-Najboljši uvod v Ethereum je, da kar začnete! Na voljo je veliko aplikacij za Ethereum, ki jih lahko uporabite že danes.
+The best way to get started with Ethereum is to jump right in! There are many Ethereum-based applications that you can use today.
 
-Tukaj je le nekaj aplikacij, zgrajenih na Ethereumu – ta seznam pogosto premešamo!
+Here are just a few apps built on Ethereum - we rotate this list frequently!
 
-- [Gitcoin](https://gitcoin.co) je omrežje nadobudnih razvijalcev, ki imajo spodbudo za delo
-- [Cent](https://beta.cent.co) je družbeno omrežje, kjer lahko zaslužite z objavljanjem
-- [Veil](https://app.veil.co) je trgovalna platforma, na kateri lahko stavite na dogodke iz resničnega sveta
-- [CryptoKitties](https://www.cryptokitties.co) je igra, v kateri zbirate in gojite digitalne zbirateljske mačke
-- [DAI](https://makerdao.com/en/) je stabilna kriptovaluta, ki drži vrednost pri 1 USD
+<RandomAppList />
 
-Za nekatere od teh aplikacij bo morda potrebna denarnica – [več informacij je v spodnjem razdelku.](./#3-what-is-a-wallet-and-which-one-should-i-use)
+Some of these applications might require a wallet - [see the section below for more information.](./#3-what-is-a-wallet-and-which-one-should-i-use)
 
-Ali vas zanima, kje si lahko ogledate več aplikacij, zgrajenih za Ethereum?
+Interested in looking at more applications built on Ethereum?
 
-- [Built on Ethereum](https://docs.ethhub.io/built-on-ethereum/built-on-ethereum/) _Pogosto posodobljeno – EthHub_
-- [40 Ethereum Apps You Can Use Right Now](https://media.consensys.net/40-ethereum-apps-you-can-use-right-now-d643333769f7) _15. avg. 2018 – ConsenSys_
-- [Ethereum Dapps](https://www.stateofthedapps.com/rankings/platform/ethereum) _Pogosto posodobljeno – State of the Dapps_
+- [Built on Ethereum](https://docs.ethhub.io/built-on-ethereum/built-on-ethereum/) _Updated often - EthHub_
+- [90+ Ethereum Apps You Can Use Right Now](https://media.consensys.net/40-ethereum-apps-you-can-use-right-now-d643333769f7) _April 24, 2019 - ConsenSys_
+- [Ethereum Dapps](https://www.stateofthedapps.com/rankings/platform/ethereum) _Updated often - State of the Dapps_
+- [Ethereum DeFi Ecosystem](https://defiprime.com/ethereum) _Updated often - Defiprime_
+- [DeFi Pulse](https://defipulse.com/) _Analytics + rankings of DeFi protocols - Defi Pulse_
 
-## 2. Kaj je ETH in kako ga dobim? {#2-what-is-eth-and-how-do-i-get-it}
+## 2. What is ETH, and how do I get it? {#2-what-is-eth-and-how-do-i-get-it}
 
-ETH je matična valuta za Ethereum. To je "digitalni denar", ki ga lahko pošljete po internetu takoj in poceni, uporablja pa se tudi v mnogih aplikacijah, ki temeljijo na Ethereumu, kot so tiste, navedene zgoraj.
+ETH is Ethereum's native currency. It is "digital money" that can be sent over the internet instantly and cheaply, and also be used in many Ethereum-based applications like the ones above.
 
-ETH najlažje dobite tako, da ga kupite. Obstaja več menjalnic za kriptovalute, kjer lahko kupite ETH, tista, katero boste uporabili pa je odvisno od tega, kje živite in kako želite plačati.
+The easiest way to get ETH is to buy some. There are many cryptocurrency exchanges that will allow you to buy ETH, but the one you should use will depend on where you live and how you want to pay.
 
-Če želite več informacij o nakupu ETH, si oglejte te vodnike:
+For more information on how to buy ETH check out these guides:
 
-- [How to buy Ether (ETH)](https://support.mycrypto.com/how-to/getting-started/how-to-buy-ether-with-usd) _Pogosto posodobljeno – MyCrypto_
-- [How to Buy Ether](https://docs.ethhub.io/using-ethereum/how-to-buy-ether/) _Pogosto posodobljeno – EthHub_
+- [How to buy Ether (ETH)](https://support.mycrypto.com/how-to/getting-started/how-to-buy-ether-with-usd) _Updated often - MyCrypto_
+- [How to Buy Ether](https://docs.ethhub.io/using-ethereum/how-to-buy-ether/) _Updated often - EthHub_
 - [Ethereum, a Digital Currency](https://www.cryptokitties.co/faq#ethereum-a-digital-currency) _CryptoKitties_
 
-## 3. Kaj je denarnica in katero naj uporabim? {#3-what-is-a-wallet-and-which-one-should-i-use}
+## 3. What is a wallet, and which one should I use? {#3-what-is-a-wallet-and-which-one-should-i-use}
 
-Denarnice so aplikacije, ki omogočajo enostavno lastništvo in pošiljanje ETH, pa tudi interakcijo z aplikacijami, zgrajenimi na Ethereumu.
+Wallets are applications that make it easy to hold and send ETH, as well as interact with applications built on Ethereum.
 
-Ali niste prepričani, katero denarnico uporabiti? Začnite s temi vodniki:
+Want to install a wallet?
 
-- [Intro to Ethereum Wallets](https://docs.ethhub.io/using-ethereum/wallets/intro-to-ethereum-wallets/) _Pogosto posodobljeno – EthHub_
-- [Uvod v MetaMask](https://metamask.zendesk.com/hc/en-us/articles/360015489531-Getting-Started-With-MetaMask-Part-1-) _4. dec. 2018 – MetaMask_
-- [How to Create a Wallet](https://support.mycrypto.com/getting-started/creating-a-new-wallet-on-mycrypto.html) _Pogosto posodobljeno – MyCrypto_
-- [Best Ethereum Wallets 2019: Hardware vs. Software vs. Paper](https://blockonomi.com/best-ethereum-wallets/) _15. dec. 2018 – Blockonomi_
+- [MetaMask](https://metamask.io) _browser extension for Chrome, Brave, Firefox and Opera_
+- [Opera](https://www.opera.com/crypto) _major browser with Ethereum integration_
+- [MyCrypto](https://mycrypto.com) _web-based Ethereum wallet_
+- [TrustWallet](https://trustwallet.com/) _Ethereum compatible wallet for iOS and Android_
+- [MyEtherWallet](https://www.myetherwallet.com/) _client side Ethereum wallet_
 
-Ali želite več informacij o varnem shranjevanju sredstev in upravljanju zasebnih ključev?
+Want to learn more about Ethereum wallets?
 
-- [Protecting Yourself and Your Funds](https://support.mycrypto.com/staying-safe/protecting-yourself-and-your-funds) _Pogosto posodobljeno – MyCrypto_
-- [The keys to keeping your crypto safe](https://blog.coinbase.com/the-keys-to-keeping-your-crypto-safe-96d497cce6cf) _16. jan. 2019 – Coinbase blog_
-- [How to Store Digital Assets on Ethereum](https://media.consensys.net/how-to-store-digital-assets-on-ethereum-a2bfdcf66bd0) _30. maj 2018 – ConsenSys_
-- [Do you really need a hardware wallet?](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-1-do-you-really-need-a-hardware-wallet-7f5abbadd945) _24. sep. 2018 – Ledger_
+- [Intro to Ethereum Wallets](https://docs.ethhub.io/using-ethereum/wallets/intro-to-ethereum-wallets/) _Updated often - EthHub_
+- [Absolute Beginner Introduction to Ethereum: The Full Download](https://www.mewtopia.com/absolute-beginners-guide/) _July 23, 2019 - MyEtherWallet_
+- [Best Ethereum Wallets 2019: Hardware vs. Software vs. Paper](https://blockonomi.com/best-ethereum-wallets/) _Dec 15, 2018 - Blockonomi_
+
+Want to learn more about securely storing funds and managing private keys?
+
+- [Protecting Yourself and Your Funds](https://support.mycrypto.com/staying-safe/protecting-yourself-and-your-funds) _Updated often - MyCrypto_
+- [The keys to keeping your crypto safe](https://blog.coinbase.com/the-keys-to-keeping-your-crypto-safe-96d497cce6cf) _Jan 16, 2019 - Coinbase blog_
+- [How to Store Digital Assets on Ethereum](https://media.consensys.net/how-to-store-digital-assets-on-ethereum-a2bfdcf66bd0) _May 30, 2018 - ConsenSys_
+- [Do you really need a hardware wallet?](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-1-do-you-really-need-a-hardware-wallet-7f5abbadd945) _Sep 24, 2018 - Ledger_
