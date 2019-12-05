@@ -1,329 +1,510 @@
 ---
-title: Ndị mmeputa
+title: Ethereum for Developers
 meta:
-  - property: og:title
-    content: Ndị mmeputa | Ethereum
-lang: ig
+  - 
+    name: description
+    content: Guides, resources, and tools for developers building on Ethereum.
+  - 
+    property: og:title
+    content: Ethereum for Developers
+  - 
+    property: og:description
+    content: Guides, resources, and tools for developers building on Ethereum.
+lang: en-US
 sidebar: auto
-sidebarDepth: 0
+sidebarDepth: 1
 ---
 
-# Ego oru Onye mmeputa {#developer-resources}
+# Developer Resources {#developer-resources}
 
-<div class="featured">Nduziaka, ego oru, na ngwaoru maka ndị mmeputa na-aru na Ethereum.</div>
+<div class="featured">Guides, resources, and tools for developers building on Ethereum.</div>
 
-## Na-amalite {#getting-started}
+## Getting started {#getting-started}
 
-**Ọ bụrụ na ị bụ onye ọhụrụ na mmepe Ethereum, ị nọ ebe ziri ezi.** Ntụziaka ndị a nke obodo Ethereum dere ga-ewebatara gị ihe kacha di mkpa nke kpokotara Ethereum ma webata akuku echiche di mkpa nke nwere ike ịdị iche na mmepe ngwa komputa ndị ọzọ ị maara.
+**If you’re new to developing with Ethereum, you’re in the right place.** These guides written by the Ethereum community will introduce you to the basics of the Ethereum stack and introduce core concepts that might be different from other app development you’re familiar with.
 
-Chọrọ ederede mbido di mkpa nke mbụ? Lelee [ethereum.org/ig/learn/](/ig/learn/)
+Want to start coding right away? [Start building here](/build/).
 
-- [Na ebili iga ngwa ngwa na Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe) _Aug 7, 2017 - Matt Condon_
-- [Ethereum N'uzo zuru ezu, nke mbu](https://blog.zeppelin.solutions/ethereum-in-depth-part-1-968981e6f833) _May 11, 2018 - Facu Spagnuolo_
-- [Ethereum N'uzo zuru ezo nke abuo, Nkebi abuo](https://blog.zeppelin.solutions/ethereum-in-depth-part-2-6339cf6bddb9) _July 24, 2018 - Facu Spagnugfolo_
-- [Ethereum Mmepe ntuziaka egwuregwu komputa, Nke otu ruo ise ](https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e) _Jan 14, 2018 - dev_zl_
-- [Ethereum nke otu narị na otu, Nke mbụ ruo asaa](https://kauri.io/collection/5bb65f0f4f34080001731dc2/ethereum-101) _Feb 13, 2019 - Wil Barnes_
-- [Onuogu buru ibu Ntuli aka Aloo Uwa niile Ethereum Dapp Nkuzil](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutoria-part1-40d2d0d807c2) _Jan 18, 2017 - Mahesh Murthy_
-- [Ihe omuma zuru ezu nke Ethereum - Akwụkwọ ọgụgụ zuru oke dị na ntanetị n'efu](https://github.com/ethereumbook/ethereumbook) _Dec 1, 2018 - Andreas Antonopoulos & Gavin Wood_
-- [ mmepụta weebusaiti Ethereum - Ihe niile ịchọrọ ịji wee mmalite iru oru na Ethereum](https://ethereum.consensys.net/ethereum-dev-portal) _Emelitere otutu mgbe - ConsenSys_
-- [Nyocha ederede Nkwekọrịta Siri ike](https://blog.zeppelin.solutions/deconstructing-a-solidity-contract-part-i-introduction--832efd2d7737) _Aug 13, 2018 - Alejandro Santander & Leo Arias_
-- [Onuogu buru ibu nke Dapp zuru ezu Usoro Nkuzi](https://kauri.io/collection/5b8e401ee727370001c942e3) _Emelitere ohuru otutu mgbe- Joshua Cassidy_
+Need a more basic primer first? Check out our [learning resources](/learn/).
 
-## Asụsụ Nkwekọrịta Amamihe {#smart-contract-languages}
+**Helpful Resources**
 
-Nhazi n'ihu ọ bụla na-aru oru na Ethereum Emebere maka Nkekorita ngwaoru komputa (EVM) bu nke a na akpọkarị "nkwekọrịta amamihe". Asụsụ ndị kachasị ewu ewu maka ide nkwekọrịta amamihe na Ethereum bu **Nke siri ike** na **Vyper**, n'agbanyeghị na enwere[ ndị ọzọ nọ n'okpuru mmepe](https://github.com/ConsenSys/ethereum-developer-tools-list#smart-contract-languages).
+- [Getting up to speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe) _Aug 7, 2017 - Matt Condon_
+- [Ethereum In Depth, Part 1](https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/) _May 11, 2018 - Facu Spagnuolo_
+- [Ethereum In Depth, Part 2](https://blog.openzeppelin.com/ethereum-in-depth-part-2-6339cf6bddb9/) _July 24, 2018 - Facu Spagnuolo_
+- [Ethereum Development Walkthrough, Parts 1-5](https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e) _Jan 14, 2018 - dev_zl_
+- [Ethereum 101, Parts 1-7](https://kauri.io/collection/5bb65f0f4f34080001731dc2/ethereum-101) _Feb 13, 2019 - Wil Barnes_
+- [Full Stack Hello World Voting Ethereum Dapp Tutorial](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)  _Feb 2019 - Mahesh Murthy_
+- [Mastering Ethereum - A comprehensive textbook available for free online](https://github.com/ethereumbook/ethereumbook) _Dec 1, 2018 - Andreas Antonopoulos & Gavin Wood_
+- [Ethereum Developer Portal - Everything you need to get started building on Ethereum](https://ethereum.consensys.net/ethereum-dev-portal) _Updated often - ConsenSys_
+- [Deconstructing a Solidity Contract](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/) _Aug 13, 2018 - Alejandro Santander & Leo Arias_
+- [Full Stack Dapp Tutorial Series](https://kauri.io/collection/5b8e401ee727370001c942e3)  _Updated Often - Joshua Cassidy_
 
-### Nke siri ike _Asụsụ kacha ewu ewu na Ethereum, akpalitere ya site na C ++, Python na Javascript_
+## Smart Contract Languages {#smart-contract-languages}
 
-- [Akwukwo ntuaka](https://solidity.readthedocs.io)
-- [Github](https://github.com/ethereum/solidity/)
-- [Gitter Chatroom Siri ike](https://gitter.im/ethereum/solidity/)
+Any program that runs on the Ethereum Virtual Machine (EVM) is commonly referred to as a “smart contract”. The most popular languages for writing smart contracts on Ethereum are **Solidity** and **Vyper**, though there are [others under development](https://github.com/ConsenSys/ethereum-developer-tools-list#smart-contract-languages).
 
-### Vyper _Asụsụ nchekwa elekwasịrị anya maka Ethereum, dabere na Python._
+**Solidity -** **_The most popular language on Ethereum, inspired by C++, Python and JavaScript._**
 
-- [Akwukwo ntuaka](https://vyper.readthedocs.io)
-- [Github](https://github.com/ethereum/vyper)
-- [Vyper Gitter Ebe ana akparita uka na komputa](https://gitter.im/ethereum/vyper)
+- [Documentation](https://solidity.readthedocs.io)
+- [GitHub](https://github.com/ethereum/solidity/)
+- [Solidity Gitter Chatroom](https://gitter.im/ethereum/solidity/)
 
-### I na-achọ nhọrọ ndị ọzọ?
+**Vyper -** **_Security focused language for Ethereum, based on Python._**
 
-- [Ndepụta Ngwaọrụ Ndi mmeputa Ethereum #NkwekoritaAsusuAmamihe](https://github.com/ConsenSys/ethereum-developer-tools-list#smart-contract-languages)
+- [Documentation](https://vyper.readthedocs.io)
+- [GitHub](https://github.com/ethereum/vyper)
+- [Vyper Gitter Chatroom](https://gitter.im/ethereum/vyper)
 
-## Ngwaọrụ Onye mmepụta {#developer-tools}
+**Looking for other options?**
 
-Ethereum nwere ọtụtụ ngwaọrụ na-eto eto buru ibu iji nyere ndị mmeputa aka iwulite, nwalee ma hazie ngwaoru komputa ha. N'okpuru ebe a bụ ngwaọrụ ndị kachasị ewu ewu eji mee ka i malite. Ọ bụrụ na ịchọrọ ịmụtakwu ihe, lelee nke a [ndepụta zuru oke](https://github.com/ConsenSys/ethereum-developer-tools-list).
+- [Ethereum Developers Tools List #SmartContractLanguages](https://github.com/ConsenSys/ethereum-developer-tools-list#smart-contract-languages)
 
-### Truffle _Gburugburu ebe mmepe, nnwale ihe owuwu, ruo usoro mbunye ihe na ngwaọrụ ndị ọzọ._ {#frameworks}
+## Language Specific Resources {#language-specific-resources}
 
-- [truffleframework.com](https://truffleframework.com/)
-- [Github](https://github.com/trufflesuite/truffle)
+We're building a suite of language-specific landing pages for developer to learn about Ethereum in their preferred programming language.
 
-### Ibido _Gburugburu mmepe, nnwale ihe owuwu, na ngwaọrụ ndị ọzọ etinyere na Ethereum, IPFS, na Whisper._ {#other-tools}
+- [Ethereum for Java developers](/java/)
+- [Ethereum for Python developers](/python/)
+- [Ethereum for JavaScript developers](/javascript/)
+- [Ethereum for Go developers](/golang/)
+- [Ethereum for Rust developers](/rust/)
+- [Ethereum for .NET developers](/dot-net/)
+- More coming soon! Don't see your language here? [Open up an issue](https://github.com/ethereum/ethereum-org-website/issues/new/choose)!
 
-- [Github](https://github.com/embark-framework/embark)
-- [Akwukwo ntuaka](https://embark.status.im/docs/)
+## Developer Tools {#developer-tools}
 
-### Waffle _Usoro ihe owuwu maka mmepe nkwekọrịta oganihu amamihe na nwale (dabere na ethers.js)._
+Ethereum has a large and growing number of tools to help developers build, test, and deploy their applications. Below are the most popular tools to get you started. If you want to dive deeper, check out this [comprehensive list](https://github.com/ConsenSys/ethereum-developer-tools-list).
+
+### Frameworks {#frameworks}
+
+**Truffle -** **_A development environment, testing framework, build pipeline, and other tools._**
+
+- [trufflesuite.com](https://www.trufflesuite.com/)
+- [GitHub](https://github.com/trufflesuite/truffle)
+
+**Embark -** **_A development environment, testing framework, and other tools integrated with Ethereum, IPFS, and Whisper._**
+
+- [Documentation](https://embark.status.im/docs/)
+- [GitHub](https://github.com/embark-framework/embark)
+
+**Waffle -** **_A framework for advanced smart contract development and testing (based on ethers.js)._**
 
 - [getwaffle.io](https://getwaffle.io/)
-- [Github](https://github.com/EthWorks/Waffle)
+- [GitHub](https://github.com/EthWorks/Waffle)
 
-### Etherlime _Ethers.js ntọala ihe owuwu maka mmepe dapp (Siri ike & Vyper), idebe ihe, mmezi, nnwale na ndị ọzọ._
+**Etherlime -** **_Ethers.js based framework for dapp development (Solidity & Vyper), deployment, debugging, testing and more._**
 
-- [Akwukwo](https://etherlime.readthedocs.io/en/latest/)
-- [Github](https://github.com/LimeChain/etherlime)
+- [Docs](https://etherlime.readthedocs.io/en/latest/)
+- [GitHub](https://github.com/LimeChain/etherlime)
 
-### Buidler _Onye na-agba ọsọ oru maka ndi mmeputa nkwekorita amamihe nke Ethereum_
+### Other Tools {#other-tools}
+
+**Ethereum Grid -** **_A desktop application for downloading, configuring, and running Ethereum clients and tools._**
+
+- [grid.ethereum.org](https://grid.ethereum.org)
+- [GitHub](https://github.com/ethereum/grid)
+
+**Buidler -** **_A task runner for Ethereum smart contract developers._**
 
 - [buidler.dev](https://buidler.dev)
-- [Github](https://github.com/nomiclabs/buidler)
+- [GitHub](https://github.com/nomiclabs/buidler)
 
-### ZeppelinOS _Usoro mmepe maka iwulite nkwalite nkwekọrịta smart na ijikwa ngwa nkwekọrịta smart._
+**OpenZeppelin SDK -** **_The Ultimate Smart Contract Toolkit: A suite of tools to help you develop, compile, upgrade, deploy and interact with smart contracts._**
 
-- [zeppelinos.org](https://zeppelinos.org)
-- [Github](https://github.com/zeppelinos)
-- [Nzukọ obodo](https://forum.zeppelin.solutions/c/zeppelinos)
+- [OpenZeppelin SDK](https://openzeppelin.com/sdk/)
+- [GitHub](https://github.com/OpenZeppelin/openzeppelin-sdk)
+- [Community Forum](https://forum.openzeppelin.com/c/sdk)
 
-### Na-achọ nhọrọ ndị ọzọ?
+**The Graph -** **_A protocol for indexing Ethereum and IPFS data and querying it using GraphQL._**
 
-- [Ndepụta Ngwaọrụ Ethereum #Usoro](https://github.com/ConsenSys/ethereum-developer-tools-list#frameworks)
+- [The Graph](https://thegraph.com/)
+- [Graph Explorer](https://thegraph.com/explorer/)
+- [Documentation](https://thegraph.com/docs/)
+- [GitHub](https://github.com/graphprotocol/)
+- [Discord](https://thegraph.com/discord)
 
-## Ihe Mgbakwunye Gburugburu Ulo (IDEs) {#integrated-development-environments-ides}
+**Tenderly -** **_A platform to easily monitor your smart contracts with error tracking, alerting, performance metrics, and detailed contract analytics._**
 
-### Koodu Nlere Anya _Okachamara na ikpo okwu IDE ya na ndi isi nkwado Ethereum._ {#frameworks}
+- [tenderly.dev](https://tenderly.dev/)
+- [GitHub](https://github.com/Tenderly)
+- [Discord](https://discord.gg/eCWjuvt)
 
-- [Koodu Nlere Anya](https://code.visualstudio.com/)
+**Python Tooling -** **_Variety of libraries for Ethereum interaction via Python._**
+
+- [py.ethereum.org](http://python.ethereum.org/)
+- [web3.py GitHub](https://github.com/ethereum/web3.py)
+- [web3.py Chat](https://gitter.im/ethereum/web3.py)
+
+**Brownie -** **_Python-based development environment and testing framework._**
+
+- [Documentation](https://eth-brownie.readthedocs.io/en/latest/)
+- [GitHub](https://github.com/iamdefinitelyahuman/brownie)
+
+**web3j -** **_A Java/Android/Kotlin/Scala integration library for Ethereum._**
+
+- [web3j.io](https://web3j.io)
+- [GitHub](https://github.com/web3j/web3j)
+- [Docs](https://docs.web3j.io/)
+- [Gitter](https://gitter.im/web3j/web3j)
+
+**One Click Dapp -** **_Generate a frontend directly from ABI for fast development and testing._**
+
+- [OneClickDapp.com](https://oneclickdapp.com)
+- [Truffle Plugin](https://npmjs.org/package/oneclick)
+- [Remix Plugin](https://github.com/pi0neerpat/remix-plugin-one-click-dapp)
+- [GitHub](https://github.com/pi0neerpat/one-click-dapp)
+
+**Looking for other options?**
+
+- [Ethereum Developer Tools List #Frameworks](https://github.com/ConsenSys/ethereum-developer-tools-list#frameworks)
+
+## Integrated Development Environments (IDEs) {#integrated-development-environments-ides}
+
+**Ethereum Studio -** **_Web-based IDE ideal for new developers looking to experiment with smart contracts. Ethereum Studio features multiple templates, MetaMask integration, transaction logger, and a built in-browser Ethereum Virtual Machine (EVM) to help you get started building on Ethereum as fast as possible._**
+
+- [studio.ethereum.org](https://studio.ethereum.org)
+- [superblocks.com/ethereum-studio](https://superblocks.com/ethereum-studio)
+- [GitHub](https://github.com/SuperblocksHQ/ethereum-studio)
+
+**Visual Studio Code -** **_Professional cross-platform IDE with official Ethereum support._**
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Azure Blockchain Development Kit for Ethereum](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain)
 - [Azure Blockchain Workbench plugin](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-azure-blockchain.azure-blockchain-workbench?tab=Overview)
-- [Nlele koodu](https://github.com/Azure-Samples/blockchain/blob/master/blockchain-workbench/application-and-smart-contract-samples/readme.md)
+- [Code samples](https://github.com/Azure-Samples/blockchain/blob/master/blockchain-workbench/application-and-smart-contract-samples/readme.md)
+- [GitHub](https://github.com/microsoft/vscode)
 
-### Remix _IDE ntanetị nke etinyere na nyocha nke static, yana ule igwe nyocha blockchain.._ {#other-tools}
+**Remix -** **_Web-based IDE with built in static analysis, and a test blockchain virtual machine._**
 
 - [remix.ethereum.org](https://remix.ethereum.org/)
 
-### IDE ntanetị nke etinyere na nchọgharị blockchain mebere ịgwe, ntinye MetaMask, njikwa azụmahịa na atụmatụ ndị ọzọ
-
-- [superblocks.com/lab](https://superblocks.com/lab/)
-
-### EthFiddle _IDE ntanetị nke na-enye gị ohere ide, chịkọtara ma dezie nkwekọrịta smart gị._
+**EthFiddle -** **_Web-based IDE that lets you write, compile, and debug your smart contract._**
 
 - [ethfiddle.com](https://ethfiddle.com/)
+- [Gitter](https://gitter.im/loomnetwork/ethfiddle)
 
-### Na-achọ nhọrọ ndị ọzọ?
+**Looking for other options?**
 
-- [Ndepụta Ngwaọrụ Ethereum #IDEs](https://github.com/ConsenSys/ethereum-developer-tools-list#ides)
+- [Ethereum Developer Tools List #IDEs](https://github.com/ConsenSys/ethereum-developer-tools-list#ides)
 
-## Frontend Javascript APIs {#frontend-javascript-apis}
+## Frontend JavaScript APIs {#frontend-javascript-apis}
 
-### Web3.js _Ethereum Javascript API_
+**Web3.js -** **_Ethereum JavaScript API._**
 
-- [Github](https://github.com/ethereum/web3.js/)
-- [Ederede](https://web3js.readthedocs.io/en/1.0/)
+- [Documentation](https://web3js.readthedocs.io/en/1.0/)
+- [GitHub](https://github.com/ethereum/web3.js/)
 
-### Ethers.js _Mmeju obere akpa Ethereum na ịba uru dị na JavaScript na TypeScript_
+**Ethers.js -** **_Complete Ethereum wallet implementation and utilities in JavaScript and TypeScript._**
 
-- [Github](https://github.com/ethers-io/ethers.js/)
-- [Ederede](https://docs.ethers.io/ethers.js/html/)
+- [Documentation](https://docs.ethers.io/ethers.js/html/)
+- [GitHub](https://github.com/ethers-io/ethers.js/)
 
-### light.js _Ihe mmeghachi omume dị elu akwukwo nke JS emebere nke oma maka ndi ahia_
+**light.js -** **_A high-level reactive JS library optimized for light clients._**
 
-- [Github](https://github.com/paritytech/js-libs/tree/master/packages/light.js)
-- [Ederede](https://paritytech.github.io/js-libs/light.js/)
+- [Documentation](https://paritytech.github.io/js-libs/light.js/)
+- [GitHub](https://github.com/paritytech/js-libs/tree/master/packages/light.js)
 
-### Web3-wrapper _Typescript ozo ka Web3.js_
+**Web3-wrapper -** **_Typescript alternative to Web3.js._**
 
-- [Github](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/web3-wrapper)
-- [Ederede](https://0x.org/docs/web3-wrapper#introduction)
+- [Documentation](https://0x.org/docs/web3-wrapper#introduction)
+- [GitHub](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper)
 
-### Na-achọ nhọrọ ndị ọzọ?
+**Looking for other options?**
 
-- [Ndepụta Ngwaọrụ Ethereum # Frontend-Ethereum-API](https://github.com/ConsenSys/ethereum-developer-tools-list#frontend-ethereum-apis)
+- [Ethereum Developer Tools List #Frontend-Ethereum-APIs](https://github.com/ConsenSys/ethereum-developer-tools-list#frontend-ethereum-apis)
 
 ## Backend APIs {#backend-apis}
 
-### Infura _Ethereum API dịka ọrụ_
+**Infura -** **_The Ethereum API as a service._**
 
 - [infura.io](https://infura.io)
+- [Documentation](https://infura.io/docs)
+- [GitHub](https://github.com/INFURA)
 
-## Ngwa ọrụ nchekwa {#security-tools}
+**Cloudflare Ethereum Gateway.**
 
-### Slither _Solidity Ederede nyocha usoro static in Python 3_ {#smart-contract-security}
+- [cloudflare-eth.com](https://cloudflare-eth.com)
 
-- [Github](https://github.com/crytic/slither)
+**Nodesmith -** **_JSON-RPC API access to Ethereum mainnet and testnets._**
 
-### MythX _Nyochaa nchedo Security maka nkwekọrịta smart Ethereum_ {#formal-verification}
+- [nodesmith.io](https://nodesmith.io/network/ethereum/)
+- [Documentation](https://nodesmith.io/docs/#/ethereum/apiRef)
+
+**Chainstack -** **_Shared and dedicated Ethereum nodes as a service._**
+
+- [chainstack.com](https://chainstack.com)
+- [Documentation](https://docs.chainstack.com)
+
+## Storage {#storage}
+
+**IPFS -** **_InterPlanetary File System is a decentralized storage and file referencing system for Ethereum._**
+
+- [ipfs.io](https://ipfs.io/)
+- [Documentation](https://docs.ipfs.io/)
+- [GitHub](https://github.com/ipfs/ipfs)
+
+**Swarm -** **_A distributed storage platform and content distribution service for the Ethereum web3 stack._**
+
+- [Swarm](https://ethersphere.github.io/swarm-home/)
+- [GitHub](https://github.com/ethersphere/swarm)
+
+**OrbitDB -** **_A decentralized peer to peer database on top of IPFS._**
+
+- [Documentation](https://github.com/orbitdb/field-manual)
+- [GitHub](https://github.com/orbitdb/orbit-db)
+
+## Security Tools {#security-tools}
+
+### Smart Contract Security {#smart-contract-security}
+
+**Slither -** **_Solidity static analysis framework written in Python 3._**
+
+- [GitHub](https://github.com/crytic/slither)
+
+**MythX -** **_Security analysis API for Ethereum smart contracts._**
 
 - [mythx.io](https://mythx.io/)
+- [Documentation](https://docs.mythx.io/en/latest/)
 
-### Manticore _Ntụgharị aka akara iwu na-eji ngwa ọrụ ọgbụgba arụmọrụ eme ihe na nkwekorita contracts na ọnụọgụ abụọ._
+**Mythril -** **_Security analysis tool for EVM bytecode._**
 
-- [github](https://github.com/trailofbits/manticore)
+- [mythril](https://github.com/ConsenSys/mythril)
+- [Documentation](https://mythril-classic.readthedocs.io/en/master/about.html)
 
-### Securify _nchekwa maka nkwekọrịta smart Ethereum _
+**SmartContract.Codes -** **_Search engine for verified solidity source codes._**
+
+- [smartcontract.codes (alpha)](https://smartcontract.codes/)
+- [Documentation](https://github.com/ethereum-play/smartcontract.codes/blob/master/README.md)
+
+**Manticore -** **_A command line interface that uses a symbolic execution tool on smart contracts and binaries._**
+
+- [GitHub](https://github.com/trailofbits/manticore)
+- [Documentation](https://github.com/trailofbits/manticore/wiki)
+
+**Securify -** **_Security scanner for Ethereum smart contracts._**
 
 - [securify.chainsecurity.com](https://securify.chainsecurity.com/)
+- [Discord](https://discordapp.com/invite/nN77ckb)
 
-### Ihe ndi ozo na akwụkwọ nyocha
+**ERC20 Verifier -** **_A verification tool used to check if a contract complies with the ERC20 standard._**
 
-- [Otu esi enyocha ozi banyere oru nkwekorita smart ](https://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/) _July 20, 2018 - Brian Marick_
-- [Otu Nyochaa Asalụ Nwere ike Gbaa mbọ hụ na-enweghị ntụpọ na Nkwekọrịta Smart](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1) _Jan 29, 2018 - Bernard Mueller_
+- [erc20-verifier.openzeppelin.com](https://erc20-verifier.openzeppelin.com)
+- [Forum](https://forum.openzeppelin.com/t/online-erc20-contract-verifier/1575)
 
-### Na-achọ nhọrọ ndị ọzọ?
+### Formal Verification {#formal-verification}
 
-- [Ndepụta Ngwaọrụ Ethereum #Ngwaọrụ-Nche](https://github.com/ConsenSys/ethereum-developer-tools-list#security-tools)
+**Information on Formal Verification**
 
-## Ngwaoru nnwale {#testing-tools}
+- [How formal verification of smart-contacts works](https://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/) _July 20, 2018 - Brian Marick_
+- [How Formal Verification Can Ensure Flawless Smart Contracts](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1) _Jan 29, 2018 - Bernard Mueller_
 
-### Solidity-Coverage _Ngwunye mkpuchi koodu siri ike ọzọ._
+**Looking for other options?**
 
-- [Github](https://github.com/sc-forks/solidity-coverage)
+- [Ethereum Developer Tools List #Security-Tools](https://github.com/ConsenSys/ethereum-developer-tools-list#security-tools)
 
-### hevm _Mmejuputa EVM mere maka ule nnwale na ịmegharị ụdị nkwekọrịta smart._
+## Testing Tools {#testing-tools}
 
-- [Github](https://github.com/dapphub/dapptools/tree/master/src/hevm)
+**Solidity-Coverage -** **_Alternative solidity code coverage tool._**
 
-### Whiteblock Genesis _Ihe eji emeputa ogwugwu rue ogwugwu na ikpo okwu nnwale maka blockchain._
+- [GitHub](https://github.com/sc-forks/solidity-coverage)
+
+**hevm -** **_Implementation of the EVM made specifically for unit testing and debugging smart contracts._**
+
+- [GitHub](https://github.com/dapphub/dapptools/tree/master/src/hevm)
+- [DappHub Chat](https://dapphub.chat/)
+
+**Whiteblock Genesis -** **_An end-to-end development sandbox and testing platform for blockchain._**
 
 - [Whiteblock.io](https://whiteblock.io)
-- [Github](https://github.com/whiteblock/genesis)
-- [Ederede](https://docs.whiteblock.io)
+- [Documentation](https://docs.whiteblock.io)
+- [GitHub](https://github.com/whiteblock/genesis)
 
-### Na-achọ nhọrọ ndị ọzọ?
+**Looking for other options?**
 
-- [Ndepụta Ngwaọrụ Ethereum # Ngwaoru- Nnwale](https://github.com/ConsenSys/ethereum-developer-tools-list#testing-tools)
+- [Ethereum Developer Tools List #Testing-Tools](https://github.com/ConsenSys/ethereum-developer-tools-list#testing-tools)
 
-## Gbochie ndị na-eme nchọpụta {#block-explorers}
+## Block Explorers {#block-explorers}
 
-Gbochie ndị na-eme nchọpụta bụ ọrụ na-ahapụ gị ka ịgagharị na Ethereum blockchain (yana akwụkwọ nyocha ya), site na ịchọta ozi gbasara azụmahịa ndị akọwapụtara, mgbochi, nkwekọrịta, na ọrụ ndị ọzọ.
+Block explorers are services that let you browse the Ethereum blockchain (and its testnets), by finding information about specific transactions, blocks, contracts, and other on-chain activity.
 
 - [Etherscan](https://etherscan.io/)
 - [Blockscout](https://blockscout.com/)
 - [Etherchain](https://www.etherchain.org/)
 
-## Akwụkwọ edemede na Faucets {#testnets-and-faucets}
+## Testnets and Faucets {#testnets-and-faucets}
 
-Obodo Ethereum na-ejigide ọtụtụ akwụkwọ nyocha. Ndị mmepe na-eji ihe ndị a eme ihe iji nwalee ngwa ha n'okpuru ọnọdụ dị iche iche tupu ha ebuga ya na isi Ethereum.
+The Ethereum community maintains multiple testnets. These are used by developers to test their applications under different conditions before deploying to the Ethereum mainnet.
 
-### Ropsten _Akaebe nke Ọrụ blockchain, nnwale-ether nke enwere ike igwu egwu_
+**Ropsten -** **_Proof of Work blockchain, test-ether can be mined._**
 
 - [Test-ether faucet](https://faucet.ropsten.be/)
 
-### Rinkeby _Akaebe nke ikike blockchain, nke edoziri site n'aka Geth development team_
+**Rinkeby -** **_Proof of Authority blockchain, maintained by the Geth development team._**
 
 - [Test-ether faucet](https://faucet.rinkeby.io/)
+- [Universal faucet](https://faucets.blockxlabs.com)
 
-### Goerli _Cross-client Proof of Authority blockchain, nke ndị obodo Goerli wuru ma lekọta ya_
+**Goerli -** **_Cross-client Proof of Authority blockchain, built and maintained by the Goerli community_**
 
 - [Test-ether faucet](https://faucet.goerli.mudit.blog/)
 - [goerli.net](https://goerli.net/)
+- [Universal faucet](https://faucets.blockxlabs.com)
 
-## Ndị ahịa na Na-agba node gi {#clients--running-your-own-node}
+## Clients & Running your own Node {#clients--running-your-own-node}
 
-Ngwunye Ethereum mejuputara otutu onu ogugu ndi n’agba software ndia ahia dakọtara. Ọtụtụ n'ime noodu ndị a na-agba [ Geth ](https://geth.ethereum.org/) or [ Parity ](https://www.parity.io/ethereum/), nke ọ bụla nwere ike ịhazi ya n'ụzọ dị iche iche dịka mkpa si wee dị.
+The Ethereum network is made up of many nodes who run compatible client software. The majority of these nodes run [Geth](https://geth.ethereum.org/) or [Parity](https://www.parity.io/ethereum/), each of which can be configured in different ways according to your needs.
 
-### Geth _ndị ahịa Ethereum edere na Go_ {#clients}
+### Clients {#clients}
 
-- [Github](https://github.com/ethereum/go-ethereum)
+**Geth -** **_Ethereum clients written in Go._**
+
+- [GitHub](https://github.com/ethereum/go-ethereum)
 - [Discord chat](https://discordapp.com/invite/nthXNEv)
 
-### Parity _Ndi ahia Ethereum edere na Rust_ {#running-your-own-node}
+**Parity -** **_Ethereum client written in Rust._**
 
 - [parity.io](https://www.parity.io/)
-- [Github](https://github.com/paritytech/parity-ethereum)
+- [GitHub](https://github.com/paritytech/parity-ethereum)
 
-### Ethnode _Gbaa otu uzo Ethereum noodu (Geth or Parity) maka mmepe obodo._
+**Pantheon -** **_Ethereum client written in Java._**
 
-- [Github](https://github.com/vrde/ethnode)
+- [pegasys.tech](http://pegasys.tech)
+- [GitHub](https://github.com/PegaSysEng/pantheon/)
 
-### Ethereum Node Resources
+**Nethermind -** **_Ethereum client written in C# .NET Core._**
 
-- [Node Configuration Cheat Sheet](https://dev.to/5chdn/ethereum-node-configuration-modes-cheat-sheet-25l8)_Jan 5, 2019 - Afri Schoeden_
+- [Nethermind.io](http://nethermind.io/)
+- [GitHub](https://github.com/NethermindEth/nethermind)
+- [Gitter](https://gitter.im/nethermindeth/nethermind)
 
-### Na-achọ nhọrọ ndị ọzọ?
+### Running your own node {#running-your-own-node}
 
-- [Ndepụta Ngwaọrụ Ethereum #Ndi ahia Ethereum](https://github.com/ConsenSys/ethereum-developer-tools-list#ethereum-clients)
+**Ethnode -** **_Run an Ethereum node (Geth or Parity) for local development._**
 
-## Omume kachasị, usoro, na usoro mgbochi {#best-practices-patterns-and-anti-patterns}
+- [GitHub](https://github.com/vrde/ethnode)
 
-### DappSys _Ihe nchebe, mfe, na-agbanwe mgbanwe maka nkwekọrịta smart._ {#smart-contracts}
+**Ethereum Node Resources**
+
+- [Node Configuration Cheat Sheet](https://dev.to/5chdn/ethereum-node-configuration-modes-cheat-sheet-25l8) _Jan 5, 2019 - Afri Schoeden_
+
+**Looking for other options?**
+
+- [Ethereum Developer Tools List #Ethereum-clients](https://github.com/ConsenSys/ethereum-developer-tools-list#ethereum-clients)
+
+## Best Practices, Patterns, and Anti-patterns {#best-practices-patterns-and-anti-patterns}
+
+### Smart Contracts {#smart-contracts}
+
+**DappSys -** **_Safe, simple, flexible building-blocks for smart-contracts._**
 
 - [dapp.tools/dappsys](https://dapp.tools/dappsys/)
-- [Github](https://github.com/dapphub/dappsys)
+- [GitHub](https://github.com/dapphub/dappsys)
 
-### OpenZeppelin _Ọbá akwụkwọ maka mmepe nkwekọrịta smart._ {#security}
+**OpenZeppelin Contracts -** **_Library for secure smart contract development._**
 
-- [openzeppelin.org](https://openzeppelin.org/)
-- [Github](https://github.com/OpenZeppelin/openzeppelin-solidity)
+- [openzeppelin.com/contracts/](https://openzeppelin.com/contracts/)
+- [GitHub](https://github.com/OpenZeppelin/openzeppelin-contracts)
+- [Community Forum](https://forum.openzeppelin.com/c/contracts)
 
-### aragonOS _ nsoro maka nkwalite & njikwa ikike._
+**aragonOS -** **_Patterns for upgradeability & permission control._**
 
-- [hack.aragon.org](https://hack.aragon.org/docs/aragonos-intro.html)
+- [hack.aragon.org](https://hack.aragon.org/docs/aragonos-intro.html#aragonos-provides-the-following-functionality)
+- [Documentation](https://wiki.aragon.org/)
 
-### Nkwekorita aha adịghị ike Smart
+**Smart Contract Weakness Registry**
 
-- [Ndekọ SWC](https://smartcontractsecurity.github.io/SWC-registry/)
-- [Github](https://github.com/SmartContractSecurity/SWC-registry)
+- [SWC registry](https://smartcontractsecurity.github.io/SWC-registry/)
+- [GitHub](https://github.com/SmartContractSecurity/SWC-registry)
 
-### Smart Nkwekọrịta Arụ Ọrụ kachasị mma
+### Security {#security}
+
+**Smart Contract Security Best Practices Guide**
 
 - [consensys.github.io/smart-contract-best-practices/](https://consensys.github.io/smart-contract-best-practices/)
-- [Github](https://github.com/ConsenSys/smart-contract-best-practices/)
-- [Nchịkọta ndị metụtara atụmatụ nchekwa na usoro kachasị mma](https://github.com/guylando/KnowledgeLists/blob/master/EthereumSmartContracts.md)
+- [GitHub](https://github.com/ConsenSys/smart-contract-best-practices/)
+- [Aggregated collection of security recommendations and best practices](https://github.com/guylando/KnowledgeLists/blob/master/EthereumSmartContracts.md)
 
-### Na-achọ nhọrọ ndị ọzọ?
+**Smart Contract Security Verification Standard (SCSVS)**
 
-- [Ndepụta Ngwaọrụ Ethereum #nsoro—omume kacha mma](https://github.com/ConsenSys/ethereum-developer-tools-list#patterns--best-practices)
+- [securing.github.io/SCSVS/](https://securing.github.io/SCSVS/)
 
-## Nkwado Onye Mmepụta na Ọzụzụ {#developer-support--training}
+**Looking for other options?**
 
-### Ethereum Stackexchange {#general-learning}
+- [Ethereum Developer Tools List #Patterns—best-practices](https://github.com/ConsenSys/ethereum-developer-tools-list#patterns--best-practices)
+
+## Developer Support & Training {#developer-support--training}
+
+### General Learning {#general-learning}
+
+**Ethereum Stackexchange**
 
 - [ethereum.stackexchange.com](https://ethereum.stackexchange.com/)
 
-### Solidity Gitter Chatroom {#game-based-learning}
+**ConsenSys Academy -** **_An end-to-end Ethereum developer course that is self-paced and open year-round._**
+
+- [consensys.academy](https://consensys.net/academy/ondemand/)
+
+**Solidity Gitter Chatroom**
 
 - [gitter.im/ethereum/solidity](https://gitter.im/ethereum/solidity/)
 
-### Ebe a na-anọ akparịta ụka Ethereum Gitter niile
+**All Ethereum Gitter Chatrooms**
 
 - [gitter.im/ethereum/home](https://gitter.im/ethereum/home)
 
-### Cryptozombies _Mụta ka ịdee egwuregwu koodu na ethereum._
-
-- [Cryptozombies.io](https://cryptozombies.io/)
-
-### Chainshot _Nkuzi ederede dabere na web._
+**Chainshot -** **_Web based dapp coding tutorials._**
 
 - [chainshot.com](https://www.chainshot.com/)
 
-### Blockgeeks _Usoro nkuzi n'ịntanetị na teknụzụ blockchain_
+**Blockgeeks -** **_Online courses on blockchain technology._**
 
 - [courses.blockgeeks.com](https://courses.blockgeeks.com/)
 
-### DappUniversity _Mụta i wu ngwa ndị adaghi achikwa achikwa na Ethereum blockchain_
+**DappUniversity -** **_Learn to build decentralized applications on the Ethereum blockchain._**
 
 - [DappUniversity.com](http://www.dappuniversity.com/)
 
-### Ethernaut _Solidity dabere na wargame ebe ọkwa ọ bụla bụ nkwekọrịta a ga-emebi_
+**B9lab Academy -** **_Home of the oldest professional Ethereum dapp developer course & further learning for auditors and QA. Incl. mentoring and code review._**
 
-- [ethernaut.zeppelin.solutions](https://ethernaut.zeppelin.solutions/)
+- [academy.b9lab.com](https://academy.b9lab.com)
 
-## UI/UX {#uiux-design}
+### Game-Based Learning {#game-based-learning}
 
-- [ Ihe ịma aka nke UX na Ethereum ](https://medium.com/ecf-review/challenge-of-ux-in-ethereum-122e1a33688d) _June 25, 2018 - Anna Rose_
-- [ Mepụta blockchain: ihe dị iche na ihe dị n'ihe ize ndụ ](https://media.consensys.net/designing-for-blockchain-whats-different-and-what-s-at-stake-b867eeade1c9) _March 22, 2018 - Sarah Baker Mills_
+**Cryptozombies -** **_Learn to code games on ethereum._**
 
-## Standardi {#standards}
+- [Cryptozombies.io](https://cryptozombies.io/)
 
-Obodo Ethereum anabatala ọtụtụ standadi nke na-enyere ndị mmepe aka. A na-ewebata ndị a dika [ Aro Maka Ethereum ](http://eips.ethereum.org/) (EIPs), nke ndị otu obodo na-atụle [ site na usoro standadi ](http://eips.ethereum.org/EIPS/eip-1).
+**Ethernaut -** **_Solidity based wargame where each level is a contract to be hacked._**
 
-- [Ndepụta nke EIPs](http://eips.ethereum.org/)
+- [ethernaut.openzeppelin.com](https://ethernaut.openzeppelin.com/)
+
+**Capture the Ether -** **_The game of Ethereum smart contract security._**
+
+- [capturetheether.com](https://capturetheether.com/)
+
+## UI/UX Design {#uiux-design}
+
+- [Challenge of UX in Ethereum](https://medium.com/ecf-review/challenge-of-ux-in-ethereum-122e1a33688d) _June 25, 2018 - Anna Rose_
+- [Designing for blockchain: what’s different and what’s at stake](https://media.consensys.net/designing-for-blockchain-whats-different-and-what-s-at-stake-b867eeade1c9) _March 22, 2018 - Sarah Baker Mills_
+
+**Rimble UI** **_- Adaptable components and design standards for decentralized applications._**
+
+- [rimble.consensys.design](https://rimble.consensys.design)
+- [GitHub](https://github.com/ConsenSys/rimble-ui)
+
+## Standards {#standards}
+
+The Ethereum community has adopted many standards that are helpful to developers. Typically these are introduced as [Ethereum Improvement Proposals](http://eips.ethereum.org/) (EIPs), which are discussed by community members through a [standard process](http://eips.ethereum.org/EIPS/eip-1).
+
+- [List of EIPs](http://eips.ethereum.org/)
 - [EIP github repo](https://github.com/ethereum/EIPs)
-- [EIP mkparịta ụka](https://ethereum-magicians.org/c/eips)
-- [ Isi ochichi Ethereum ](https://blog.bmannconsulting.com/ethereum-governance/) _March 31, 2019 - Boris Mann_
-- [ Ndepụta egwuregwu nzukọ niile nke Ethereum Core Dev ](https://www.youtube.com/playlist?list=PLaM7G4Llrb7zfMXCZVEXEABT8OSnd4-7w) _(Egwuregwu YouTube)_
+- [EIP discussion board](https://ethereum-magicians.org/c/eips)
+- [Ethereum Governance Overview](https://blog.bmannconsulting.com/ethereum-governance/) _March 31, 2019 - Boris Mann_
+- [Playlist of all Ethereum Core Dev Meetings](https://www.youtube.com/playlist?list=PLaM7G4Llrb7zfMXCZVEXEABT8OSnd4-7w) _(YouTube Playlist)_
 
-Ufọdụ EIP na-emetụta ụkpụrụ ọkwa ngwa (dịka ọmụmaatụ usoro nkwekọrịta smart), nke ewepụtara ka [ Achọrọ arịrịọ Ethereum maka nkọwa (ERC)](https://eips.ethereum.org/erc). Ọtụtụ ERC bụ standadi dị oke mkpa a na eji ọtụtụ ebe na gburugburu Ethereum.
+Certain EIPs relate to application-level standards (e.g. a standard smart-contract format), which are introduced as [Ethereum Requests for Comment (ERC)](https://eips.ethereum.org/erc). Many ERCs are critical standards used widely across the Ethereum ecosystem.
 
-- [Ndepụta ERCs](http://eips.ethereum.org/erc)
-- [ERC20 - Ihe standadi nke tokens](https://eips.ethereum.org/EIPS/eip-20)
-- [ERC721 - Onwe ihe standadi omumu maka ihe omuma nke anaghi ego](https://eips.ethereum.org/EIPS/eip-721)
+- [List of ERCs](http://eips.ethereum.org/erc)
+- [ERC20 - A standard interface for tokens](https://eips.ethereum.org/EIPS/eip-20)
+- [ERC721 - A standard interface for non-fungible tokens](https://eips.ethereum.org/EIPS/eip-721)
