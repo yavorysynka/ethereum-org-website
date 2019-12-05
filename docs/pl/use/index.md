@@ -1,81 +1,81 @@
 ---
-title: Use Ethereum
+title: Zastosowania
 meta:
   - 
-    name: description
-    content: The basic information you need to get started using Ethereum.
+    name: og:title
+    content: Zastosowania | Ethereum
   - 
     property: og:title
     content: Use Ethereum
   - 
     property: og:description
     content: The basic information you need to get started using Ethereum.
-lang: en-US
+lang: pl
 ---
 
-# Using Ethereum {#using-ethereum}
+# Korzystanie z Ethereum {#using-ethereum}
 
 <div class="featured">
 
-**Want to get started using Ethereum?** This page will give you the basic information you need.
+**Chcesz zacząć korzystać z Ethereum?** Ta strona zawiera podstawowe informacje, których potrzebujesz.
 
-1. [Use an application built on Ethereum](#1-use-an-application-built-on-ethereum)
-2. [What is ETH, and how do I get it?](#2-what-is-eth-and-how-do-i-get-it)
-3. [What is a wallet, and which one should I use?](#3-what-is-a-wallet-and-which-one-should-i-use)
+  1. [Użyj aplikacji zbudowanej w oparciu o Ethereum](#1-use-an-application-built-on-ethereum)
+  2. [Co to jest ETH i jak ją zdobyć?](#2-what-is-eth-and-how-do-i-get-it)
+  3. [Co to jest portfel i którego powinienem użyć?](#3-what-is-a-wallet-and-which-one-should-i-use)
 
 </div>
 
-## 1. Use an application built on ethereum {#1-use-an-application-built-on-ethereum}
+## 1. Korzystaj z aplikacji zbudowanych w oparciu o ethereum {#1-use-an-application-built-on-ethereum}
 
-The best way to get started with Ethereum is to jump right in! There are many Ethereum-based applications that you can use today.
+Najlepszym sposobem na rozpoczęcie pracy z Ethereum jest po prostu wystartować! Obecnie istnieje wiele aplikacji opartych na Ethereum.
 
-Here are just a few apps built on Ethereum - we rotate this list frequently!
+Oto tylko kilka z nich - często zmieniamy tę listę!
 
 <RandomAppList />
 
-Some of these applications might require a wallet - [see the section below for more information.](./#3-what-is-a-wallet-and-which-one-should-i-use)
+Chcesz zobaczyć więcej aplikacji opartych na Ethereum?
 
-Interested in looking at more applications built on Ethereum?
+ETH jest natywną walutą Ethereum. Są to „cyfrowe pieniądze”, które można błyskawicznie i tanio przesyłać przez Internet, a także wykorzystywać w wielu aplikacjach opartych na Ethereum, takich jak te powyżej.
 
-- [Built on Ethereum](https://docs.ethhub.io/built-on-ethereum/built-on-ethereum/) _Updated often - EthHub_
-- [90+ Ethereum Apps You Can Use Right Now](https://media.consensys.net/40-ethereum-apps-you-can-use-right-now-d643333769f7) _April 24, 2019 - ConsenSys_
-- [Ethereum Dapps](https://www.stateofthedapps.com/rankings/platform/ethereum) _Updated often - State of the Dapps_
-- [Ethereum DeFi Ecosystem](https://defiprime.com/ethereum) _Updated often - Defiprime_
-- [DeFi Pulse](https://defipulse.com/) _Analytics + rankings of DeFi protocols - Defi Pulse_
+- [Gitcoin](https://gitcoin.co), sieć chętnych do współpracy programistów open-source
+- [Cent](https://beta.cent.co), sieć społecznościowa, w której zarabiasz na tworzeniu postów
+- [Veil](https://app.veil.co), platforma handlowa, która pozwala obstawiać wydarzenia w prawdziwym świecie w formie zakładów
+- [CryptoKitties](https://www.cryptokitties.co), gra, w której zbierasz i hodujesz cyfrowe kolekcjonerskie koty
+- [DAI](https://makerdao.com/en/), stabilna kryptowaluta o wartości $1 USD
 
-## 2. What is ETH, and how do I get it? {#2-what-is-eth-and-how-do-i-get-it}
+## 2. Co to jest ETH i jak ją zdobyć? {#2-what-is-eth-and-how-do-i-get-it}
 
-ETH is Ethereum's native currency. It is "digital money" that can be sent over the internet instantly and cheaply, and also be used in many Ethereum-based applications like the ones above.
+Najłatwiejszym sposobem na zdobycie ETH jest dokonanie zakupu. Istnieje wiele giełd kryptowalut, które pozwolą ci kupić ETH, ale to z której z nich możesz skorzystać, będzie zależało od tego, gdzie mieszkasz i w jaki sposób chcesz zapłacić.
 
-The easiest way to get ETH is to buy some. There are many cryptocurrency exchanges that will allow you to buy ETH, but the one you should use will depend on where you live and how you want to pay.
+Aby uzyskać więcej informacji na temat zakupu ETH, sprawdź następujące przewodniki:
 
-For more information on how to buy ETH check out these guides:
+Portfele to aplikacje, które ułatwiają przechowywanie i wysyłanie ETH, a także interakcję z aplikacjami opartymi na Ethereum.
 
-- [How to buy Ether (ETH)](https://support.mycrypto.com/how-to/getting-started/how-to-buy-ether-with-usd) _Updated often - MyCrypto_
-- [How to Buy Ether](https://docs.ethhub.io/using-ethereum/how-to-buy-ether/) _Updated often - EthHub_
-- [Ethereum, a Digital Currency](https://www.cryptokitties.co/faq#ethereum-a-digital-currency) _CryptoKitties_
+- [Built on Ethereum](https://docs.ethhub.io/built-on-ethereum/built-on-ethereum/) *Często aktualizowane - EthHub*
+- [40 Ethereum Apps You Can Use Right Now](https://media.consensys.net/40-ethereum-apps-you-can-use-right-now-d643333769f7) *15.08.2018 - ConsenSys*
+- [Ethereum Dapps](https://www.stateofthedapps.com/rankings/platform/ethereum) *Często aktualizowane - State of the Dapps*
 
-## 3. What is a wallet, and which one should I use? {#3-what-is-a-wallet-and-which-one-should-i-use}
+## 3. Co to jest portfel i którego powinienem użyć? {#3-what-is-a-wallet-and-which-one-should-i-use}
 
-Wallets are applications that make it easy to hold and send ETH, as well as interact with applications built on Ethereum.
+Nie wiesz, którego z dostępnych portfeli użyć? Zacznij od tych przewodników:
 
-Want to install a wallet?
+Chcesz dowiedzieć się więcej na temat bezpiecznego przechowywania funduszy i zarządzania kluczami prywatnymi?
 
-- [MetaMask](https://metamask.io) _browser extension for Chrome, Brave, Firefox and Opera_
-- [Opera](https://www.opera.com/crypto) _major browser with Ethereum integration_
-- [MyCrypto](https://mycrypto.com) _web-based Ethereum wallet_
+- [How to buy Ether (ETH)](https://support.mycrypto.com/how-to/getting-started/how-to-buy-ether-with-usd) *Często aktualizwane - MyCrypto*
+- [How to Buy Ether](https://docs.ethhub.io/using-ethereum/how-to-buy-ether/) *Często aktualizowane - EthHub*
+- [Ethereum, a Digital Currency](https://www.cryptokitties.co/faq#ethereum-a-digital-currency) *CryptoKitties*
 - [TrustWallet](https://trustwallet.com/) _Ethereum compatible wallet for iOS and Android_
 - [MyEtherWallet](https://www.myetherwallet.com/) _client side Ethereum wallet_
 
 Want to learn more about Ethereum wallets?
 
-- [Intro to Ethereum Wallets](https://docs.ethhub.io/using-ethereum/wallets/intro-to-ethereum-wallets/) _Updated often - EthHub_
-- [Absolute Beginner Introduction to Ethereum: The Full Download](https://www.mewtopia.com/absolute-beginners-guide/) _July 23, 2019 - MyEtherWallet_
-- [Best Ethereum Wallets 2019: Hardware vs. Software vs. Paper](https://blockonomi.com/best-ethereum-wallets/) _Dec 15, 2018 - Blockonomi_
+- [Intro to Ethereum Wallets](https://docs.ethhub.io/using-ethereum/wallets/intro-to-ethereum-wallets/) *Często aktualizowane - EthHub*
+- [Getting Started with MetaMask](https://metamask.zendesk.com/hc/en-us/articles/360015489531-Getting-Started-With-MetaMask-Part-1-) *04.12.2018 - MetaMask*
+- [How to Create a Wallet](https://support.mycrypto.com/getting-started/creating-a-new-wallet-on-mycrypto.html) *Często aktualizowane - MyCrypto*
 
 Want to learn more about securely storing funds and managing private keys?
 
-- [Protecting Yourself and Your Funds](https://support.mycrypto.com/staying-safe/protecting-yourself-and-your-funds) _Updated often - MyCrypto_
-- [The keys to keeping your crypto safe](https://blog.coinbase.com/the-keys-to-keeping-your-crypto-safe-96d497cce6cf) _Jan 16, 2019 - Coinbase blog_
-- [How to Store Digital Assets on Ethereum](https://media.consensys.net/how-to-store-digital-assets-on-ethereum-a2bfdcf66bd0) _May 30, 2018 - ConsenSys_
-- [Do you really need a hardware wallet?](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-1-do-you-really-need-a-hardware-wallet-7f5abbadd945) _Sep 24, 2018 - Ledger_
+- [Protecting Yourself and Your Funds](https://support.mycrypto.com/staying-safe/protecting-yourself-and-your-funds) *Często aktualizowane - MyCrypto*
+- [The keys to keeping your crypto safe](https://blog.coinbase.com/the-keys-to-keeping-your-crypto-safe-96d497cce6cf) *16.01.2019 - Coinbase blog*
+- [How to Store Digital Assets on Ethereum](https://media.consensys.net/how-to-store-digital-assets-on-ethereum-a2bfdcf66bd0) *30.05.2018 - ConsenSys*
+- [Do you really need a hardware wallet?](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-1-do-you-really-need-a-hardware-wallet-7f5abbadd945) *24.09.2018 - Ledger*
