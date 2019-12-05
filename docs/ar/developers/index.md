@@ -1,16 +1,16 @@
 ---
-title: اتریوم برای توسعه‌دهندگان
+title: Ethereum for Developers
 meta:
   - 
     name: description
-    content: توضیحات٫ مراجع و ابزار‌هایی برای توسعه دهندگان اتریوم
+    content: Guides, resources, and tools for developers building on Ethereum.
   - 
     property: og:title
-    content: اتریوم برای توسعه‌دهندگان
+    content: Ethereum for Developers
   - 
     property: og:description
-    content: توضیحات٫ مراجع و ابزار‌هایی برای توسعه دهندگان اتریوم
-lang: ar
+    content: Guides, resources, and tools for developers building on Ethereum.
+lang: en-US
 sidebar: auto
 sidebarDepth: 1
 ---
