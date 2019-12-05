@@ -1,24 +1,32 @@
 ---
-title: Nauka
+title: Learn about Ethereum
 meta:
-  - property: og:title
-    content: Nauka | Ethereum
-lang: pl
+  - 
+    name: description
+    content: A set of technical and non-technical articles, guides, and resources to learn about Ethereum.
+  - 
+    property: og:title
+    content: Learn about Ethereum
+  - 
+    property: og:description
+    content: A set of technical and non-technical articles, guides, and resources to learn about Ethereum.
+lang: en-US
 sidebar: auto
 sidebarDepth: 0
 ---
 
-# Ucz się Ethereum {#learn-about-ethereum}
+# Learn about Ethereum {#learn-about-ethereum}
 
-**Witaj na [ethereum.org/pl/learn](/pl/learn/), stronie z artykułami, która pomoże ci lepiej poznać i zrozumieć Ethereum.** Ta strona zawiera informacje techniczne **oraz** nietechniczne artykuły, przewodniki i zasoby. Jeśli Ethereum to dla ciebie zupełna nowość, [sugerujemy, aby rozpocząć od tej strony](/pl/beginners/).
+**Welcome to ethereum.org/learn, a set of resources to help you learn more about Ethereum.** This page includes technical **and** non-technical articles, guides, and resources. If you’re totally new to Ethereum, [we suggest you start here](/beginners/).
 
-Oto kilka doskonałych tekstów na początek:
+Here are some excellent starting points:
 
-- [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo&feature=youtu.be) *18.09.2017 - Vitalik Buterin (Wideo)*
-- [The Year in Ethereum](https://medium.com/@jjmstark/the-year-in-ethereum-87a17d6f8276) *16.01.2019 - Josh Stark, Evan Van Ness i Daniel Zakrisson*
-- [Ethereum is game-changing technology, literally](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8) *29.03.2019 - Virgil Griffith*
+- [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo&feature=youtu.be) *Sep 18, 2017 - Vitalik Buterin (Video)*
+- [Why Decentralization Matters](https://medium.com/s/story/why-decentralization-matters-5e3f79f7638e) *Feb 18, 2018 - Chris Dixon*
+- [The Year in Ethereum](https://medium.com/@jjmstark/the-year-in-ethereum-87a17d6f8276) *Jan 16, 2019 - Josh Stark, Evan Van Ness, and Daniel Zakrisson*
+- [Ethereum is game-changing technology, literally](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8) *Mar 29, 2019 - Virgil Griffith*
 
-Oprócz informacji zawartych na tej stronie istnieje wiele zasobów stworzonych przez społeczność, które warto sprawdzić:
+In addition to the information on this page, there are many community-built resources worth exploring:
 
 - [EthHub](https://docs.ethhub.io) *Comprehensive knowledge base for all things Ethereum*
 - [District0x](https://education.district0x.io/general-topics/understanding-ethereum/) *An educational resource about Ethereum targeted at beginners*
@@ -27,106 +35,121 @@ Oprócz informacji zawartych na tej stronie istnieje wiele zasobów stworzonych 
 - [Ethereum Foundation YouTube](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) *Videos and talks about Ethereum*
 - [Week in Ethereum News](https://weekinethereumnews.com/) *A weekly newsletter covering key developments across the ecosystem*
 - [What’s new in ETH 2.0](https://notes.ethereum.org/c/Sk8Zs--CQ) *A regular newsletter about ETH 2.0 development*
+- [ethresear.ch forum](https://ethresear.ch/) *Deeper technical discussions on Ethereum for ETH 2.0 and beyond*
 - [ETHGlobal](https://ethglobal.co) *An Ethereum hackathon series - attend one near you!*
 
-## Podstawy Ethereum {#ethereum-basics}
 
-Nowy na Ethereum? Poniższe artykuły i zasoby pomogą ci zacząć.
+## Ethereum basics {#ethereum-basics}
 
-- [A Beginner’s Guide to Ethereum](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf) *23.01.2017 - Linda Xie*
+New to Ethereum? These articles and resources are a good place to get started.
+
+- [A Beginner’s Guide to Ethereum](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf) *Feb 23, 2017 - Linda Xie*
+- [Video: What is Ether and Ethereum?](https://www.youtube.com/watch?v=fjnovGRQrRE) *April 25, 2019 - CME Group*
 - [What is Ethereum?](https://education.district0x.io/general-topics/understanding-ethereum/what-is-ethereum/) *District0x*
-- [What is Ether?](https://docs.ethhub.io/ethereum-basics/what-is-ether/) *Często aktualizowane - EthHub*
-- [The Case for Ethereum](http://blog.eladgil.com/2018/01/the-case-for-ethereum.html) * 30.01.2018 - Elad Gil*
-- [Blockchains: How they Work and Why they’ll Change the World](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world) *28.09.2017 - Morgan Peck*
-- [Don’t let Doubts about Blockchains Close your Mind](https://www.bloomberg.com/opinion/articles/2018-04-27/blockchains-warrant-skepticism-but-keep-an-open-mind) *27.04.2018 - Tyler Cowen*
+- [What is Ether?](https://docs.ethhub.io/ethereum-basics/what-is-ether/) *Updated often - EthHub*
+- [Absolute Beginner Introduction to Ethereum](https://www.mewtopia.com/absolute-beginners-guide/) *July 23, 2019*
+- [The Case for Ethereum](http://blog.eladgil.com/2018/01/the-case-for-ethereum.html) *Jan 30, 2018 - Elad Gil*
+- [Blockchains: How they Work and Why they’ll Change the World](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world) *Sept 28, 2017 - Morgan Peck*
 
-## Jak działa Ethereum {#how-ethereum-works}
+## How Ethereum works {#how-ethereum-works}
+High-level explanations of Ethereum and blockchain technology generally.
+- [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) *Sept 27, 2017 - Preethi Kasireddy*
+- [A Gentle Introduction to Ethereum](https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/) *Oct 2, 2016 - Antony Lewis*
+- [Introduction to Blockchain through Cryptoeconomics - Part 1](https://medium.com/blockchain-at-berkeley/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) *Jan 26, 2018 - Zubin Koticha*
+- [Introduction to Blockchain through Cryptoeconomics - Part 2](https://medium.com/mechanism-labs/introduction-to-bitcoin-through-cryptoeconomics-part-2-proof-of-work-and-nakamoto-consensus-1252f6a6c012) *July 19, 2018 - Zubin Koticha*
 
-Szczegółowe artykuły na temat tego jak działa Ethereum i technologia blockchain.
 
-- [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) *27.09.2017 - Preethi Kasireddy*
-- [A Gentle Introduction to Ethereum](https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/) *02.10.2016 - Antony Lewis*
-- [Introduction to Blockchain through Cryptoeconomics - Part 1](https://blockchainatberkeley.blog/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) *26.01.2018 - Zubin Koticha*
-- [Introduction to Blockchain through Cryptoeconomics - Part 2](https://medium.com/mechanism-labs/introduction-to-bitcoin-through-cryptoeconomics-part-2-proof-of-work-and-nakamoto-consensus-1252f6a6c012) *19.07.2018 - Zubin Koticha*
+## Smart Contracts {#smart-contracts}
 
-## Inteligentne kontrakty {#smart-contracts}
+A “smart contract” is simply a piece of code that is running on Ethereum. It’s called a “contract” because code that runs on Ethereum can control valuable things like ETH or other digital assets.
 
-Inteligentny kontrakt (ang. „smart contract”) to prosty fragment kodu uruchamiany w Ethereum. Nazwa „kontrakt” wynika z tego, że kod działający na Ethereum może kontrolować wartościowe rzeczy, takie jak ETH lub inne zasoby cyfrowe.
 
-- Chcesz nauczyć się programować w Ethereum za pomocą kontraktów? [ethereum.org/pl/developers](/pl/developers/)
+- Want to learn how to program on Ethereum with smart contracts? [ethereum.org/developers](/developers/)
+- [What is a Smart Contract?](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc#what-is-a-smart-contract) *Nov 12, 2018 - Andreas M. Antonopoulos, Gavin Wood*
+- [What are Smart Contracts/Decentralized Applications?](https://docs.ethhub.io/ethereum-basics/what-is-ethereum/#what-are-smart-contracts-and-decentralized-applications) *Updated often - Ethhub*
 
-## Proof of Work i kopanie kryptowaluty {#proof-of-work-and-mining}
+## Proof of Work and Mining {#proof-of-work-and-mining}
 
-Ethereum używa obecnie systemu o nazwie „Proof of Work”. Umożliwia to sieci Ethereum uzgodnienie stanu wszystkich informacji zapisanych w blokchain Ethereum i zapobiega niektórym rodzajom ataków gospodarczych.
+Ethereum currently uses a system called “Proof of Work”. This allows the Ethereum network to agree on the state of all information recorded on the Ethereum blockchain, and prevents certain kinds of economic attacks.
 
-- [What does it mean to mine Ethereum?](https://docs.ethhub.io/using-ethereum/mining/) *Często aktualizowane - Ethhub*
+
+- [What does it mean to mine Ethereum?](https://docs.ethhub.io/using-ethereum/mining/) *Updated often - Ethhub*
 - [How Ethereum Mining Works](https://www.coindesk.com/information/ethereum-mining-works) *Coindesk*
 
-W ETH 2.0 Ethereum zostanie przeniesione do innego systemu o nazwie „Proof of Stake”. [Czytaj więcej o ETH 2.0 poniżej](./#eth-2-0).
+In ETH 2.0, Ethereum will be moving to a different system called “Proof of Stake”. [Read more about ETH 2.0 below](./#eth-2-0).
 
-## Klienci i węzły {#clients-and-nodes}
+## Clients and Nodes {#clients-and-nodes}
+The Ethereum network is made up of many nodes, each of which runs compatible client software. There are two clients that are used by a majority of nodes: [Geth](https://geth.ethereum.org/) (written in Go) and [Parity](https://www.parity.io/ethereum/) (written in Rust).
 
-Sieć Ethereum składa się z wielu węzłów, z których każdy obsługuje kompatybilne oprogramowanie klienckie. Istnieją dwa klienty używane przez większość węzłów: [Geth](https://geth.ethereum.org/) (napisany w Go) i [Parity](https://www.parity.io/ethereum/) (napisany w Rust).
+- Want to learn how to run a node of your own? → [ethereum.org/developers](/developers/#clients-running-your-own-node)
+- [Comprehensive list of all Ethereum clients](https://github.com/ConsenSys/ethereum-developer-tools-list#ethereum-clients)
 
-- Chcesz dowiedzieć się, jak uruchomić własny węzeł? → [ethereum.org/pl/developers](/pl/developers/#clients-running-your-own-node)
-- [Kompleksowa lista klientów Ethereum](https://github.com/ConsenSys/ethereum-developer-tools-list#ethereum-clients)
+## Enterprise Ethereum {#enterprise-ethereum}
 
-## Zwiększanie skalowalności Ethereum {#improving-ethereums-scalability}
+Enterprise Ethereum refers to private, consortium, and hybrid implementations of the Ethereum codebase for business applications. Companies across the globe are already using Enterprise Ethereum to streamline financial markets, manage supply chains, and create new business models.
 
-Podejmowanych jest wiele starań, aby Ethereum było bardziej „skalowalne” poprzez poprawę jego szybkości i ogólnej przepustowości transakcji. Zasadniczo są one podzielone na rozwiązania typu „Warstwa 1” oraz „Warstwa 2”.
+Read more about [Enterprise Ethereum](/enterprise).
 
-„Warstwa 1” odnosi się do poprawy podstawowego protokołu Ethereum. Najważniejszym projektem w pracy nad udoskonalaniem podstawowego protokołu Ethereum jest [ETH 2.0](./#eth-2-0).
 
-„Warstwa 2” odnosi się do technologii „nadbudowanych" na podstawowym protokole Ethereum, umożliwiając większą skalowalność bez utraty bezpieczeństwa. Istnieją również technologie „spoza łańcucha”, takie jak łańcuchy boczne, które umożliwiają większą skalowalność poprzez zastosowanie innego zestawu kompromisów w domenie bezpieczeństwa.
+## Improving Ethereum’s Scalability {#improving-ethereums-scalability}
 
-- [Making Sense of Layer 2](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) *12.02.2018 - Josh Stark*
-- [The Case for Ethereum Scalability](https://medium.com/connext/the-case-for-ethereum-scalability-d2a8035f880f) *18.01.2019 - Hunter Hillman, Steven McKie, and Eric Olszewski*
+There are many efforts underway to make Ethereum more “scalable” by improving its speed and overall transaction throughput. Generally these are sorted into “Layer 1” and “Layer 2” solutions.
 
-### Płatności i State Channels {#payment--state-channels}
+“Layer 1” refers to improving the core Ethereum protocol. The primary project to improve Ethereum’s core protocol is [ETH 2.0](./#eth-2-0).
 
-- [State Channels - an explanation](https://www.jeffcoleman.ca/state-channels/) *06.11.2015 - Jeff Coleman*
+“Layer 2” refers to technologies that are built “on top” of the base Ethereum protocol, enabling greater scalability without compromising on security. There are also “off-chain” technologies like side-chains, which enable greater scalability by making a different set of security tradeoffs.
+
+- [Making Sense of Layer 2](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) *Feb 12, 2018 - Josh Stark*
+- [The Case for Ethereum Scalability](https://medium.com/connext/the-case-for-ethereum-scalability-d2a8035f880f) *Jan 18, 2019 - Hunter Hillman, Steven McKie, and Eric Olszewski*
+- [5 Ways to Scale your Ethereum Dapp](https://kauri.io/article/7ccaaa2fe7f344d5bf53807cb5c01530) *Apr 23, 2019 - Andreas Wallendahl*
+
+
+### Payment & State Channels {#payment--state-channels}
+- [State Channels - an explanation](https://www.jeffcoleman.ca/state-channels/) *Nov 6, 2015 - Jeff Coleman*
 - [Basics of State Channels](https://education.district0x.io/general-topics/understanding-ethereum/basics-state-channels/) *District0x*
-- [State Channels](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/state-channels/) *Często aktualizowane - EthHub*
+- [State Channels](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/state-channels/) *Updated often - EthHub*
 
-### Łańcuchy boczne {#sidechains}
-
-- [Scaling Ethereum Dapps through Sidechains](https://medium.com/loom-network/dappchains-scaling-ethereum-dapps-through-sidechains-f99e51fff447) *08.02.2018 - Georgios Konstantopoulos*
+### Sidechains {#sidechains}
+- [Scaling Ethereum Dapps through Sidechains](https://medium.com/loom-network/dappchains-scaling-ethereum-dapps-through-sidechains-f99e51fff447) *Feb 8, 2018 - Georgios Konstantopoulos*
 
 ### Plasma {#plasma}
-
-- [Understanding Plasma, Part 1: The Basics](https://www.theblockcrypto.com/2019/02/07/understanding-plasma-part-1-the-basics/) *07.02.2019 - Daniel Goldman*
+- [Understanding Plasma, Part 1: The Basics](https://www.theblockcrypto.com/2019/02/07/understanding-plasma-part-1-the-basics/) *Feb 7, 2019 - Daniel Goldman*
 - [Understanding Plasma](https://education.district0x.io/general-topics/understanding-ethereum/understanding-plasma/) *District0x*
 - [Learn Plasma - A learning resource for the Plasma framework](https://www.learnplasma.org/en/)
 
+
 ## ETH 2.0 {#eth-2-0}
 
-ETH 2.0 (znany również jako „Serenity”) odnosi się do kolejnej ważnej aktualizacji podstawowego protokołu Ethereum. Łączy kilka ulepszeń podstawowego protokołu Ethereum lub tzw. „Warstwy 1”.
+ETH 2.0 (also known as “Serenity”) refers to the next major upgrade of the core Ethereum protocol. It combines several improvements to Ethereum’s core protocol, or “Layer 1”.
 
-- [ETH 2.0 Roadmap and Phases](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/) *Często aktualizowane - EthHub*
-- [8 Teams Are Sprinting to Build the Next Generation of Ethereum](https://www.coindesk.com/next-gen-buidlers-the-8-teams-working-on-ethereum-2-0) *09.12.2018 - Christine Kim*
-- [Proof of Stake](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/) *Często aktualizowane - EthHub*
-- [Sharding](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/sharding/) *Często aktualizowane - EthHub*
-- [ETH 2.0 - The Road to Scaling Ethereum - Vitalik Buterin](https://youtu.be/kCVpDrlVesA) *(Wideo) Listopad 2018 - YouTube*
+- [ETH 2.0 Roadmap and Phases](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/) *Updated often - EthHub*
+- [8 Teams Are Sprinting to Build the Next Generation of Ethereum](https://www.coindesk.com/next-gen-buidlers-the-8-teams-working-on-ethereum-2-0) *Dec 9, 2018 - Christine Kim*
+- [Proof of Stake](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/) *Updated often - EthHub*
+- [Sharding](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/sharding/) *Updated often - EthHub*
+- [ETH 2.0 - The Road to Scaling Ethereum - Vitalik Buterin](https://youtu.be/kCVpDrlVesA) *(Video) November, 2018 - YouTube*
+- [ETH 2.0 Researchers AMA Part 1](https://docs.ethhub.io/other/ethereum-2.0-ama/#part-1) *Jan 24, 2019 - EthHub*
+- [ETH 2.0 Researchers AMA Part 2](https://docs.ethhub.io/other/ethereum-2.0-ama/#part-2) *Jul 15, 2019 - EthHub*
+- [9 Things You Didn't Know About Ethereum 2.0](https://our.status.im/9-things-you-didnt-know-about-ethereum-2-0/) *July 18, 2019 - Bruno Škvorc*
+
 
 ## ETH 1.x {#eth-1x}
 
-ETH 1.x to nazwa zbioru aktualizacji do istniejącego protokołu Ethereum. Celem jest dalsza poprawa i utrzymanie Ethereum, w czasie gdy nadal rozwijana i wdrażana jest ETH 2.0.
+ETH 1.x is the name for a collection of upgrades to the existing Ethereum protocol. The goal is to continue to improve and maintain Ethereum while ETH 2.0 is developed and implemented.
 
-Aby uzyskać więcej informacji, zobacz [EthHub’s explainer page about ETH 1.x](https://docs.ethhub.io/ethereum-roadmap/ethereum-1.x/)
+For more information, see [EthHub’s explainer page about ETH 1.x](https://docs.ethhub.io/ethereum-roadmap/ethereum-1.x/)
 
-## Kryptoekonomia {#cryptoeconomics}
+## Cryptoeconomics {#cryptoeconomics}
 
-„Kryptoekonomia” to praktyczna nauka budowania systemów rozproszonych, w których właściwości tych systemów są zabezpieczone zachętami finansowymi, a mechanizmy ekonomiczne są gwarantowane przez kryptografię. Jest to ogólny trend w projektowaniu i skalowaniu technologii blockchain, takich jak Ethereum i Bitcoin.
+“Cryptoeconomics” is the practical science of building distributed systems, where properties of those systems are secured by financial incentives, and where the economic mechanisms are guaranteed by cryptography. It is the general term for the practice of designing and scaling blockchains like Ethereum and Bitcoin.
 
 - [Cryptoeconomics.study](https://cryptoeconomics.study/)
-- [Intro to Cryptoeconomics](https://www.youtube.com/watch?v=F0FCI8GxO5I) *(Wideo) 19.08.2018 - Karl Floersch*
-- [Making Sense of Cryptoeconomics](https://medium.com/l4-media/making-sense-of-cryptoeconomics-5edea77e4e8d) *16.11.2017 - Josh Stark*
+- [Intro to Cryptoeconomics](https://www.youtube.com/watch?v=F0FCI8GxO5I) *(Video) Aug 19, 2018 - Karl Floersch*
+- [Making Sense of Cryptoeconomics](https://medium.com/l4-media/making-sense-of-cryptoeconomics-5edea77e4e8d) *Nov 16 2017 - Josh Stark*
 
-## Krytyka i sceptycyzm {#critique-and-skepticism}
+## Critique and skepticism {#critique-and-skepticism}
 
-Krytyczne spojrzenie na Ethereum i kryptowaluty.
-
-- [Ethereum’s roadmap isn’t ambitious enough](https://decryptmedia.com/6136/vulcanize-rick-dudley-ethereum-roadmap-makerdao-polkadot) *27.03.2019 - Interview with Rick Dudley*
-- [The Challenges of Building Ethereum Infrastructure](https://medium.com/@lopp/the-challenges-of-building-ethereum-infrastructure-87e443e47a4b) *08.01.2018 - Jameson Lopp*
-- [Parsimonious Answers to Difficult Questions](https://www.youtube.com/watch?v=GOkSg0BuSdw&feature=youtu.be) *(Wideo) 10.03.2019 - Rick Dudley*
-- [There’s no good reason to trust blockchain technology](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/) *06.02.2019 - Bruce Schneier*
+Critical views of Ethereum and Cryptocurrencies.
+- [Ethereum’s roadmap isn’t ambitious enough](https://decryptmedia.com/6136/vulcanize-rick-dudley-ethereum-roadmap-makerdao-polkadot) *March 27, 2019 - Interview with Rick Dudley*
+- [The Challenges of Building Ethereum Infrastructure](https://medium.com/@lopp/the-challenges-of-building-ethereum-infrastructure-87e443e47a4b) *Jan 8, 2018 - Jameson Lopp*
+- [Parsimonious Answers to Difficult Questions](https://www.youtube.com/watch?v=GOkSg0BuSdw&feature=youtu.be) *(Video) March 10, 2019 - Rick Dudley*
+- [There’s no good reason to trust blockchain technology](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/) *Feb 6, 2019 - Bruce Schneier*
