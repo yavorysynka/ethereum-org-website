@@ -1,18 +1,17 @@
 ---
-title: خانه
+title: Home
 meta:
-  - name: description
-    content: اتریوم یک پلتفرم متن باز جهانی٫ برای برنامه های غیر متمرکز است. در اتریوم٫ شما میتوانید برنامه‌ای بنویسید که ارزش دیجیتالی داشته باشد٫ دقیقا همان کدی که نوشته‌اید را اجرا میکند٫ و در تمامی نقاط جهان قابل دسترسی است.
-  - property: og:title
-    content: خانه | اتریوم
-  - property: og:description
-    content: اتریوم یک پلتفرم متن باز جهانی٫ برای برنامه های غیر متمرکز است. در اتریوم٫ شما میتوانید برنامه‌ای بنویسید که ارزش دیجیتالی داشته باشد٫ دقیقا همان کدی که نوشته‌اید را اجرا میکند٫ و در تمامی نقاط جهان قابل دسترسی است.
-lang: fa
+  - 
+    name: description
+    content: Ethereum is a global, decentralized platform for money and new kinds of applications. On Ethereum, you can write code that controls money, and build applications accessible anywhere in the world.
+  - 
+    property: og:title
+    content: Home | Ethereum
+  - 
+    property: og:description
+    content: Ethereum is a global, decentralized platform for money and new kinds of applications. On Ethereum, you can write code that controls money, and build applications accessible anywhere in the world.
+lang: en-US
 layout: home
-sidebar: false
 ---
-<div dir=rtl markdown=1>
 
 <HomePage/>
-
-</div>
