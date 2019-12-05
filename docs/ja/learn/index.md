@@ -1,132 +1,132 @@
 ---
-title: Learn about Ethereum
+title: イーサリアムについて学ぶ
 meta:
   - 
-    name: description
-    content: A set of technical and non-technical articles, guides, and resources to learn about Ethereum.
+    name: og:title
+    content: イーサリアムについて学ぶ | イーサリアム
   - 
     property: og:title
     content: Learn about Ethereum
   - 
     property: og:description
     content: A set of technical and non-technical articles, guides, and resources to learn about Ethereum.
-lang: en-US
+lang: ja
 sidebar: auto
 sidebarDepth: 0
 ---
 
-# Learn about Ethereum {#learn-about-ethereum}
+# イーサリアムについて学ぶ {#learn-about-ethereum}
 
-**Welcome to ethereum.org/learn, a set of resources to help you learn more about Ethereum.** This page includes technical **and** non-technical articles, guides, and resources. If you’re totally new to Ethereum, [we suggest you start here](/beginners/).
+**[ethereum.org/ja/learn](/ja/learn/) へようこそ。ここではイーサリアムについてより詳しく学ぶことができます。**このページでは、技術・非技術**両方**の解説記事やガイド、学習内容を取り扱います。 もしイーサリアムについて何も知らなければ[ここから始めるのがおすすめ](/ja/beginners/)です。
 
-Here are some excellent starting points:
+以下3つはイーサリアムについて学び始めるには非常に素晴らしいリソースです。
 
-- [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo&feature=youtu.be) *Sep 18, 2017 - Vitalik Buterin (Video)*
-- [Why Decentralization Matters](https://medium.com/s/story/why-decentralization-matters-5e3f79f7638e) *Feb 18, 2018 - Chris Dixon*
-- [The Year in Ethereum](https://medium.com/@jjmstark/the-year-in-ethereum-87a17d6f8276) *Jan 16, 2019 - Josh Stark, Evan Van Ness, and Daniel Zakrisson*
+- [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo&feature=youtu.be) *2017年9月18日 - Vitalik Buterin (ビデオ)*
+- [The Year in Ethereum](https://medium.com/@jjmstark/the-year-in-ethereum-87a17d6f8276) *2019年1月16日 - Josh Stark, Evan Van Ness, and Daniel Zakrisson*
+- [Ethereum is game-changing technology, literally](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8) *2019年3月29日 - Virgil Griffith*
 - [Ethereum is game-changing technology, literally](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8) *Mar 29, 2019 - Virgil Griffith*
 
-In addition to the information on this page, there are many community-built resources worth exploring:
+このページの学習リソースに加え、以下のようなコミュニティ型のものもあります。
 
-- [EthHub](https://docs.ethhub.io) *Comprehensive knowledge base for all things Ethereum*
-- [District0x](https://education.district0x.io/general-topics/understanding-ethereum/) *An educational resource about Ethereum targeted at beginners*
-- [Ethereum.wiki](https://ethereum.wiki) *A community-built wiki about Ethereum’s technology*
-- [Kauri](https://kauri.io) *Technical articles and tutorials for Ethereum and related projects*
-- [Ethereum Foundation YouTube](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) *Videos and talks about Ethereum*
-- [Week in Ethereum News](https://weekinethereumnews.com/) *A weekly newsletter covering key developments across the ecosystem*
-- [What’s new in ETH 2.0](https://notes.ethereum.org/c/Sk8Zs--CQ) *A regular newsletter about ETH 2.0 development*
-- [ethresear.ch forum](https://ethresear.ch/) *Deeper technical discussions on Ethereum for ETH 2.0 and beyond*
+- [EthHub](https://docs.ethhub.io) *イーサリアムのあらゆることを包括的に取り扱う知識ハブ*
+- [District0x](https://education.district0x.io/general-topics/understanding-ethereum/) *初心者向けのイーサリアムに関する教育リソース*
+- [Ethereum.wiki](https://ethereum.wiki) *イーサリアムの技術に関するコミュニティ型Wiki*
+- [Kauri](https://kauri.io) *イーサリアムと関連プロジェクトに関する技術記事とチュートリアル*
+- [Ethereum Foundation YouTube](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) *イーサリアムに関するビデオとプレゼンテーション*
+- [Week in Ethereum News](https://weekinethereumnews.com/) *エコシステム全体の開発を取り扱うウィークリーニュースレター*
+- [What’s new in ETH 2.0](https://notes.ethereum.org/c/Sk8Zs--CQ) *ETH 2.0の開発状況に関する定期ニュースレター*
+- [ETHGlobal](https://ethglobal.co) *イーサリアムハッカソン - 近くで開催されるハッカソンに出場してみては?!*
 - [ETHGlobal](https://ethglobal.co) *An Ethereum hackathon series - attend one near you!*
 
 
-## Ethereum basics {#ethereum-basics}
+## イーサリアムの基礎 {#ethereum-basics}
 
-New to Ethereum? These articles and resources are a good place to get started.
+イーサリアムは初めてですか？ 以下の記事や学習リソースが学び始めるのに最適です。
 
-- [A Beginner’s Guide to Ethereum](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf) *Feb 23, 2017 - Linda Xie*
-- [Video: What is Ether and Ethereum?](https://www.youtube.com/watch?v=fjnovGRQrRE) *April 25, 2019 - CME Group*
+- [A Beginner’s Guide to Ethereum](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf) *2017年2月23日 - Linda Xie*
 - [What is Ethereum?](https://education.district0x.io/general-topics/understanding-ethereum/what-is-ethereum/) *District0x*
-- [What is Ether?](https://docs.ethhub.io/ethereum-basics/what-is-ether/) *Updated often - EthHub*
-- [Absolute Beginner Introduction to Ethereum](https://www.mewtopia.com/absolute-beginners-guide/) *July 23, 2019*
-- [The Case for Ethereum](http://blog.eladgil.com/2018/01/the-case-for-ethereum.html) *Jan 30, 2018 - Elad Gil*
+- [What is Ether?](https://docs.ethhub.io/ethereum-basics/what-is-ether/) *頻繁にアップデートあり - EthHub*
+- [The Case for Ethereum](http://blog.eladgil.com/2018/01/the-case-for-ethereum.html) *2018年1月30日 - Elad Gil*
+- [Blockchains: How they Work and Why they’ll Change the World](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world) *2017年9月28日 - Morgan Peck*
+- [Don’t let Doubts about Blockchains Close your Mind](https://www.bloomberg.com/opinion/articles/2018-04-27/blockchains-warrant-skepticism-but-keep-an-open-mind) *2018年4月27日 - Tyler Cowen*
 - [Blockchains: How they Work and Why they’ll Change the World](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world) *Sept 28, 2017 - Morgan Peck*
 
-## How Ethereum works {#how-ethereum-works}
-High-level explanations of Ethereum and blockchain technology generally.
-- [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) *Sept 27, 2017 - Preethi Kasireddy*
-- [A Gentle Introduction to Ethereum](https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/) *Oct 2, 2016 - Antony Lewis*
-- [Introduction to Blockchain through Cryptoeconomics - Part 1](https://medium.com/blockchain-at-berkeley/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) *Jan 26, 2018 - Zubin Koticha*
-- [Introduction to Blockchain through Cryptoeconomics - Part 2](https://medium.com/mechanism-labs/introduction-to-bitcoin-through-cryptoeconomics-part-2-proof-of-work-and-nakamoto-consensus-1252f6a6c012) *July 19, 2018 - Zubin Koticha*
+## イーサリアムの仕組み {#how-ethereum-works}
+イーサリアムとブロックチェーン技術のハイレベルな解説。
+- [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) *2017年9月27日 - Preethi Kasireddy*
+- [A Gentle Introduction to Ethereum](https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/) *2016年10月2日 - Antony Lewis*
+- [Introduction to Blockchain through Cryptoeconomics - Part 1](https://blockchainatberkeley.blog/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) *2018年1月26日- Zubin Koticha*
+- [Introduction to Blockchain through Cryptoeconomics - Part 2](https://medium.com/mechanism-labs/introduction-to-bitcoin-through-cryptoeconomics-part-2-proof-of-work-and-nakamoto-consensus-1252f6a6c012) *2018年7月19日 - Zubin Koticha*
 
 
-## Smart Contracts {#smart-contracts}
+## スマートコントラクト {#smart-contracts}
 
-A “smart contract” is simply a piece of code that is running on Ethereum. It’s called a “contract” because code that runs on Ethereum can control valuable things like ETH or other digital assets.
+「スマートコントラクト」とはシンプルにイーサリアム上で実行されるコードのことです。 コントラクトと呼ばれる理由はイーサリアム上で動作するコードがETHや他のデジタルアセットのような価値を管理することができるからです。
 
 
-- Want to learn how to program on Ethereum with smart contracts? [ethereum.org/developers](/developers/)
+- スマートコントラクトを使ったイーサリアムのプログラミングを学びたい方はこちら [ethereum.org/ja/developers](/ja/developers/)
 - [What is a Smart Contract?](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc#what-is-a-smart-contract) *Nov 12, 2018 - Andreas M. Antonopoulos, Gavin Wood*
 - [What are Smart Contracts/Decentralized Applications?](https://docs.ethhub.io/ethereum-basics/what-is-ethereum/#what-are-smart-contracts-and-decentralized-applications) *Updated often - Ethhub*
 
-## Proof of Work and Mining {#proof-of-work-and-mining}
+## Proof of Workとマイニング {#proof-of-work-and-mining}
 
-Ethereum currently uses a system called “Proof of Work”. This allows the Ethereum network to agree on the state of all information recorded on the Ethereum blockchain, and prevents certain kinds of economic attacks.
+イーサリアムは現在Proof of Workと呼ばれるシステムを使用しています。 これによってイーサリアムブロックチェーンに記録された全ての情報の状態に関してネットワーク全体で合意を取り、経済的な攻撃を防ぐことができます。
 
 
-- [What does it mean to mine Ethereum?](https://docs.ethhub.io/using-ethereum/mining/) *Updated often - Ethhub*
+- [What does it mean to mine Ethereum?](https://docs.ethhub.io/using-ethereum/mining/) *頻繁にアップデートあり - Ethhub*
 - [How Ethereum Mining Works](https://www.coindesk.com/information/ethereum-mining-works) *Coindesk*
 
-In ETH 2.0, Ethereum will be moving to a different system called “Proof of Stake”. [Read more about ETH 2.0 below](./#eth-2-0).
+ETH 2.0ではイーサリアムは「Proof of Stake」という別のシステムに移行します。 [ETH 2.0については下部で学ぶことができます](#eth-2-0)。
 
-## Clients and Nodes {#clients-and-nodes}
-The Ethereum network is made up of many nodes, each of which runs compatible client software. There are two clients that are used by a majority of nodes: [Geth](https://geth.ethereum.org/) (written in Go) and [Parity](https://www.parity.io/ethereum/) (written in Rust).
+## クライアントとノード {#clients-and-nodes}
+イーサリアムネットワークは多くのノードによって構成されており、各ノードは互換性のあるクライアントソフトウェアを実行しています。 大多数のノードでは以下の二つのクライアントが使われています：[Geth](https://geth.ethereum.org/) (Go実装) and [Parity](https://www.parity.io/ethereum/) (Rust実装).
 
-- Want to learn how to run a node of your own? → [ethereum.org/developers](/developers/#clients-running-your-own-node)
-- [Comprehensive list of all Ethereum clients](https://github.com/ConsenSys/ethereum-developer-tools-list#ethereum-clients)
+- 自分でノードを運用してみたい人はこちら → [ethereum.org/ja/developers](/ja/developers/#クライアントとノードの運用)
+- [イーサリアムのクライアント全リストはこちら](https://github.com/ConsenSys/ethereum-developer-tools-list#ethereum-clients)
 
 ## Enterprise Ethereum {#enterprise-ethereum}
 
-Enterprise Ethereum refers to private, consortium, and hybrid implementations of the Ethereum codebase for business applications. Companies across the globe are already using Enterprise Ethereum to streamline financial markets, manage supply chains, and create new business models.
+スピードやトランザクションのスループットの向上によってイーサリアムをより「スケーラブル」にしようと様々な努力がなされています。 一般的にスケーラビリティソリューションは「レイヤー1」と「レイヤー2」に分けられます。
 
-Read more about [Enterprise Ethereum](/enterprise).
+「レイヤー1」とはイーサリアムのコアプロトコルの改善を意味し、 主に[ETH 2.0](#eth-2-0)で取り組まれています。
 
 
 ## Improving Ethereum’s Scalability {#improving-ethereums-scalability}
 
-There are many efforts underway to make Ethereum more “scalable” by improving its speed and overall transaction throughput. Generally these are sorted into “Layer 1” and “Layer 2” solutions.
+「レイヤー2」とはイーサリアムのプロトコルの「上に」構築される技術の総称で、セキュリティを損なうことなくスケーラビリティを改善しようとしています。 サイドチェーンのような「オフチェーン」と呼ばれる技術もあり、セキュリティとのトレードオフによってスケーラビリティの改善を実現します。
 
-“Layer 1” refers to improving the core Ethereum protocol. The primary project to improve Ethereum’s core protocol is [ETH 2.0](./#eth-2-0).
+ETH 2.0 (別名：セレニティ) はイーサリアムのコアプロトコルの次の大規模アップグレードを指します。 「レイヤー1」であるイーサリアムのコアプロトコルへの複数の改善案が統合されます。
 
-“Layer 2” refers to technologies that are built “on top” of the base Ethereum protocol, enabling greater scalability without compromising on security. There are also “off-chain” technologies like side-chains, which enable greater scalability by making a different set of security tradeoffs.
+ETH 1.xは既存のプロトコルに対して行う複数のアップグレードの呼称です。 ETH 2.0が開発・実装される間にも継続的なプロトコルの改善とメンテナンスを行うことが目的です。
 
-- [Making Sense of Layer 2](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) *Feb 12, 2018 - Josh Stark*
-- [The Case for Ethereum Scalability](https://medium.com/connext/the-case-for-ethereum-scalability-d2a8035f880f) *Jan 18, 2019 - Hunter Hillman, Steven McKie, and Eric Olszewski*
+- [Making Sense of Layer 2](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) *2018年2月12日 - Josh Stark*
+- [The Case for Ethereum Scalability](https://medium.com/connext/the-case-for-ethereum-scalability-d2a8035f880f) *2019年1月18日 - Hunter Hillman, Steven McKie, and Eric Olszewski*
 - [5 Ways to Scale your Ethereum Dapp](https://kauri.io/article/7ccaaa2fe7f344d5bf53807cb5c01530) *Apr 23, 2019 - Andreas Wallendahl*
 
 
-### Payment & State Channels {#payment--state-channels}
-- [State Channels - an explanation](https://www.jeffcoleman.ca/state-channels/) *Nov 6, 2015 - Jeff Coleman*
+### ペイメントチャネルとステートチャネル {#payment--state-channels}
+- [State Channels - an explanation](https://www.jeffcoleman.ca/state-channels/) *2015年11月6日 - Jeff Coleman*
 - [Basics of State Channels](https://education.district0x.io/general-topics/understanding-ethereum/basics-state-channels/) *District0x*
-- [State Channels](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/state-channels/) *Updated often - EthHub*
+- [State Channels](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/state-channels/) *頻繁にアップデートあり - EthHub*
 
-### Sidechains {#sidechains}
-- [Scaling Ethereum Dapps through Sidechains](https://medium.com/loom-network/dappchains-scaling-ethereum-dapps-through-sidechains-f99e51fff447) *Feb 8, 2018 - Georgios Konstantopoulos*
+### サイドチェーン {#sidechains}
+- [Scaling Ethereum Dapps through Sidechains](https://medium.com/loom-network/dappchains-scaling-ethereum-dapps-through-sidechains-f99e51fff447) *2018年2月8日 - Georgios Konstantopoulos*
 
-### Plasma {#plasma}
-- [Understanding Plasma, Part 1: The Basics](https://www.theblockcrypto.com/2019/02/07/understanding-plasma-part-1-the-basics/) *Feb 7, 2019 - Daniel Goldman*
+### プラズマ {#plasma}
+- [Understanding Plasma, Part 1: The Basics](https://www.theblockcrypto.com/2019/02/07/understanding-plasma-part-1-the-basics/) *2019年2月7日 - Daniel Goldman*
 - [Understanding Plasma](https://education.district0x.io/general-topics/understanding-ethereum/understanding-plasma/) *District0x*
 - [Learn Plasma - A learning resource for the Plasma framework](https://www.learnplasma.org/en/)
 
 
 ## ETH 2.0 {#eth-2-0}
 
-ETH 2.0 (also known as “Serenity”) refers to the next major upgrade of the core Ethereum protocol. It combines several improvements to Ethereum’s core protocol, or “Layer 1”.
+詳しくは [EthHubのETH 1.xについての解説](https://docs.ethhub.io/ethereum-roadmap/ethereum-1.x/)を読んでください。
 
-- [ETH 2.0 Roadmap and Phases](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/) *Updated often - EthHub*
-- [8 Teams Are Sprinting to Build the Next Generation of Ethereum](https://www.coindesk.com/next-gen-buidlers-the-8-teams-working-on-ethereum-2-0) *Dec 9, 2018 - Christine Kim*
-- [Proof of Stake](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/) *Updated often - EthHub*
-- [Sharding](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/sharding/) *Updated often - EthHub*
-- [ETH 2.0 - The Road to Scaling Ethereum - Vitalik Buterin](https://youtu.be/kCVpDrlVesA) *(Video) November, 2018 - YouTube*
+- [ETH 2.0 Roadmap and Phases](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/) *頻繁にアップデートあり - EthHub*
+- [8 Teams Are Sprinting to Build the Next Generation of Ethereum](https://www.coindesk.com/next-gen-buidlers-the-8-teams-working-on-ethereum-2-0) *2018年12月9日 - Christine Kim*
+- [Proof of Stake](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/) *頻繁にアップデートあり - EthHub*
+- [Sharding](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/sharding/) *頻繁にアップデートあり - EthHub*
+- [ETH 2.0 - The Road to Scaling Ethereum - Vitalik Buterin](https://youtu.be/kCVpDrlVesA) *(ビデオ) 2018年11月 - YouTube*
 - [ETH 2.0 Researchers AMA Part 1](https://docs.ethhub.io/other/ethereum-2.0-ama/#part-1) *Jan 24, 2019 - EthHub*
 - [ETH 2.0 Researchers AMA Part 2](https://docs.ethhub.io/other/ethereum-2.0-ama/#part-2) *Jul 15, 2019 - EthHub*
 - [9 Things You Didn't Know About Ethereum 2.0](https://our.status.im/9-things-you-didnt-know-about-ethereum-2-0/) *July 18, 2019 - Bruno Škvorc*
@@ -134,22 +134,22 @@ ETH 2.0 (also known as “Serenity”) refers to the next major upgrade of the c
 
 ## ETH 1.x {#eth-1x}
 
-ETH 1.x is the name for a collection of upgrades to the existing Ethereum protocol. The goal is to continue to improve and maintain Ethereum while ETH 2.0 is developed and implemented.
+「クリプトエコノミクス」は経済的インセンティブによって資産をセキュアに保ち、暗号によって経済メカニズムを保証できる分散システムを構築するための学問であり、 イーサリアムやビットコインのようなブロックチェーンのデザイン・スケーリング手法を広く指す用語です。
 
-For more information, see [EthHub’s explainer page about ETH 1.x](https://docs.ethhub.io/ethereum-roadmap/ethereum-1.x/)
+イーサリアムと暗号通貨への批判的意見。
 
 ## Cryptoeconomics {#cryptoeconomics}
 
 “Cryptoeconomics” is the practical science of building distributed systems, where properties of those systems are secured by financial incentives, and where the economic mechanisms are guaranteed by cryptography. It is the general term for the practice of designing and scaling blockchains like Ethereum and Bitcoin.
 
 - [Cryptoeconomics.study](https://cryptoeconomics.study/)
-- [Intro to Cryptoeconomics](https://www.youtube.com/watch?v=F0FCI8GxO5I) *(Video) Aug 19, 2018 - Karl Floersch*
-- [Making Sense of Cryptoeconomics](https://medium.com/l4-media/making-sense-of-cryptoeconomics-5edea77e4e8d) *Nov 16 2017 - Josh Stark*
+- [Intro to Cryptoeconomics](https://www.youtube.com/watch?v=F0FCI8GxO5I) *(ビデオ) 2018年8月19日 - Karl Floersch*
+- [Making Sense of Cryptoeconomics](https://medium.com/l4-media/making-sense-of-cryptoeconomics-5edea77e4e8d) *2017年11月16日 - Josh Stark*
 
 ## Critique and skepticism {#critique-and-skepticism}
 
 Critical views of Ethereum and Cryptocurrencies.
-- [Ethereum’s roadmap isn’t ambitious enough](https://decryptmedia.com/6136/vulcanize-rick-dudley-ethereum-roadmap-makerdao-polkadot) *March 27, 2019 - Interview with Rick Dudley*
-- [The Challenges of Building Ethereum Infrastructure](https://medium.com/@lopp/the-challenges-of-building-ethereum-infrastructure-87e443e47a4b) *Jan 8, 2018 - Jameson Lopp*
-- [Parsimonious Answers to Difficult Questions](https://www.youtube.com/watch?v=GOkSg0BuSdw&feature=youtu.be) *(Video) March 10, 2019 - Rick Dudley*
-- [There’s no good reason to trust blockchain technology](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/) *Feb 6, 2019 - Bruce Schneier*
+- [Ethereum’s roadmap isn’t ambitious enough](https://decryptmedia.com/6136/vulcanize-rick-dudley-ethereum-roadmap-makerdao-polkadot) *2019年3月27日 - Rick Dudley インタビュー*
+- [The Challenges of Building Ethereum Infrastructure](https://medium.com/@lopp/the-challenges-of-building-ethereum-infrastructure-87e443e47a4b) *2018年1月8日 - Jameson Lopp*
+- [Parsimonious Answers to Difficult Questions](https://www.youtube.com/watch?v=GOkSg0BuSdw&feature=youtu.be) *(ビデオ) 2019年3月10日 - Rick Dudley*
+- [There’s no good reason to trust blockchain technology](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/) *2019年2月6日 - Bruce Schneier*
