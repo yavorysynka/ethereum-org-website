@@ -1,16 +1,16 @@
 ---
-title: آموزش اتریوم
+title: Learn about Ethereum
 meta:
   - 
     name: description
-    content: مجموعة من المقالات والأدلة والموارد الفنية وغير الفنية للتعرف على إيثريوم.
+    content: A set of technical and non-technical articles, guides, and resources to learn about Ethereum.
   - 
     property: og:title
-    content: آموزش اتریوم
+    content: Learn about Ethereum
   - 
     property: og:description
-    content: مجموعة من المقالات والأدلة والموارد الفنية وغير الفنية للتعرف على إيثريوم.
-lang: ar
+    content: A set of technical and non-technical articles, guides, and resources to learn about Ethereum.
+lang: en-US
 sidebar: auto
 sidebarDepth: 0
 ---
