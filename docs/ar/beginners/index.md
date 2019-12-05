@@ -1,16 +1,16 @@
 ---
-title: What is Ethereum?
+title: المبتدئون
 meta:
   - 
     name: description
-    content: Guides, resources, and tools for users completely new to Ethereum.
+    content: توضیحات٫ مراجع و برنامه هایی که برای کاربرهای جدید اتریوم.
   - 
     property: og:title
-    content: What is Ethereum?
+    content: المبتدئون
   - 
     property: og:description
-    content: Guides, resources, and tools for users completely new to Ethereum.
-lang: en-US
+    content: توضیحات٫ مراجع و برنامه هایی که برای کاربرهای جدید اتریوم.
+lang: ar
 ---
 
 # What is Ethereum? {#what-is-ethereum}
