@@ -1,67 +1,74 @@
 ---
-title: Ndi mbido
+title: What is Ethereum?
 meta:
-  - property: og:title
-    content: Ndi mbido | Ethereum
-lang: ig
-sidebar: false
+  - 
+    name: description
+    content: Guides, resources, and tools for users completely new to Ethereum.
+  - 
+    property: og:title
+    content: What is Ethereum?
+  - 
+    property: og:description
+    content: Guides, resources, and tools for users completely new to Ethereum.
+lang: en-US
 ---
 
-# Nnoo! {#-welcome}
+# What is Ethereum? {#what-is-ethereum}
 
-Ọhụrụ na Ethereum? I no n'ebe ziri ezi. Ka anyi bido site na nnukwu foto.
+New to Ethereum? You’re in the right place. Let’s start with the big picture.
 
-**Ethereum bu ntọala nke oge ohuru nke intaneti:**
+**Ethereum is the foundation for a new era of the internet:**
 
-- Intanetii ebe ana aru banye ego na ikwu ugwo.
-- Intanetii ebe ndi na eji ya were ike enwe data nke ha, na ngwa komputa gi anaghi ezu gi ori maobu nyocha ihe zoro ezo.
-- Intanetii ebe onye o bula nwere ohere inweta usoro ego mepere emepe.
-- Intanetii aruru n'enweghi oku eletrik di ya, ulo nwere ohere mmepe, nke na enweghi onye maobu ulo oru n' achikwa ya.
+- An internet where money and payments are built in.
+- An internet where users can own their data, and your apps don’t spy and steal from you.
+- An internet where everyone has access to an open financial system.
+- An internet built on neutral, open-access infrastructure, controlled by no company or person.
 
-**Emepere ya na 2015, Ethereum bụ blockchain nke ana ahazi n'ihu kachasị n'ụwa niile.**
+**Launched in 2015, Ethereum is the world’s leading programmable blockchain.**
 
-**Dị ka blockchains ndị ọzọ, Ethereum nwere ego nwaafo cryptocurrency ana akpọ Ether (ETH).** ETH bụ ego dijitalụ. Ọ bụrụ na ị nụrụ maka [Bitcoin](http://bitcoin.org/) ETH nwere otutu otu njiri mara ya. Ọ bụ dijitalụ kpamkpam, enwere ike iziga onye ọ bụla nọ n'ụwa n'otu ntabi anya. Mbunye ihe nke ETH enweghi ndi goomenti maọbụ ụlọ ọrụ ọ bụla na achịkwa ya, ahazighariri ya, ma o di ụkọ. Ndị mmadụ n’ụwa niile na eji ETH akwu ugwo, dị ka ụlọ ahịa bara uru, ma ọ bụ dịka ihe eji ebiri ego.
+**Like other blockchains, Ethereum has a native cryptocurrency called Ether (ETH).** ETH is digital money. If you’ve heard of [Bitcoin](http://bitcoin.org/), ETH has many of the same features. It is purely digital, and can be sent to anyone anywhere in the world instantly. The supply of ETH isn’t controlled by any government or company - it is decentralized, and it is scarce. People all over the world use ETH to make payments, as a store of value, or as collateral.
 
-mana dika blockchain ndi ozo, Ethereum na emenwu karia. Ethereum bu ihe aga ahaziwu n'ihu, nka a putara na ndị meputara ya ga eji nwu ya [ruo ngwaoru komputa ọhụru di iche](//#1-were ngwaoru komputa aruru na ethereum).
+**But unlike other blockchains, Ethereum can do much more.** Ethereum is programmable, which means that developers can use it to [build new kinds of applications](/use/#1-use-an-application-built-on-ethereum).
 
-Ngwa komputa a ahazighariri (maobu "dapps") na enweta uru nke crypotcurrency na teknụzụ blockchain. Enwere ike itukwasi ha obi, nke a putara na ozigbo "enyefere" ha na Ethereum, ha ga na aru oru dika ihe ahaziri n'ihu oge niile. Ha na achikotawu akụ dijitalụ iji meputa ngwa ego komputa ohuru di iche. Enwere ike ihazighari ha, nke a putara na 'onweghi otu ihe maobu mmadu na achikota ya.
+These decentralized applications (or “dapps”) gain the benefits of cryptocurrency and blockchain technology. They can be trustworthy, meaning that once they are “uploaded” to Ethereum, they will always run as programmed. They can control digital assets in order to create new kinds of financial applications. They can be decentralized, meaning that no single entity or person controls them.
 
-**Ugbu a, otutu puku ndi mmeputa n' ụwa niile na-aru ngwa komputa na Ethereum, na aruputa ụdị ngwa komputa ọhụrụ, otutu nke i nwere ike eji taa:**
+**Right now, thousands of developers all over the world are building applications on Ethereum, and inventing new kinds of applications, many of which you can use today:**
 
-- [**Akpa ego Cryptocurrency**](/ig/use/#_3-what-is-a-wallet-and-which-one-should-i-use) nke ga ekwe ka ikwuo ugwo di onu ala ozugbo na ETH maọbụ akụnuba ndị ọzọ
-- **Ngwa ego komputa** nke ga ekwe ka ibiri, binye maọbụ tinye akunuba dijitalụ gị
-- **Ahia ahazighariri**, nke a ga - ekwe ka ịre ahia akunuba dijitalụ gi, maobu ahia "amụma" banyere ihe ndị mere n' ụwa n'ezie
-- **Egwuregwu** ebe ị ga enwe akunuba ihe egwuregwu n'ime, ma nwekwaa ike enweta ego ahuru anya
-- **Na ọtụtụ** Na ọtụtụ ndi ozo.
+- [**Cryptocurrency wallets**](/use/#3-what-is-a-wallet-and-which-one-should-i-use) that let you make cheap, instant payments with ETH or other assets
+- **Financial applications** that let you borrow, lend, or invest your digital assets
+- **Decentralized markets**, that let you trade digital assets, or even trade “predictions” about events in the real world
+- **Games** where you own in-game assets, and can even make real money
+- **And much,** much more.
 
-**Obodo Ethereum bụ obodo kacha buo ibu na-arụ ọrụ na ụwa niile.** Ọ gụnyere ndị mmeputa isi usoro di mkpa, ndị na-eme nchọpụta akụ na ụba, onye oshi ozi komputa, ulo oru na-egwupụta ihe n'ala, ndị na-ejide ETH, ndị mmeputa ngwa komputa, ndị ọrụ nkịtị, onye mmebi iwu, akunuba ndị ụlọ ọrụ 500, ma, ugbu a, **gị**.
+**The Ethereum community is the largest and most active blockchain community in the world.** It includes core protocol developers, cryptoeconomic researchers, cypherpunks, mining organizations, ETH holders, app developers, ordinary users, anarchists, fortune 500 companies, and, as of now, **you**.
 
-**Enweghị ụlọ ọrụ maọbụ ulo oru no otu ebe na-achịkota Ethereum.** ana eme ka Ethereum na-aga n'ihu ma-emeziwanye n'ngafe oge site na obodo dị iche iche zuru ụwa ọnụ nke ndị na-enye aka na-arụ ọrụ na ihe niile site na isi usorodi mkpa ruo na ngwa komputa ndị ahịa. Weebụsaịtị a, dị ka ndị ọzọ na Ethereum, ka aruru - ma na-aga n’ihu iru- site na nchịkọta ndị mmadụ na-arụkọ ọrụ onu.
+**There is no company or centralized organization that controls Ethereum.** Ethereum is maintained and improved over time by a diverse global community of contributors who work on everything from the core protocol to consumer applications. This website, just like the rest of Ethereum, was built - and continues to be built - by a collection of people working together.
 
-**Nnọọ na Ethereum.**
+**Welcome to Ethereum.**
 
-**I maghi ebe iga aga ozo?**
+**Not sure where to go next?**
 
-- I chọrọ ịmalite i di na-iji Ethereum? [ethereum.org/ig/use/](/ig/use/)
-- Inu oku n'obi ịmatakwu banyere Ethereum na teknụzụ ya? [ethereum.org/ig/learn](/ig/learn/)
-- I bu onye mmeputa nwere mmasị ịru na ethereum? [ethereum.org/ig/developers](/ig/developers/)
+- Want to get started using Ethereum? [ethereum.org/use](/use/)
+- Curious to learn more about Ethereum and its technology? [ethereum.org/learn](/learn/)
+- Are you a developer interested in building on ethereum? [ethereum.org/developers](/developers/)
 
-**I na-achọ inwetakwu mmalite ego oru banyere Ethereum?**
+**Looking for more beginner resources about Ethereum?**
 
-[Ahazighariri Ihe nile na Vitalik Buterin](https://youtu.be/WSN5BaCzsbo)
+[Decentralized Everything with Vitalik Buterin](https://youtu.be/WSN5BaCzsbo)
 
 <div class="iframe-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WSN5BaCzsbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Ben Horowitz na-akọwa ụzọ dị n'ihu maka blockchain](https://www.youtube.com/watch?v=l9jvKWKmRfs&feature=youtu.be)
+[Ben Horowitz explains the road ahead for blockchain](https://www.youtube.com/watch?v=l9jvKWKmRfs&feature=youtu.be)
 
 <div class="iframe-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/l9jvKWKmRfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Ethereum's Blockchain site na TechCrunch](https://www.youtube.com/watch?v=WfULutvxvzY)
+[Ethereum’s Blockchain by TechCrunch](https://www.youtube.com/watch?v=WfULutvxvzY)
 
 <div class="iframe-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WfULutvxvzY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+

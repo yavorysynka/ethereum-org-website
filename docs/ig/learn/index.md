@@ -1,128 +1,155 @@
 ---
-title: Mụta
+title: Learn about Ethereum
 meta:
-  - property: og:title
-    content: Mụta | Ethereum
-lang: ig
+  - 
+    name: description
+    content: A set of technical and non-technical articles, guides, and resources to learn about Ethereum.
+  - 
+    property: og:title
+    content: Learn about Ethereum
+  - 
+    property: og:description
+    content: A set of technical and non-technical articles, guides, and resources to learn about Ethereum.
+lang: en-US
 sidebar: auto
 sidebarDepth: 0
 ---
 
-# Mụta maka Ethereum {#learn-about-ethereum}
+# Learn about Ethereum {#learn-about-ethereum}
 
-**Nnọọ na [ethereum.org/ig/learn](/ig/learn/), otu ihe eji aru oru nyere gị aka ịmatakwu gbasara Ethereum.** Peeji a gụnyere teknuzu **na** akụkọ na-abụghị ọrụaka, ntuziaka na ihe eji aru oru. Ọ bụrụ na ị bu onye ohuru na Ethereum, [ anyị na-atụ aro ka ịmalite ebe a ](/ig/beginners/).
+**Welcome to ethereum.org/learn, a set of resources to help you learn more about Ethereum.** This page includes technical **and** non-technical articles, guides, and resources. If you’re totally new to Ethereum, [we suggest you start here](/beginners/).
 
-Ndị a bụ ụfọdụ ebe mmalite kachasi mma:
+Here are some excellent starting points:
 
-- [Ahazighariri Ihe niile](https://www.youtube.com/watch?v=WSN5BaCzsbo&feature=youtu.be) _Sep 18, 2017 - Vitalik Buterin (Video)_
-- [Afọ na Ethereum](https://medium.com/@jjmstark/the-year-in-ethereum-87a17d6f8276) _Jan 16, 2019 - Josh Stark, Evan Van Ness, and Daniel Zakrisson_
-- [Ethereum bụ teknụzụ na-eme ihe di iche, na ekwubigaghi okwu oke](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8) _Mar 29, 2019 - Virgil Griffith_
+- [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo&feature=youtu.be) *Sep 18, 2017 - Vitalik Buterin (Video)*
+- [Why Decentralization Matters](https://medium.com/s/story/why-decentralization-matters-5e3f79f7638e) *Feb 18, 2018 - Chris Dixon*
+- [The Year in Ethereum](https://medium.com/@jjmstark/the-year-in-ethereum-87a17d6f8276) *Jan 16, 2019 - Josh Stark, Evan Van Ness, and Daniel Zakrisson*
+- [Ethereum is game-changing technology, literally](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8) *Mar 29, 2019 - Virgil Griffith*
 
-Na mgbakwunye na ozi dị na peeji a, enwere ọtụtụ ihe enyere obodo aka kwesịrị ịchoputa:
+In addition to the information on this page, there are many community-built resources worth exploring:
 
-- [EthHub](https://docs.ethhub.io) _Ihe omuma zuru oke dabere maka ihe niile Ethereum_
-- [Mpaghara0x](https://education.district0x.io/general-topics/understanding-ethereum/) _Ihe eji eme nkuzi banyere Ethereum ezubere maka ndị na ebido ebido_
-- [Ethereum.wiki](https://ethereum.wiki) _Obodo wiki wuru banyere teknụzụ Ethereum_
-- [Kauri](https://kauri.io) _Ederede nka na ụzụ na nkuzi maka Ethereum na arụmaoru metụtara ya_
-- [Mmepe Ethereum na YouTube](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) _Vidio na okwu banyere Ethereum_
-- [Izu uka na Akụkọ uwa Ethereum ](https://weekinethereumnews.com/)_Akwụkwọ akụkọ uwa izu nke na-ekpuchi mmepe di mkpa gafere ihe di ndu n' ebe obibi_
-- [Kedu ihe dị ọhụrụ na ETH 2.0](https://notes.ethereum.org/c/Sk8Zs--CQ) _Akwụkwọ akụkọ uwa mgbe niile gbasara mmepe ETH 2.0_
-- [ETHGlobal](https://ethglobal.co) _Usoro Ethereum hackathon -gaa otu nke dị gị nso!_
+- [EthHub](https://docs.ethhub.io) *Comprehensive knowledge base for all things Ethereum*
+- [District0x](https://education.district0x.io/general-topics/understanding-ethereum/) *An educational resource about Ethereum targeted at beginners*
+- [Ethereum.wiki](https://ethereum.wiki) *A community-built wiki about Ethereum’s technology*
+- [Kauri](https://kauri.io) *Technical articles and tutorials for Ethereum and related projects*
+- [Ethereum Foundation YouTube](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) *Videos and talks about Ethereum*
+- [Week in Ethereum News](https://weekinethereumnews.com/) *A weekly newsletter covering key developments across the ecosystem*
+- [What’s new in ETH 2.0](https://notes.ethereum.org/c/Sk8Zs--CQ) *A regular newsletter about ETH 2.0 development*
+- [ethresear.ch forum](https://ethresear.ch/) *Deeper technical discussions on Ethereum for ETH 2.0 and beyond*
+- [ETHGlobal](https://ethglobal.co) *An Ethereum hackathon series - attend one near you!*
 
-  ## Ethereum kachasi mkpa {#ethereum-basics}
 
-  Ọhụrụ na Ethereum? Edemede ndị a na ihe eji aru oru bụ ebe dị mma ịmalite.
+## Ethereum basics {#ethereum-basics}
 
-  - [Ntụziaka onye mbido na Ethereum](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf) _Feb 23, 2017 - Linda Xie_
-  - [Gini bu Ethereum?](https://education.district0x.io/general-topics/understanding-ethereum/what-is-ethereum/) _Mpaghara0x_
-  - [Gini bu Ether?](https://docs.ethhub.io/ethereum-basics/what-is-ether/) _emelitere ohuru ọtụtụ mgbe - EthHub_
-  - [Ihe nyocha maka Ethereum](http://blog.eladgil.com/2018/01/the-case-for-ethereum.html) _Jan 30, 2018 - Elad Gil_
-  - [Blockchains: Otu ha si arụ ọrụ na ihe kpatara ha ga agbanwe ụwa](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world) _Sept 28, 2017 - Morgan Peck_
-  - [Ekwela ka inwe obi abụọ banyere Blockchains mechie uche gị ](https://www.bloomberg.com/opinion/articles/2018-04-27/blockchains-warrant-skepticism-but-keep-an-open-mind) _April 27, 2018 - Tyler Cowen_
+New to Ethereum? These articles and resources are a good place to get started.
 
-  ## Otu Ethereum si arụ ọrụ {#how-ethereum-works}
+- [A Beginner’s Guide to Ethereum](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf) *Feb 23, 2017 - Linda Xie*
+- [Video: What is Ether and Ethereum?](https://www.youtube.com/watch?v=fjnovGRQrRE) *April 25, 2019 - CME Group*
+- [What is Ethereum?](https://education.district0x.io/general-topics/understanding-ethereum/what-is-ethereum/) *District0x*
+- [What is Ether?](https://docs.ethhub.io/ethereum-basics/what-is-ether/) *Updated often - EthHub*
+- [Absolute Beginner Introduction to Ethereum](https://www.mewtopia.com/absolute-beginners-guide/) *July 23, 2019*
+- [The Case for Ethereum](http://blog.eladgil.com/2018/01/the-case-for-ethereum.html) *Jan 30, 2018 - Elad Gil*
+- [Blockchains: How they Work and Why they’ll Change the World](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world) *Sept 28, 2017 - Morgan Peck*
 
-  Ogo elu nkọwa nke Ethereum na teknụzụ blockchain nile.
+## How Ethereum works {#how-ethereum-works}
+High-level explanations of Ethereum and blockchain technology generally.
+- [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) *Sept 27, 2017 - Preethi Kasireddy*
+- [A Gentle Introduction to Ethereum](https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/) *Oct 2, 2016 - Antony Lewis*
+- [Introduction to Blockchain through Cryptoeconomics - Part 1](https://medium.com/blockchain-at-berkeley/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) *Jan 26, 2018 - Zubin Koticha*
+- [Introduction to Blockchain through Cryptoeconomics - Part 2](https://medium.com/mechanism-labs/introduction-to-bitcoin-through-cryptoeconomics-part-2-proof-of-work-and-nakamoto-consensus-1252f6a6c012) *July 19, 2018 - Zubin Koticha*
 
-  - [Kedu ka Ethereum si arụ ọrụ, na agbanyeghị?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) _Sept 27, 2017 - Preethi Kasireddy_
-  - [Okwu mwebata di nwayo na Ethereum](https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/) _Oct 2, 2016 - Antony Lewis_
-  - [Mwebata na Blockchain site na Cryptoeconomics -Nkebi nke mbụ](https://blockchainatberkeley.blog/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) _Jan 26, 2018 - Zubin Koticha_
-  - [Okwu mmeghe na Blockchain site na Cryptoeconomics - Nkebi nke abụọ](https://medium.com/mechanism-labs/introduction-to-bitcoin-through-cryptoeconomics-part-2-proof-of-work-and-nakamoto-consensus-1252f6a6c012) _July 19, 2018 - Zubin Koticha_
 
-  ## Nkwekọrịta amamihe {#smart-contracts}
+## Smart Contracts {#smart-contracts}
 
-  Nkwekọrịta amamihe 'bụ naanị mpempe koodu na-aru oru na Ethereum. A na-akpọ ya "nkwekọrịta" n'ihi na koodu na-aru oru na Ethereum nwere ike ichikwa ihe ndị bara uru dị ka ETH ma ọ bụ akụnuba dijitalụ ndị ọzọ.
+A “smart contract” is simply a piece of code that is running on Ethereum. It’s called a “contract” because code that runs on Ethereum can control valuable things like ETH or other digital assets.
 
-  - I chọrọ ịmụta ka esi eme nhazi nkwekorita amamihe na Ethereum? [ethereum.org/ig/developers/](/ig/developers/)
 
-  ## Ihe akaebe nke Oru na Ngwuputa {#proof-of-work-and-mining}
+- Want to learn how to program on Ethereum with smart contracts? [ethereum.org/developers](/developers/)
+- [What is a Smart Contract?](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc#what-is-a-smart-contract) *Nov 12, 2018 - Andreas M. Antonopoulos, Gavin Wood*
+- [What are Smart Contracts/Decentralized Applications?](https://docs.ethhub.io/ethereum-basics/what-is-ethereum/#what-are-smart-contracts-and-decentralized-applications) *Updated often - Ethhub*
 
-  Ethereum ugbu a na-eji usoro akpọrọ “Ihe akaebe nke Oru”. Nke a na-enye ohere ka netwọk Ethereum kwenye na steeti ozi niile edekọtara na blockchain Ethereum, ma gbochie ụdị mwakpo akụ na ụba.
+## Proof of Work and Mining {#proof-of-work-and-mining}
 
-  - [Kedu ihe ọ pụtara ekwuputa Ethereum?](https://docs.ethhub.io/using-ethereum/mining/) _Emelitere ohuru ọtụtụ mgbe - Ethhub_
-  - [Ka Ngwuputa Ethereum si arụ ọrụ](https://www.coindesk.com/information/ethereum-mining-works) _Coindesk_
-    Na ETH 2.0, Ethereum ga aga na sistemụ dị iche akpọrọ “Ihe akaebe nke Ntinye ego”. [Gụkwuo banyere ETH 2.0 n'okpuru](./#eth-2-0).
+Ethereum currently uses a system called “Proof of Work”. This allows the Ethereum network to agree on the state of all information recorded on the Ethereum blockchain, and prevents certain kinds of economic attacks.
 
-  ## Ndị ahịa na Ebe nzuko {#clients-and-nodes}
 
-  Ngwakọta Ethereum nwere ọtụtụ ebe nzuko, nke ọ bụla na-aru oru sọftụwia ndị ahịa jikotara onu. Enwere ndị ahịa abụọ ana-eji site na ọtụtụ ebe nzuko:[Geth](https://geth.ethereum.org/)(edere na ebe ana aga) na[ Nha nhata](https://www.parity.io/ethereum/) (e dere na Rust).
+- [What does it mean to mine Ethereum?](https://docs.ethhub.io/using-ethereum/mining/) *Updated often - Ethhub*
+- [How Ethereum Mining Works](https://www.coindesk.com/information/ethereum-mining-works) *Coindesk*
 
-  - I chọrọ ịmụ otu esi agba nodu nke gi? [ethereum.org/ig/developers](/ig/developers/#clients-running-your-own-node)
-  - [Ndeputa nile nke ndi Ethereum](https://github.com/ConsenSys/ethereum-developer-tools-list#ethereum-clients)
+In ETH 2.0, Ethereum will be moving to a different system called “Proof of Stake”. [Read more about ETH 2.0 below](./#eth-2-0).
 
-  ## Imeziwanye Ibelata Ethereum {#improving-ethereums-scalability}
+## Clients and Nodes {#clients-and-nodes}
+The Ethereum network is made up of many nodes, each of which runs compatible client software. There are two clients that are used by a majority of nodes: [Geth](https://geth.ethereum.org/) (written in Go) and [Parity](https://www.parity.io/ethereum/) (written in Rust).
 
-  E nwere ọtụtụ mbọ a na agba iji mee Ethereum ka ọ bụrụ “ihe egwu” site na ịbawanye ọsọ na ihe mmeputa azụmahịa ya n'ozuzu. Na-ahazịzie, ana-edozi ha n'ngwọta “etu otu” na “etu abuo”.
-  “Etu otu” na-ezo aka na isi imeziwanye Ethereum protocol. Ọrụ bụ isi iji meziwanye usoro isi Ethereum bụ [ ETH 2.0](./#eth-2-0).
-  “Etu“ abuo ”na-ezo aka na teknụzụ nke etinyere“ n’elu ”nke usoro Ethereum dị ala, na-enye aka nnukwu scalability n’emebighị ihe na nchekwa. Enwekwara teknụzụ “nke na-abụghị nke ọma” dị ka eriri n'akuku, nke na-eme ka ọ dịkwuo ukwuu ma ọ bụrụ na -eme usoro azụmahịa nche dị iche.
+- Want to learn how to run a node of your own? → [ethereum.org/developers](/developers/#clients-running-your-own-node)
+- [Comprehensive list of all Ethereum clients](https://github.com/ConsenSys/ethereum-developer-tools-list#ethereum-clients)
 
-  - [na-eme ka uche nke etu abuo](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) _Feb 12, 2018 - Josh Stark_
-  - [Okwu maka Ethereum Scalability](https://medium.com/connext/the-case-for-ethereum-scalability-d2a8035f880f) _Jan 18, 2019 - Hunter Hillman, Steven McKie, and Eric Olszewski_
+## Enterprise Ethereum {#enterprise-ethereum}
 
-  ### Ugwo &amp Ọwa steeti {#payment--state-channels}
+Enterprise Ethereum refers to private, consortium, and hybrid implementations of the Ethereum codebase for business applications. Companies across the globe are already using Enterprise Ethereum to streamline financial markets, manage supply chains, and create new business models.
 
-  - [Ọwa steeti - nkọwa](https://www.jeffcoleman.ca/state-channels/) _Nov 6, 2015 -Jeff Coleman_
-  - [Ntọala nke Ọwa steeti](https://education.district0x.io/general-topics/understanding-ethereum/basics-state-channels/) _Mpaghara0x_
-  - [Ọwa steeti](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/state-channels/) _Emelitere ọtụtụ mgbe - EthHub_
+Read more about [Enterprise Ethereum](/enterprise).
 
-  ### Akukuagbu {#sidechains}
 
-  - [ ọnụ ọgụgụ Ethereum Dapps site na Akukuagbu](https://medium.com/loom-network/dappchains-scaling-ethereum-dapps-through-sidechains-f99e51fff447) _eb 8, 2018 - Georgios Konstantopoulos_
+## Improving Ethereum’s Scalability {#improving-ethereums-scalability}
 
-  ### Plasma {#plasma}
+There are many efforts underway to make Ethereum more “scalable” by improving its speed and overall transaction throughput. Generally these are sorted into “Layer 1” and “Layer 2” solutions.
 
-  - [Ghọta Plasma, Nke mbu: Ihe Ntọala](https://www.theblockcrypto.com/2019/02/07/understanding-plasma-part-1-the-basics/) _Feb 7, 2019 - Daniel Goldman_
-  - [ Ghota Plasma](https://education.district0x.io/general-topics/understanding-ethereum/understanding-plasma/) _Mpaghara0x_
-  - [Muta Plasma - Ihe mmụta maka usoro nke Plasma](https://www.learnplasma.org/en/)
+“Layer 1” refers to improving the core Ethereum protocol. The primary project to improve Ethereum’s core protocol is [ETH 2.0](./#eth-2-0).
 
-  ## ETH 2.0 {#eth-2-0}
+“Layer 2” refers to technologies that are built “on top” of the base Ethereum protocol, enabling greater scalability without compromising on security. There are also “off-chain” technologies like side-chains, which enable greater scalability by making a different set of security tradeoffs.
 
-  ETH 2.0 (nke a makwaara dị ka “Serenity”) na-ezo aka na nkwalite isi ọzọ nke usoro isi protocol Ethereum. Ọ jikọtara ọtụtụ ndozi na usoro isi Ethereum, ma ọ bụ “Etu otu”.
+- [Making Sense of Layer 2](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) *Feb 12, 2018 - Josh Stark*
+- [The Case for Ethereum Scalability](https://medium.com/connext/the-case-for-ethereum-scalability-d2a8035f880f) *Jan 18, 2019 - Hunter Hillman, Steven McKie, and Eric Olszewski*
+- [5 Ways to Scale your Ethereum Dapp](https://kauri.io/article/7ccaaa2fe7f344d5bf53807cb5c01530) *Apr 23, 2019 - Andreas Wallendahl*
 
-  - [Okporo ụzọ na usoro ETH 2.0 ](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/) _Emelitere otutu mgbe - EthHub_
-  - [Otu egwuregwu asato na-agbasa iji wuo Ọgbọ ọzọ nke Ethereum](https://www.coindesk.com/next-gen-buidlers-the-8-teams-working-on-ethereum-2-0) _Dec 9, 2018 - Christine Kim_
-  - [Ihe akaebe nke Stake](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/) _Emelitere otutu mgbe - EthHub_
-  - [Sharding](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/sharding/) _Emelitere otutu mgbe - EthHub_
-  - [ Okporo uzo eji e scalu Ethereum - Vitalik Buterin](https://youtu.be/kCVpDrlVesA) _(Video) November, 2018 - YouTube_
 
-  ## ETH 1.x {#eth-1x}
+### Payment & State Channels {#payment--state-channels}
+- [State Channels - an explanation](https://www.jeffcoleman.ca/state-channels/) *Nov 6, 2015 - Jeff Coleman*
+- [Basics of State Channels](https://education.district0x.io/general-topics/understanding-ethereum/basics-state-channels/) *District0x*
+- [State Channels](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/state-channels/) *Updated often - EthHub*
 
-  ETH 1.x bụ aha maka nchịkọta nke nkwalite ndị ọzọ na usoro Ethereum dị adị. Ebumnuche bụ ịga n'ihu na-emeziwanye ma na-elekọta Ethereum ebe a na-azụlite ma na-eme ETH 2.0.
-  Maka ozi ndi ozo, lee [Nkọwa onye EthHub banyere ETH 1.x](https://docs.ethhub.io/ethereum-roadmap/ethereum-1.x/)
+### Sidechains {#sidechains}
+- [Scaling Ethereum Dapps through Sidechains](https://medium.com/loom-network/dappchains-scaling-ethereum-dapps-through-sidechains-f99e51fff447) *Feb 8, 2018 - Georgios Konstantopoulos*
 
-  ## Cryptoeconomics {#cryptoeconomics}
+### Plasma {#plasma}
+- [Understanding Plasma, Part 1: The Basics](https://www.theblockcrypto.com/2019/02/07/understanding-plasma-part-1-the-basics/) *Feb 7, 2019 - Daniel Goldman*
+- [Understanding Plasma](https://education.district0x.io/general-topics/understanding-ethereum/understanding-plasma/) *District0x*
+- [Learn Plasma - A learning resource for the Plasma framework](https://www.learnplasma.org/en/)
 
-  “Cryptoeconomics” bụ sayensị bara uru nke ijikọ sistemu e kesaa ekesaa, ebe a na-echekwa akụrụngwa nke sistemụ ahụ site na mkpali akụ na ụba, na ebe a na-ejikwa usoro akụ na ụba na-enyocha usoro akụ na ụba. Ọ bụ okwu izugbe maka omume nke ịkpụpụta na scaling blockchains dịka Ethereum na Bitcoin.
 
-  - [Cryptoeconomics.study](https://cryptoeconomics.study/)
-  - [Intro na Cryptoeconomics](https://www.youtube.com/watch?v=F0FCI8GxO5I) _(Video) Aug 19, 2018 - Karl Floersch_
-  - [ Ime n'ghota nke Cryptoeconomics](https://medium.com/l4-media/making-sense-of-cryptoeconomics-5edea77e4e8d) _Nov 16 2017 - Josh Stark_
+## ETH 2.0 {#eth-2-0}
 
-  ## Nkatọ na obi abụọ {#critique-and-skepticism}
+ETH 2.0 (also known as “Serenity”) refers to the next major upgrade of the core Ethereum protocol. It combines several improvements to Ethereum’s core protocol, or “Layer 1”.
 
-  Echiche nkatọ nke Ethereum na Cryptocurrencies.
+- [ETH 2.0 Roadmap and Phases](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/) *Updated often - EthHub*
+- [8 Teams Are Sprinting to Build the Next Generation of Ethereum](https://www.coindesk.com/next-gen-buidlers-the-8-teams-working-on-ethereum-2-0) *Dec 9, 2018 - Christine Kim*
+- [Proof of Stake](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/) *Updated often - EthHub*
+- [Sharding](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/sharding/) *Updated often - EthHub*
+- [ETH 2.0 - The Road to Scaling Ethereum - Vitalik Buterin](https://youtu.be/kCVpDrlVesA) *(Video) November, 2018 - YouTube*
+- [ETH 2.0 Researchers AMA Part 1](https://docs.ethhub.io/other/ethereum-2.0-ama/#part-1) *Jan 24, 2019 - EthHub*
+- [ETH 2.0 Researchers AMA Part 2](https://docs.ethhub.io/other/ethereum-2.0-ama/#part-2) *Jul 15, 2019 - EthHub*
+- [9 Things You Didn't Know About Ethereum 2.0](https://our.status.im/9-things-you-didnt-know-about-ethereum-2-0/) *July 18, 2019 - Bruno Škvorc*
 
-  - [ Ethereum uzo abughi oke ochicho ](https://decryptmedia.com/6136/vulcanize-rick-dudley-ethereum-roadmap-makerdao-polkadot) _March 27, 2019 -Ajụjụ ọnụ Rick Dudley_
-  - [ Ihe ịma aka nke Owuwu Ethereum](https://medium.com/@lopp/the-challenges-of-building-ethereum-infrastructure-87e443e47a4b) _Jan 8, 2018 - Jameson Lopp_
-  - [ Azịza parsimonious maka ajụjụ tara akpụ ](https://www.youtube.com/watch?v=GOkSg0BuSdw&feature=youtu.be) _(Video) Machị 10, 2019 - Rick Dudley_
-  - [ Enweghị zi ihe mere a ga-eji tụkwasị teknụzụ blockchain obi](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/) _Feb 6, 2019 - Bruce Schneier_
+
+## ETH 1.x {#eth-1x}
+
+ETH 1.x is the name for a collection of upgrades to the existing Ethereum protocol. The goal is to continue to improve and maintain Ethereum while ETH 2.0 is developed and implemented.
+
+For more information, see [EthHub’s explainer page about ETH 1.x](https://docs.ethhub.io/ethereum-roadmap/ethereum-1.x/)
+
+## Cryptoeconomics {#cryptoeconomics}
+
+“Cryptoeconomics” is the practical science of building distributed systems, where properties of those systems are secured by financial incentives, and where the economic mechanisms are guaranteed by cryptography. It is the general term for the practice of designing and scaling blockchains like Ethereum and Bitcoin.
+
+- [Cryptoeconomics.study](https://cryptoeconomics.study/)
+- [Intro to Cryptoeconomics](https://www.youtube.com/watch?v=F0FCI8GxO5I) *(Video) Aug 19, 2018 - Karl Floersch*
+- [Making Sense of Cryptoeconomics](https://medium.com/l4-media/making-sense-of-cryptoeconomics-5edea77e4e8d) *Nov 16 2017 - Josh Stark*
+
+## Critique and skepticism {#critique-and-skepticism}
+
+Critical views of Ethereum and Cryptocurrencies.
+- [Ethereum’s roadmap isn’t ambitious enough](https://decryptmedia.com/6136/vulcanize-rick-dudley-ethereum-roadmap-makerdao-polkadot) *March 27, 2019 - Interview with Rick Dudley*
+- [The Challenges of Building Ethereum Infrastructure](https://medium.com/@lopp/the-challenges-of-building-ethereum-infrastructure-87e443e47a4b) *Jan 8, 2018 - Jameson Lopp*
+- [Parsimonious Answers to Difficult Questions](https://www.youtube.com/watch?v=GOkSg0BuSdw&feature=youtu.be) *(Video) March 10, 2019 - Rick Dudley*
+- [There’s no good reason to trust blockchain technology](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/) *Feb 6, 2019 - Bruce Schneier*

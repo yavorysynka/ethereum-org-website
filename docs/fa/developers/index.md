@@ -1,386 +1,510 @@
 ---
-title: اتریوم برای توسعه‌دهندگان
+title: Ethereum for Developers
 meta:
-  - name: description
-    content: توضیحات٫ مراجع و ابزار‌هایی برای توسعه دهندگان اتریوم
-  - property: og:title
-    content: اتریوم برای توسعه‌دهندگان
-  - property: og:description
-    content: توضیحات٫ مراجع و ابزار‌هایی برای توسعه دهندگان اتریوم
-lang: fa
+  - 
+    name: description
+    content: Guides, resources, and tools for developers building on Ethereum.
+  - 
+    property: og:title
+    content: Ethereum for Developers
+  - 
+    property: og:description
+    content: Guides, resources, and tools for developers building on Ethereum.
+lang: en-US
 sidebar: auto
 sidebarDepth: 1
 ---
 
-<div dir=rtl markdown=1>
+# Developer Resources {#developer-resources}
 
-# منابع توسعه‌دهندگان {#developer-resources}
+<div class="featured">Guides, resources, and tools for developers building on Ethereum.</div>
 
-<div class="featured">توضیحات٫ مراجع و ابزار‌هایی برای توسعه دهندگان اتریوم</div>
+## Getting started {#getting-started}
 
-## شروع کنیم {#getting-started}
+**If you’re new to developing with Ethereum, you’re in the right place.** These guides written by the Ethereum community will introduce you to the basics of the Ethereum stack and introduce core concepts that might be different from other app development you’re familiar with.
 
-**اگر می‌خواهید تازه با روند توسعه اتریوم آشنا شوید، جای درستی مراجعه کرده‌اید.** این راهنما‌هایی که توسط جامعه اتریوم نوشته شده است، به معرفی اصول پایه‌ای مجموعه اتریوم پرداخته و مفاهیم هسته‌ای که احتمالا متفاوت با توسعه اپ‌های دیگری‌ست که با آنها آشنایی دارید، به شما ارائه می‌دهد.
+Want to start coding right away? [Start building here](/build/).
 
-آیا به توضیحات پایه‌ای بیشتری نیاز دارید؟ پس اینجا را ببینید
-[آموختن.](/fa/learn/)
+Need a more basic primer first? Check out our [learning resources](/learn/).
 
+**Helpful Resources**
 
-- [راهنمای جامع علاقه مندان و توسعه دهندگان اتریوم ( Ethereum )](https://coiniran.com/comprehensive-guide-for-ethereum-developers/) *کوین ایران*
-- [Getting up to speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe) *Aug 7, 2017 - Matt Condon*
-- [Ethereum In Depth, Part 1](https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/) *May 11, 2018 - Facu Spagnuolo*
-- [Ethereum In Depth, Part 2 ](https://blog.openzeppelin.com/ethereum-in-depth-part-2-6339cf6bddb9/) *July 24, 2018 - Facu Spagnuolo*
-- [چطور می توانیم یک توسعه دهنده اتریوم (Ethereum) شویم؟ (قسمت نخست)](https://coiniran.com/guide-ethereum-developer/) *2018-03 کوین ایران*
-- [چطور می توانیم یک توسعه دهنده اتریوم (Ethereum) شویم؟ (قسمت دوم)](https://coiniran.com/guide-ethereum-developer-pt2/) *2018-03 کوین ایران*
-- [Ethereum Development Walkthrough, Parts 1-5](https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e) *Jan 14, 2018 - dev_zl*
-- [Ethereum 101, Parts 1-7](https://kauri.io/collection/5bb65f0f4f34080001731dc2/ethereum-101) *Feb 13, 2019 - Wil Barnes*
-- [Full Stack Hello World Voting Ethereum Dapp Tutorial ](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2) *Feb 2019 - Mahesh Murthy*
-- [Mastering Ethereum - A comprehensive textbook available for free online](https://github.com/ethereumbook/ethereumbook) *Dec 1, 2018 - Andreas Antonopoulos & Gavin Wood*
-- [Ethereum Developer Portal - Everything you need to get started building on Ethereum](https://ethereum.consensys.net/ethereum-dev-portal) *Updated often - ConsenSys*
-- [Deconstructing a Solidity Contract](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/) *Aug 13, 2018 - Alejandro Santander & Leo Arias*
-- [Full Stack Dapp Tutorial Series ](https://kauri.io/collection/5b8e401ee727370001c942e3) *Updated Often - Joshua Cassidy*
-- [آموزش گام به گام زبان برنامه نویسی Solidity برای ساخت DApp اتریوم (قسمت نخست)](https://coiniran.com/how-to-learn-solidity/) *2018-07 - کوین ایران*
-- [آموزش گام به گام زبان برنامه نویسی Solidity برای ساخت DApp اتریوم (قسمت دوم)](https://coiniran.com/how-to-learn-solidity-2/) *2018-07 - کوین ایران*
-- [آموزش گام به گام زبان برنامه نویسی Solidity برای ساخت DApp اتریوم (قسمت سوم)](https://coiniran.com/how-to-learn-solidity-3/) *2018-07 - کوین ایران*
-  
+- [Getting up to speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe) _Aug 7, 2017 - Matt Condon_
+- [Ethereum In Depth, Part 1](https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/) _May 11, 2018 - Facu Spagnuolo_
+- [Ethereum In Depth, Part 2](https://blog.openzeppelin.com/ethereum-in-depth-part-2-6339cf6bddb9/) _July 24, 2018 - Facu Spagnuolo_
+- [Ethereum Development Walkthrough, Parts 1-5](https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e) _Jan 14, 2018 - dev_zl_
+- [Ethereum 101, Parts 1-7](https://kauri.io/collection/5bb65f0f4f34080001731dc2/ethereum-101) _Feb 13, 2019 - Wil Barnes_
+- [Full Stack Hello World Voting Ethereum Dapp Tutorial](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)  _Feb 2019 - Mahesh Murthy_
+- [Mastering Ethereum - A comprehensive textbook available for free online](https://github.com/ethereumbook/ethereumbook) _Dec 1, 2018 - Andreas Antonopoulos & Gavin Wood_
+- [Ethereum Developer Portal - Everything you need to get started building on Ethereum](https://ethereum.consensys.net/ethereum-dev-portal) _Updated often - ConsenSys_
+- [Deconstructing a Solidity Contract](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/) _Aug 13, 2018 - Alejandro Santander & Leo Arias_
+- [Full Stack Dapp Tutorial Series](https://kauri.io/collection/5b8e401ee727370001c942e3)  _Updated Often - Joshua Cassidy_
 
-## زبان‌های قرارداد هوشمند {#smart-contract-languages}
+## Smart Contract Languages {#smart-contract-languages}
 
-هر برنامه‌ای که بر روی ماشین مجازی اتریوم (EVM) اجرا شود عموما یک "قرارداد هوشمند" محسوب می‌شود. محبوب‌ترین زبان‌هایی که برای نوشتن قرارداد‌های هوشمند بر روی اتریوم استفاده می‌شوند **Solidity** و **Vyper** هستند، اگرچه زبان‌های [در حال توسعه دیگری](https://github.com/ConsenSys/ethereum-developer-tools-list#smart-contract-languages) نیز وجود دارند 
-.
+Any program that runs on the Ethereum Virtual Machine (EVM) is commonly referred to as a “smart contract”. The most popular languages for writing smart contracts on Ethereum are **Solidity** and **Vyper**, though there are [others under development](https://github.com/ConsenSys/ethereum-developer-tools-list#smart-contract-languages).
 
-**سالیدیتی (Solidity)** *محبوب‌ترین زبان روی اتریوم، الهام گرفته شده از ++C، پایتون و جاوا اسکریپت.*
+**Solidity -** **_The most popular language on Ethereum, inspired by C++, Python and JavaScript._**
+
 - [Documentation](https://solidity.readthedocs.io)
 - [GitHub](https://github.com/ethereum/solidity/)
 - [Solidity Gitter Chatroom](https://gitter.im/ethereum/solidity/)
 
-**وایپر (Vyper)** *زبانی متمرکز بر امنیت برای اتریوم، بر پایه پایتون.*
+**Vyper -** **_Security focused language for Ethereum, based on Python._**
+
 - [Documentation](https://vyper.readthedocs.io)
 - [GitHub](https://github.com/ethereum/vyper)
 - [Vyper Gitter Chatroom](https://gitter.im/ethereum/vyper)
 
-آیا به دنبال انتخاب‌های دیگری هم هستید؟
+**Looking for other options?**
+
 - [Ethereum Developers Tools List #SmartContractLanguages](https://github.com/ConsenSys/ethereum-developer-tools-list#smart-contract-languages)
 
-## منابع ویژه زبان {#language-specific-resources}
+## Language Specific Resources {#language-specific-resources}
 
-ما در حال اختصاص صفحاتی به زبان‌های ویژه هستیم تا توسعه‌دهندگان بتوانند با زبان برنامه‌نویسی ترجیحی خودشان در مورد اتریوم آموزش ببینند.
-- [Ethereum for Java developers](/java)
-- [Ethereum for Python developers](/python)
-- Ethereum for Javascript developers (coming soon)
-- Others coming soon!
+We're building a suite of language-specific landing pages for developer to learn about Ethereum in their preferred programming language.
 
-## ابزار‌های برنامه‌نویسی {#developer-tools}
+- [Ethereum for Java developers](/java/)
+- [Ethereum for Python developers](/python/)
+- [Ethereum for JavaScript developers](/javascript/)
+- [Ethereum for Go developers](/golang/)
+- [Ethereum for Rust developers](/rust/)
+- [Ethereum for .NET developers](/dot-net/)
+- More coming soon! Don't see your language here? [Open up an issue](https://github.com/ethereum/ethereum-org-website/issues/new/choose)!
 
-اتریوم ابزار‌های فراوانی دارد که به توسعه‌دهندگان کمک می‌کند برنامه‌های کاربردی خودشان را بسازند، تست کنند، و گسترش دهند. در زیر محبوب‌ترین ابزار‌ها که با آنها بتوانید کار خود را شروع کنید آورده شده است. اگر می‌خواهید عمیق‌تر شوید، این را بررسی کنید : 
-- [فهرست جامع](https://github.com/ConsenSys/ethereum-developer-tools-list).
-- [9 ابزار و فناوری کلیدی برای توسعه و تست برنامه‌های کاربردی بلاک‌چین](https://coiniran.com/9-key-tools-and-technologies-to-develop-and-test-blockchain-applications/)
+## Developer Tools {#developer-tools}
 
+Ethereum has a large and growing number of tools to help developers build, test, and deploy their applications. Below are the most popular tools to get you started. If you want to dive deeper, check out this [comprehensive list](https://github.com/ConsenSys/ethereum-developer-tools-list).
 
-**ترافل (Truffle)** *یک محیط توسعه، چارچوب کاری تست، ساخت کانال ارتباطی، و سایر ابزار‌ها.*
+### Frameworks {#frameworks}
+
+**Truffle -** **_A development environment, testing framework, build pipeline, and other tools._**
+
 - [trufflesuite.com](https://www.trufflesuite.com/)
 - [GitHub](https://github.com/trufflesuite/truffle)
 
-**IPFS و Whisper** *آغازی بر یک محیط توسعه، چارچوب کاری تست، و سایر ابزار‌های مجتمع با اتریوم*
-- [GitHub](https://github.com/embark-framework/embark)
+**Embark -** **_A development environment, testing framework, and other tools integrated with Ethereum, IPFS, and Whisper._**
+
 - [Documentation](https://embark.status.im/docs/)
+- [GitHub](https://github.com/embark-framework/embark)
 
+**Waffle -** **_A framework for advanced smart contract development and testing (based on ethers.js)._**
 
-**وافل (Waffle)** *یک چارچوب کاری برای توسعه و تست قرارداد هوشمند پیشرفته (بر پایه ethers.js).*
 - [getwaffle.io](https://getwaffle.io/)
 - [GitHub](https://github.com/EthWorks/Waffle)
 
-**اترلایم (Etherlime)** *چارچوب کاری بر پایه Ethers.js برای توسعه dapp (سالیدیتی و وایپر)، گسترش، رفع مشکلات، تست و سایر موارد.*
+**Etherlime -** **_Ethers.js based framework for dapp development (Solidity & Vyper), deployment, debugging, testing and more._**
+
 - [Docs](https://etherlime.readthedocs.io/en/latest/)
 - [GitHub](https://github.com/LimeChain/etherlime)
 
-### ابزار‌های دیگر {#frameworks}
+### Other Tools {#other-tools}
 
-**بیدلر (Buidler)** *یک اجرا‌کننده یا task runner برای توسعه‌دهندگان قرارداد هوشمند اتریوم*
+**Ethereum Grid -** **_A desktop application for downloading, configuring, and running Ethereum clients and tools._**
+
+- [grid.ethereum.org](https://grid.ethereum.org)
+- [GitHub](https://github.com/ethereum/grid)
+
+**Buidler -** **_A task runner for Ethereum smart contract developers._**
+
 - [buidler.dev](https://buidler.dev)
 - [GitHub](https://github.com/nomiclabs/buidler)
 
-**اُپن‌زپلین (OpenZeppelin SKD)** *جعبه‌ابزار کامل قرارداد هوشمند: مجموعه‌ای از ابزار‌ها که برای توسعه، کامپایل، ارتقا، گسترش و تعامل با قرارداد‌های هوشمند به کمک شما می‌آید.*
+**OpenZeppelin SDK -** **_The Ultimate Smart Contract Toolkit: A suite of tools to help you develop, compile, upgrade, deploy and interact with smart contracts._**
+
 - [OpenZeppelin SDK](https://openzeppelin.com/sdk/)
 - [GitHub](https://github.com/OpenZeppelin/openzeppelin-sdk)
 - [Community Forum](https://forum.openzeppelin.com/c/sdk)
 
-**گراف (The Graph)** *پروتکلی برای فهرست‌بندی داده‌های IPFS و اتریوم و بررسی آنها با استفاده از GraphQL.*
+**The Graph -** **_A protocol for indexing Ethereum and IPFS data and querying it using GraphQL._**
+
 - [The Graph](https://thegraph.com/)
 - [Graph Explorer](https://thegraph.com/explorer/)
 - [Documentation](https://thegraph.com/docs/)
 - [GitHub](https://github.com/graphprotocol/)
 - [Discord](https://thegraph.com/discord)
 
-**تندرلی (Tenderly)** *پلتفرمی برای نظارت آسان بر قرارداد‌های هوشمند شما، همراه با ردیابی خطا‌ها، اعلام خطر‌ها، ارزیابی‌های کارایی، و تحلیل جزئیات قرارداد.*
+**Tenderly -** **_A platform to easily monitor your smart contracts with error tracking, alerting, performance metrics, and detailed contract analytics._**
+
 - [tenderly.dev](https://tenderly.dev/)
 - [GitHub](https://github.com/Tenderly)
 - [Discord](https://discord.gg/eCWjuvt)
 
-**ابزار کاری پایتون (Python Tooling)** *مجموعه‌ای متنوع از برنامه‌ها برای تعامل اتریوم از طریق پایتون*
+**Python Tooling -** **_Variety of libraries for Ethereum interaction via Python._**
+
 - [py.ethereum.org](http://python.ethereum.org/)
 - [web3.py GitHub](https://github.com/ethereum/web3.py)
 - [web3.py Chat](https://gitter.im/ethereum/web3.py)
 
-**براونی (Brownie)** *محیط توسعه و چارچوب کاری تست بر پایه پایتون.*
+**Brownie -** **_Python-based development environment and testing framework._**
+
 - [Documentation](https://eth-brownie.readthedocs.io/en/latest/)
 - [GitHub](https://github.com/iamdefinitelyahuman/brownie)
 
-**Web3j** *مجموعه‌ای از برنامه‌های Java/Android/Kotlin/Scala برای اتریوم*
+**web3j -** **_A Java/Android/Kotlin/Scala integration library for Ethereum._**
+
+- [web3j.io](https://web3j.io)
 - [GitHub](https://github.com/web3j/web3j)
 - [Docs](https://docs.web3j.io/)
 - [Gitter](https://gitter.im/web3j/web3j)
-- [web3j.io](https://web3j.io)
 
-آیا به دنبال انتخاب‌های دیگری هم هستید؟
+**One Click Dapp -** **_Generate a frontend directly from ABI for fast development and testing._**
+
+- [OneClickDapp.com](https://oneclickdapp.com)
+- [Truffle Plugin](https://npmjs.org/package/oneclick)
+- [Remix Plugin](https://github.com/pi0neerpat/remix-plugin-one-click-dapp)
+- [GitHub](https://github.com/pi0neerpat/one-click-dapp)
+
+**Looking for other options?**
+
 - [Ethereum Developer Tools List #Frameworks](https://github.com/ConsenSys/ethereum-developer-tools-list#frameworks)
 
-## محیط‌های توسعه جامع  (Integrated Development Environments (IDEs {#integrated-development-environments-ides}
+## Integrated Development Environments (IDEs) {#integrated-development-environments-ides}
 
-**Visual Studio Code** *پلتفرم متقاطع حرفه‌ای IDE با پشتیبانی رسمی اتریوم.*
+**Ethereum Studio -** **_Web-based IDE ideal for new developers looking to experiment with smart contracts. Ethereum Studio features multiple templates, MetaMask integration, transaction logger, and a built in-browser Ethereum Virtual Machine (EVM) to help you get started building on Ethereum as fast as possible._**
+
+- [studio.ethereum.org](https://studio.ethereum.org)
+- [superblocks.com/ethereum-studio](https://superblocks.com/ethereum-studio)
+- [GitHub](https://github.com/SuperblocksHQ/ethereum-studio)
+
+**Visual Studio Code -** **_Professional cross-platform IDE with official Ethereum support._**
+
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Azure Blockchain Development Kit for Ethereum](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain)
 - [Azure Blockchain Workbench plugin](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-azure-blockchain.azure-blockchain-workbench?tab=Overview)
 - [Code samples](https://github.com/Azure-Samples/blockchain/blob/master/blockchain-workbench/application-and-smart-contract-samples/readme.md)
+- [GitHub](https://github.com/microsoft/vscode)
 
-**رمیکس Remix** *IDE بر پایه شبکه با تحلیل آماری تعبیه شده داخلی، و یک ماشین مجازی تست بلاک‌چین.*
+**Remix -** **_Web-based IDE with built in static analysis, and a test blockchain virtual machine._**
+
 - [remix.ethereum.org](https://remix.ethereum.org/)
 
-**سوپربلاکس (Superblocks)** *آی دی ای (IDE) بر پایه شبکه، با ماشین مجازی مرورگر بلاک‌چین تعبیه شده داخلی، همسازی MetaMask، واقعه‌نگار تراکنش‌ها، و موارد دیگر.*
-- [superblocks.com/lab](https://superblocks.com/lab/)
+**EthFiddle -** **_Web-based IDE that lets you write, compile, and debug your smart contract._**
 
-**اِت-فیدل (EthFiddle)** *آی دی ای (IDE) بر پایه شبکه، که شما را قادر به نوشتن، کامپایل، و رفع ایراد قرارداد هوشمندتان می‌کند.*
 - [ethfiddle.com](https://ethfiddle.com/)
+- [Gitter](https://gitter.im/loomnetwork/ethfiddle)
 
-آیا به دنبال انتخاب‌های دیگری هم هستید؟
+**Looking for other options?**
+
 - [Ethereum Developer Tools List #IDEs](https://github.com/ConsenSys/ethereum-developer-tools-list#ides)
 
-## Frontend Javascript APIs {#frontend-javascript-apis}
-**Web3.js** *Ethereum Javascript API*
-- [GitHub](https://github.com/ethereum/web3.js/)
+## Frontend JavaScript APIs {#frontend-javascript-apis}
+
+**Web3.js -** **_Ethereum JavaScript API._**
+
 - [Documentation](https://web3js.readthedocs.io/en/1.0/)
+- [GitHub](https://github.com/ethereum/web3.js/)
 
-**Ethers.js** *ایجاد و کاربرد‌پذیری کامل کیف پول اتریوم در JavaScript و TypeScript*
-- [GitHub](https://github.com/ethers-io/ethers.js/)
+**Ethers.js -** **_Complete Ethereum wallet implementation and utilities in JavaScript and TypeScript._**
+
 - [Documentation](https://docs.ethers.io/ethers.js/html/)
+- [GitHub](https://github.com/ethers-io/ethers.js/)
 
-**light.js** *مجموعه‌ای از برنامه‌های انفعالی سطح بالای JS که برای رایانه‌های سبک بهینه‌سازی شده‌اند.*
-- [GitHub](https://github.com/paritytech/js-libs/tree/master/packages/light.js)
+**light.js -** **_A high-level reactive JS library optimized for light clients._**
+
 - [Documentation](https://paritytech.github.io/js-libs/light.js/)
+- [GitHub](https://github.com/paritytech/js-libs/tree/master/packages/light.js)
 
-**Web3-wrapper** *Typescript alternative to Web3.js*
-- [GitHub](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper)
+**Web3-wrapper -** **_Typescript alternative to Web3.js._**
+
 - [Documentation](https://0x.org/docs/web3-wrapper#introduction)
+- [GitHub](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper)
 
-آیا به دنبال انتخاب‌های دیگری هم هستید؟
+**Looking for other options?**
+
 - [Ethereum Developer Tools List #Frontend-Ethereum-APIs](https://github.com/ConsenSys/ethereum-developer-tools-list#frontend-ethereum-apis)
 
 ## Backend APIs {#backend-apis}
 
-**Infura** *The Ethereum API as a service*
-- [infura.io](https://infura.io)
+**Infura -** **_The Ethereum API as a service._**
 
-**درگاه اتریوم Cloudflare**
+- [infura.io](https://infura.io)
+- [Documentation](https://infura.io/docs)
+- [GitHub](https://github.com/INFURA)
+
+**Cloudflare Ethereum Gateway.**
+
 - [cloudflare-eth.com](https://cloudflare-eth.com)
 
-**Nodesmith** *دسترسی به شبکه‌های اصلی و تست اتریوم JSON-RPC API*
-- [nodesmith.io](https://nodesmith.io)
+**Nodesmith -** **_JSON-RPC API access to Ethereum mainnet and testnets._**
 
-## ذخیره‌سازی {#storage}
+- [nodesmith.io](https://nodesmith.io/network/ethereum/)
+- [Documentation](https://nodesmith.io/docs/#/ethereum/apiRef)
 
-**IPFS** *یک سیستم ارجاع فایل و ذخیره‌سازی غیر‌متمرکز برای اتریوم، (InterPlanetary File System).*
+**Chainstack -** **_Shared and dedicated Ethereum nodes as a service._**
+
+- [chainstack.com](https://chainstack.com)
+- [Documentation](https://docs.chainstack.com)
+
+## Storage {#storage}
+
+**IPFS -** **_InterPlanetary File System is a decentralized storage and file referencing system for Ethereum._**
+
 - [ipfs.io](https://ipfs.io/)
 - [Documentation](https://docs.ipfs.io/)
 - [GitHub](https://github.com/ipfs/ipfs)
-- [معرفی پلتفرم اشتراک فایل و هاستینگ غیرمتمرکز وب سایت ها (IPFS)](https://coiniran.com/ipfs-introduction/) *March, 2018 - CoinIran*
 
-**Swarm** *یک پلتفورم ذخیره‌سازی توزیع‌شده و سرویس توزیع محتوی برای اتریوم web3 stack.*
+**Swarm -** **_A distributed storage platform and content distribution service for the Ethereum web3 stack._**
+
 - [Swarm](https://ethersphere.github.io/swarm-home/)
+- [GitHub](https://github.com/ethersphere/swarm)
 
-**OrbitDB** *یک پایگاه داده همتا به همتای غیر‌متمرکز در سطح بالاتر از IPFS.*
+**OrbitDB -** **_A decentralized peer to peer database on top of IPFS._**
+
+- [Documentation](https://github.com/orbitdb/field-manual)
 - [GitHub](https://github.com/orbitdb/orbit-db)
 
-## ابزار‌های امنیت {#security-tools}
-**Slither** *تحلیل آماری Solidity نوشته شده با Python 3*
+## Security Tools {#security-tools}
+
+### Smart Contract Security {#smart-contract-security}
+
+**Slither -** **_Solidity static analysis framework written in Python 3._**
+
 - [GitHub](https://github.com/crytic/slither)
 
-**MythX** *API تحلیل امنیت برای قرارداد‌های هوشمند اتریوم*
-- [mythx.io](https://mythx.io/)
+**MythX -** **_Security analysis API for Ethereum smart contracts._**
 
-**Mythril** *ابزار تحلیل امنیت برای بایت‌کد EVM*
+- [mythx.io](https://mythx.io/)
+- [Documentation](https://docs.mythx.io/en/latest/)
+
+**Mythril -** **_Security analysis tool for EVM bytecode._**
+
 - [mythril](https://github.com/ConsenSys/mythril)
 - [Documentation](https://mythril-classic.readthedocs.io/en/master/about.html)
 
-**Manticore** *یک اینترفیس خط فرمان که از یک ابزار اجرایی سمبلیک برای قرارداد‌های هوشمند و باینری‌ها استفاده می‌کند.*
-- [github](https://github.com/trailofbits/manticore)
+**SmartContract.Codes -** **_Search engine for verified solidity source codes._**
 
-**Securify** *اسکنر امنیت برای قرارداد‌های هوشمند اتریوم*
+- [smartcontract.codes (alpha)](https://smartcontract.codes/)
+- [Documentation](https://github.com/ethereum-play/smartcontract.codes/blob/master/README.md)
+
+**Manticore -** **_A command line interface that uses a symbolic execution tool on smart contracts and binaries._**
+
+- [GitHub](https://github.com/trailofbits/manticore)
+- [Documentation](https://github.com/trailofbits/manticore/wiki)
+
+**Securify -** **_Security scanner for Ethereum smart contracts._**
+
 - [securify.chainsecurity.com](https://securify.chainsecurity.com/)
+- [Discord](https://discordapp.com/invite/nN77ckb)
 
-### (Formal Verification) تایید رسمی {#smart-contract-security}
+**ERC20 Verifier -** **_A verification tool used to check if a contract complies with the ERC20 standard._**
 
-- [تایید رسمی قرارداد‌های هوشمند چطور کار می‌کند](https://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/) *July 20, 2018 - Brian Marick*
-- [تایید رسمی چگونه می‌تواند از بی‌نقصی قرارداد‌های هوشمند مطمئن سازد](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1) *Jan 29, 2018 - Bernard Mueller*
+- [erc20-verifier.openzeppelin.com](https://erc20-verifier.openzeppelin.com)
+- [Forum](https://forum.openzeppelin.com/t/online-erc20-contract-verifier/1575)
 
-آیا به دنبال انتخاب-های دیگری هم هستید؟
+### Formal Verification {#formal-verification}
+
+**Information on Formal Verification**
+
+- [How formal verification of smart-contacts works](https://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/) _July 20, 2018 - Brian Marick_
+- [How Formal Verification Can Ensure Flawless Smart Contracts](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1) _Jan 29, 2018 - Bernard Mueller_
+
+**Looking for other options?**
+
 - [Ethereum Developer Tools List #Security-Tools](https://github.com/ConsenSys/ethereum-developer-tools-list#security-tools)
 
-## ابزار‌های تست {#testing-tools}
+## Testing Tools {#testing-tools}
 
-**Solidity-Coverage** *ابزار اندازه‌گیری پوشش کد solidity.*
+**Solidity-Coverage -** **_Alternative solidity code coverage tool._**
+
 - [GitHub](https://github.com/sc-forks/solidity-coverage)
 
+**hevm -** **_Implementation of the EVM made specifically for unit testing and debugging smart contracts._**
 
-**hevm** *اجرای EVM که به طور اختصاصی برای تست یونیت و رفع ایراد قرارداد‌های هوشمند ساخته شده است.*
 - [GitHub](https://github.com/dapphub/dapptools/tree/master/src/hevm)
 - [DappHub Chat](https://dapphub.chat/)
 
-**Whiteblock Genesis** *یک پلتفورم تست و محل توسعه end-to-end برای بلاک‌چین.*
-- [Whiteblock.io](https://whiteblock.io)
-- [GitHub](https://github.com/whiteblock/genesis)
-- [Documentation](https://docs.whiteblock.io)
+**Whiteblock Genesis -** **_An end-to-end development sandbox and testing platform for blockchain._**
 
- آیا به دنبال انتخاب‌های دیگری هم هستید؟
+- [Whiteblock.io](https://whiteblock.io)
+- [Documentation](https://docs.whiteblock.io)
+- [GitHub](https://github.com/whiteblock/genesis)
+
+**Looking for other options?**
+
 - [Ethereum Developer Tools List #Testing-Tools](https://github.com/ConsenSys/ethereum-developer-tools-list#testing-tools)
 
-## جستجوگر‌های بلاک {#block-explorers}
-جستجوگر‌های بلاک سرویس‌هایی هستند که با یافتن اطلاعات درباره تراکنش‌های ویژه، بلاک‌ها، قرارداد‌ها، و سایر فعالیت‌های روی زنجیره، به شما اجازه می‌دهند که در بلاک‌چین اتریوم (و تست‌نت‌های مربوط به آن) کاوش کنید.
+## Block Explorers {#block-explorers}
+
+Block explorers are services that let you browse the Ethereum blockchain (and its testnets), by finding information about specific transactions, blocks, contracts, and other on-chain activity.
+
 - [Etherscan](https://etherscan.io/)
 - [Blockscout](https://blockscout.com/)
 - [Etherchain](https://www.etherchain.org/)
 
-## تست‌نت‌ها و فاست‌ها {#testnets-and-faucets}
+## Testnets and Faucets {#testnets-and-faucets}
 
-جامعه اتریوم از تست‌نت‌های چند‌گانه مراقبت و نگهداری می‌کنند. اینها جهت تست برنامه‌های کاربردی در شرایط گوناگون، و قبل از گسترش آنها به شبکه اصلی اتریوم، مورد استفاده توسعه‌دهندگان قرار می‌گیرد.
+The Ethereum community maintains multiple testnets. These are used by developers to test their applications under different conditions before deploying to the Ethereum mainnet.
 
-**Ropsten** *بلاک‌چین اثبات کار (PoW)، تست‌اتر قابل استخراج است*
+**Ropsten -** **_Proof of Work blockchain, test-ether can be mined._**
+
 - [Test-ether faucet](https://faucet.ropsten.be/)
 
-**Rinkeby** *بلاک‌چین اثبات اعتبار (PoS)، پشتیبانی‌شده توسط تیم توسعه Geth*
+**Rinkeby -** **_Proof of Authority blockchain, maintained by the Geth development team._**
+
 - [Test-ether faucet](https://faucet.rinkeby.io/)
 - [Universal faucet](https://faucets.blockxlabs.com)
 
-**Goerli** *بلاک‌چین Cross-client Proof of Authority، ساخت و پشتیبانی توسط جامعه Goerli*
+**Goerli -** **_Cross-client Proof of Authority blockchain, built and maintained by the Goerli community_**
+
 - [Test-ether faucet](https://faucet.goerli.mudit.blog/)
 - [goerli.net](https://goerli.net/)
 - [Universal faucet](https://faucets.blockxlabs.com)
 
-## کلاینت‌ها و اجرای نود شخصی شما {#clients--running-your-own-node}
-شبکه اتریوم از تعداد زیادی نود تشکیل می‌شود که نرم‌افزار سازگار کلاینت را اجرا می‌کند. اکثریت این نود‌ها موارد زیر را اجرا می‌کنند که هرکدام از آنها می‌توانند مطابق نیاز‌های شما شکل‌دهی شوند.
-[Geth](https://geth.ethereum.org/) یا [Parity](https://www.parity.io/ethereum/)
+## Clients & Running your own Node {#clients--running-your-own-node}
 
-**Geth** *کلاینت‌های اتریوم، نوشته ‌شده با Go*
+The Ethereum network is made up of many nodes who run compatible client software. The majority of these nodes run [Geth](https://geth.ethereum.org/) or [Parity](https://www.parity.io/ethereum/), each of which can be configured in different ways according to your needs.
+
+### Clients {#clients}
+
+**Geth -** **_Ethereum clients written in Go._**
+
 - [GitHub](https://github.com/ethereum/go-ethereum)
 - [Discord chat](https://discordapp.com/invite/nthXNEv)
 
-**Parity** *کلاینت اتریوم، نوشته شده با Rust*
+**Parity -** **_Ethereum client written in Rust._**
+
 - [parity.io](https://www.parity.io/)
 - [GitHub](https://github.com/paritytech/parity-ethereum)
 
-**Besu Pantheon** *کلاینت اتریوم، نوشته شده با Java*
+**Pantheon -** **_Ethereum client written in Java._**
+
 - [pegasys.tech](http://pegasys.tech)
 - [GitHub](https://github.com/PegaSysEng/pantheon/)
-- [Gitter](https://gitter.im/PegaSysEng/pantheon)
 
-### منابع نود اتریوم {#clients}
+**Nethermind -** **_Ethereum client written in C# .NET Core._**
 
-**Ethnode** *اجرای یک نود اتریوم (Geth یا Parity) برای توسعه محلی.*
+- [Nethermind.io](http://nethermind.io/)
+- [GitHub](https://github.com/NethermindEth/nethermind)
+- [Gitter](https://gitter.im/nethermindeth/nethermind)
+
+### Running your own node {#running-your-own-node}
+
+**Ethnode -** **_Run an Ethereum node (Geth or Parity) for local development._**
+
 - [GitHub](https://github.com/vrde/ethnode)
 
-- [Node Configuration Cheat Sheet](https://dev.to/5chdn/ethereum-node-configuration-modes-cheat-sheet-25l8) *Jan 5, 2019 - Afri Schoeden*
+**Ethereum Node Resources**
 
-آیا به دنبال انتخاب‌های دیگری هم هستید؟
+- [Node Configuration Cheat Sheet](https://dev.to/5chdn/ethereum-node-configuration-modes-cheat-sheet-25l8) _Jan 5, 2019 - Afri Schoeden_
+
+**Looking for other options?**
+
 - [Ethereum Developer Tools List #Ethereum-clients](https://github.com/ConsenSys/ethereum-developer-tools-list#ethereum-clients)
 
-## بهترین تمرین‌ها، الگو‌ها و ضد‌الگو‌ها {#best-practices-patterns-and-anti-patterns}
+## Best Practices, Patterns, and Anti-patterns {#best-practices-patterns-and-anti-patterns}
 
-### قراردادهای هوشمند {#smart-contracts}
+### Smart Contracts {#smart-contracts}
 
-**DappSys** *بلاک‌‌ساز‌های امن، آسان، و منعطف برای قرارداد‌های هوشمند.*
+**DappSys -** **_Safe, simple, flexible building-blocks for smart-contracts._**
+
 - [dapp.tools/dappsys](https://dapp.tools/dappsys/)
 - [GitHub](https://github.com/dapphub/dappsys)
 
-**قرارداد-های OpenZeppelin** *مجموعه‌ای برای توسعه امن قرارداد هوشمند.*
+**OpenZeppelin Contracts -** **_Library for secure smart contract development._**
+
 - [openzeppelin.com/contracts/](https://openzeppelin.com/contracts/)
 - [GitHub](https://github.com/OpenZeppelin/openzeppelin-contracts)
 - [Community Forum](https://forum.openzeppelin.com/c/contracts)
 
-**aragonOS** *الگو‌هایی برای کنترل ارتقا‌پذیری و اجازه دسترسی.*
-- [hack.aragon.org](https://hack.aragon.org/docs/aragonos-intro.html)
+**aragonOS -** **_Patterns for upgradeability & permission control._**
+
+- [hack.aragon.org](https://hack.aragon.org/docs/aragonos-intro.html#aragonos-provides-the-following-functionality)
 - [Documentation](https://wiki.aragon.org/)
 
+**Smart Contract Weakness Registry**
 
-### امنیت {#security}
-
-**رجیستری ضعف قرارداد هوشمند**
 - [SWC registry](https://smartcontractsecurity.github.io/SWC-registry/)
 - [GitHub](https://github.com/SmartContractSecurity/SWC-registry)
 
-**راهنمای بهترین تمرین‌های امنیت قرارداد هوشمند**
+### Security {#security}
 
--[Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+**Smart Contract Security Best Practices Guide**
+
+- [consensys.github.io/smart-contract-best-practices/](https://consensys.github.io/smart-contract-best-practices/)
 - [GitHub](https://github.com/ConsenSys/smart-contract-best-practices/)
 - [Aggregated collection of security recommendations and best practices](https://github.com/guylando/KnowledgeLists/blob/master/EthereumSmartContracts.md)
 
-آیا به دنبال انتخاب-های دیگری هم هستید؟
+**Smart Contract Security Verification Standard (SCSVS)**
+
+- [securing.github.io/SCSVS/](https://securing.github.io/SCSVS/)
+
+**Looking for other options?**
+
 - [Ethereum Developer Tools List #Patterns—best-practices](https://github.com/ConsenSys/ethereum-developer-tools-list#patterns--best-practices)
 
-## آموزش و پشتیبانی توسعه‌دهنده {#developer-support--training}
+## Developer Support & Training {#developer-support--training}
 
-**شبکه پرسش و پاسخ اتریوم**
+### General Learning {#general-learning}
+
+**Ethereum Stackexchange**
+
 - [ethereum.stackexchange.com](https://ethereum.stackexchange.com/)
 
-**آکادمی ConsenSys** *دوره آموزشی توسعه‌دهنده اتریوم  end-to-end که گام به گام بوده و در تمام طول سال برگزار می‌شود.*
+**ConsenSys Academy -** **_An end-to-end Ethereum developer course that is self-paced and open year-round._**
+
 - [consensys.academy](https://consensys.net/academy/ondemand/)
 
-**اتاق گفتگوی Solidity Gitter**
+**Solidity Gitter Chatroom**
+
 - [gitter.im/ethereum/solidity](https://gitter.im/ethereum/solidity/)
 
-**تمام اتاق‌های گفتگوی Ethereum Gitter**
+**All Ethereum Gitter Chatrooms**
+
 - [gitter.im/ethereum/home](https://gitter.im/ethereum/home)
 
-**Chainshot** *آموزش برنامه نویسی اتریوم - تحت وب.*
+**Chainshot -** **_Web based dapp coding tutorials._**
+
 - [chainshot.com](https://www.chainshot.com/)
 
-**Cryptozombies** *آموزش برنامه نویسی بازی‌ها روی اتریوم.*
-- [Cryptozombies.io](https://cryptozombies.io/)
+**Blockgeeks -** **_Online courses on blockchain technology._**
 
-**Blockgeeks** *دوره‌های آموزشی آنلاین در فناوری بلاک‌چین*
 - [courses.blockgeeks.com](https://courses.blockgeeks.com/)
 
-**DappUniversity** *آموزش ساخت برنامه‌های کاربردی غیرمتمرکز روی بلاک‌چین اتریوم*
+**DappUniversity -** **_Learn to build decentralized applications on the Ethereum blockchain._**
+
 - [DappUniversity.com](http://www.dappuniversity.com/)
 
-**Ethernaut** *جنگ آزمون بر پایه Solidity که در هر سطح یک قرارداد برای هک شدن وجود دارد*
+**B9lab Academy -** **_Home of the oldest professional Ethereum dapp developer course & further learning for auditors and QA. Incl. mentoring and code review._**
+
+- [academy.b9lab.com](https://academy.b9lab.com)
+
+### Game-Based Learning {#game-based-learning}
+
+**Cryptozombies -** **_Learn to code games on ethereum._**
+
+- [Cryptozombies.io](https://cryptozombies.io/)
+
+**Ethernaut -** **_Solidity based wargame where each level is a contract to be hacked._**
+
 - [ethernaut.openzeppelin.com](https://ethernaut.openzeppelin.com/)
 
-**Capture the Ether** *بازی امنیت قرارداد هوشمند اتریوم*
+**Capture the Ether -** **_The game of Ethereum smart contract security._**
+
 - [capturetheether.com](https://capturetheether.com/)
 
-## UI/UX {#uiux-design}
-- [Challenge of UX in Ethereum](https://medium.com/ecf-review/challenge-of-ux-in-ethereum-122e1a33688d) *June 25, 2018 - Anna Rose*
-- [Designing for blockchain: what’s different and what’s at stake](https://media.consensys.net/designing-for-blockchain-whats-different-and-what-s-at-stake-b867eeade1c9) *March 22, 2018 - Sarah Baker Mills*
-**Rimble UI** *مولفه‌های سازگار‌پذیر و استاندارد‌های طراحی برنامه‌های کاربردی غیرمتمرکز.*
+## UI/UX Design {#uiux-design}
+
+- [Challenge of UX in Ethereum](https://medium.com/ecf-review/challenge-of-ux-in-ethereum-122e1a33688d) _June 25, 2018 - Anna Rose_
+- [Designing for blockchain: what’s different and what’s at stake](https://media.consensys.net/designing-for-blockchain-whats-different-and-what-s-at-stake-b867eeade1c9) _March 22, 2018 - Sarah Baker Mills_
+
+**Rimble UI** **_- Adaptable components and design standards for decentralized applications._**
+
 - [rimble.consensys.design](https://rimble.consensys.design)
 - [GitHub](https://github.com/ConsenSys/rimble-ui)
 
-## استاندارد‌ها {#standards}
+## Standards {#standards}
 
-جامعه اتریوم استاندارد‌هایی را مورد پذیرش قرار داده است که به کمک توسعه‌دهندگان می‌آید. آنها معمولا تحت عنوان [پیشنهاد‌های بهسازی اتریوم](http://eips.ethereum.org/) (EIPs) ارائه می‌شوند که توسط اعضای جامعه اتریوم از طریق یک [پروسه استاندارد](http://eips.ethereum.org/EIPS/eip-1) مورد بحث قرار می‌گیرند.
+The Ethereum community has adopted many standards that are helpful to developers. Typically these are introduced as [Ethereum Improvement Proposals](http://eips.ethereum.org/) (EIPs), which are discussed by community members through a [standard process](http://eips.ethereum.org/EIPS/eip-1).
 
 - [List of EIPs](http://eips.ethereum.org/)
 - [EIP github repo](https://github.com/ethereum/EIPs)
 - [EIP discussion board](https://ethereum-magicians.org/c/eips)
-- [Ethereum Governance Overview](https://blog.bmannconsulting.com/ethereum-governance/) *March 31, 2019 - Boris Mann*
-- [Playlist of all Ethereum Core Dev Meetings](https://www.youtube.com/playlist?list=PLaM7G4Llrb7zfMXCZVEXEABT8OSnd4-7w) *(YouTube Playlist)*
+- [Ethereum Governance Overview](https://blog.bmannconsulting.com/ethereum-governance/) _March 31, 2019 - Boris Mann_
+- [Playlist of all Ethereum Core Dev Meetings](https://www.youtube.com/playlist?list=PLaM7G4Llrb7zfMXCZVEXEABT8OSnd4-7w) _(YouTube Playlist)_
 
-بعضی EIP ها با استاندارد‌های در سطح برنامه‌های کاربردی مربوط هستند (به طور مثال، یک فرمت قرارداد هوشمند استاندارد) که تحت این عنوان ارائه می‌شوند.
- [Ethereum Requests for Comment (ERC)](https://eips.ethereum.org/erc)
-تعداد زیادی از ERC ها استاندارد‌های قطعی هستند که به طور وسیع در راستای اکوسیستم اتریوم مورد استفاده قرار می‌گیرند.
+Certain EIPs relate to application-level standards (e.g. a standard smart-contract format), which are introduced as [Ethereum Requests for Comment (ERC)](https://eips.ethereum.org/erc). Many ERCs are critical standards used widely across the Ethereum ecosystem.
+
 - [List of ERCs](http://eips.ethereum.org/erc)
 - [ERC20 - A standard interface for tokens](https://eips.ethereum.org/EIPS/eip-20)
 - [ERC721 - A standard interface for non-fungible tokens](https://eips.ethereum.org/EIPS/eip-721)
-- [استاندارد ERC-20، آشنایی با ساختار و نحوه ساخت توکن های ERC-20](https://coiniran.com/an-introduction-to-erc-20-tokens/) *March 2019 - کوین ایران*
-- [استاندارد ERC721 و توکن های غیر قابل تعویض (Non-Fungible Tokens)](https://coiniran.com/underestanding-erc721-tokens/) *Feb 2019 - کوین ایران*
-
-
-</div>

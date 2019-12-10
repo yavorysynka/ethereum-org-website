@@ -1,327 +1,510 @@
 ---
-title: 개발자 가이드
+title: Ethereum for Developers
 meta:
-  - property: og:title
-    content: 개발자 가이드 | 이더리움
-lang: ko
+  - 
+    name: description
+    content: Guides, resources, and tools for developers building on Ethereum.
+  - 
+    property: og:title
+    content: Ethereum for Developers
+  - 
+    property: og:description
+    content: Guides, resources, and tools for developers building on Ethereum.
+lang: en-US
 sidebar: auto
-sidebarDepth: 0
+sidebarDepth: 1
 ---
 
-# 개발자 리소스 {#developer-resources}
+# Developer Resources {#developer-resources}
 
-<div class="featured">이더리움 위에서 개발하는 개발자들을 위한 가이드와 개발 도구 그리고 각종 자료를 다룹니다.</div>
+<div class="featured">Guides, resources, and tools for developers building on Ethereum.</div>
 
-## 시작하면서 {#getting-started}
+## Getting started {#getting-started}
 
-**만약 당신이 이더리움을 처음 개발해보신다면, 여기 제대로 찾아오셨습니다.** 이더리움 커뮤니티에 의해 쓰여진 이 가이드들은 이더리움 기술 스택에 대한 기초부터 기존의 앱 개발과는 다를지도 모르는 새로운 개념들을 소개해 줄 거에요.
+**If you’re new to developing with Ethereum, you’re in the right place.** These guides written by the Ethereum community will introduce you to the basics of the Ethereum stack and introduce core concepts that might be different from other app development you’re familiar with.
 
-좀 더 준비운동이 필요하시다고요? 그럼 [ethereum.org/ko/learn](/ko/learn/)로 들어와 주세요.
+Want to start coding right away? [Start building here](/build/).
 
-- [이더리움 쫓아가기](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe) _Aug 7, 2017 - Matt Condon_
-- [이더리움 In Depth, 파트 1](https://blog.zeppelin.solutions/ethereum-in-depth-part-1-968981e6f833) _May 11, 2018 - Facu Spagnuolo_
-- [이더리움 In Depth, 파트 2](https://blog.zeppelin.solutions/ethereum-in-depth-part-1-968981e6f833) _May 11, 2018 - Facu Spagnuolo_
-- [이더리움 개발 연습, 파트 1-5](https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e) _Jan 14, 2018 - dev_zl_
-- [이더리움 101, Parts 1-7](https://kauri.io/collection/5bb65f0f4f34080001731dc2/ethereum-101) _Feb 13, 2019 - Wil Barnes_
-- [풀스택 Hello World 투표 이더리움 Dapp 튜토리얼 ](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2) _Jan 18, 2017 - Mahesh Murthy_
-- [마스터링 이더리움 - 온라인으로 무료로 제공되는 포괄적인 교과서](https://github.com/ethereumbook/ethereumbook) _Dec 1, 2018 - Andreas Antonopoulos & Gavin Wood_
-- [이더리움 개발자 포탈 - 이더리움 개발을 시작할 때 필요한 모든 것](https://ethereum.consensys.net/ethereum-dev-portal) _Updated often - ConsenSys_
-- [솔리디티 컨트랙트를 해부해보면서](https://blog.zeppelin.solutions/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737) _Aug 13, 2018 - Alejandro Santander & Leo Arias_
-- [풀스택 Dapp 튜토리얼 시리즈 ](https://kauri.io/collection/5b8e401ee727370001c942e3) _Updated Often - Joshua Cassidy_
+Need a more basic primer first? Check out our [learning resources](/learn/).
 
-## 스마트 컨트랙트 언어들 {#smart-contract-languages}
+**Helpful Resources**
 
-이더리움 가상 머신(EVM)에서 작동되는 프로그램들은 흔히 "스마트 컨트랙트(smart contract)"라고 불립니다. 이더리움 위에서 쓰여지는 스마트 컨트랙트 언어로는 **Solidity(솔리디티)** 와 **Vyper(바이퍼)** 가 있지만, [다른 언어들도 매우 활발하게 개발되고 있습니다](https://github.com/ConsenSys/ethereum-developer-tools-list#smart-contract-languages).
+- [Getting up to speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe) _Aug 7, 2017 - Matt Condon_
+- [Ethereum In Depth, Part 1](https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/) _May 11, 2018 - Facu Spagnuolo_
+- [Ethereum In Depth, Part 2](https://blog.openzeppelin.com/ethereum-in-depth-part-2-6339cf6bddb9/) _July 24, 2018 - Facu Spagnuolo_
+- [Ethereum Development Walkthrough, Parts 1-5](https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e) _Jan 14, 2018 - dev_zl_
+- [Ethereum 101, Parts 1-7](https://kauri.io/collection/5bb65f0f4f34080001731dc2/ethereum-101) _Feb 13, 2019 - Wil Barnes_
+- [Full Stack Hello World Voting Ethereum Dapp Tutorial](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)  _Feb 2019 - Mahesh Murthy_
+- [Mastering Ethereum - A comprehensive textbook available for free online](https://github.com/ethereumbook/ethereumbook) _Dec 1, 2018 - Andreas Antonopoulos & Gavin Wood_
+- [Ethereum Developer Portal - Everything you need to get started building on Ethereum](https://ethereum.consensys.net/ethereum-dev-portal) _Updated often - ConsenSys_
+- [Deconstructing a Solidity Contract](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/) _Aug 13, 2018 - Alejandro Santander & Leo Arias_
+- [Full Stack Dapp Tutorial Series](https://kauri.io/collection/5b8e401ee727370001c942e3)  _Updated Often - Joshua Cassidy_
 
-### 솔리디티(Solidity): _C++, 파이썬(Python), 자바스크립트(JavaScript) 로부터 영감을 얻은 이더리움에서 가장 인기 있는 언어_
+## Smart Contract Languages {#smart-contract-languages}
 
-- [개발문서](https://solidity.readthedocs.io)
-- [깃허브](https://github.com/ethereum/solidity/)
-- [솔리디티 깃터 채팅방](https://gitter.im/ethereum/solidity/)
+Any program that runs on the Ethereum Virtual Machine (EVM) is commonly referred to as a “smart contract”. The most popular languages for writing smart contracts on Ethereum are **Solidity** and **Vyper**, though there are [others under development](https://github.com/ConsenSys/ethereum-developer-tools-list#smart-contract-languages).
 
-### 바이퍼(Vyper) _파이썬 기반으로 보안에 집중한 이더리움 개발 언어_
+**Solidity -** **_The most popular language on Ethereum, inspired by C++, Python and JavaScript._**
 
-- [개발문서](https://vyper.readthedocs.io)
-- [깃허브](https://github.com/ethereum/vyper)
-- [바이퍼 깃터 채팅방](https://gitter.im/ethereum/vyper)
+- [Documentation](https://solidity.readthedocs.io)
+- [GitHub](https://github.com/ethereum/solidity/)
+- [Solidity Gitter Chatroom](https://gitter.im/ethereum/solidity/)
 
-### 추가자료 찾으세요?
+**Vyper -** **_Security focused language for Ethereum, based on Python._**
 
-- [이더리움 개발자 툴 리스트 #스마트 컨트랙트 언어들(SmartContractLanguages)](https://github.com/ConsenSys/ethereum-developer-tools-list#smart-contract-languages)
+- [Documentation](https://vyper.readthedocs.io)
+- [GitHub](https://github.com/ethereum/vyper)
+- [Vyper Gitter Chatroom](https://gitter.im/ethereum/vyper)
 
-## 개발자 도구 {#developer-tools}
+**Looking for other options?**
 
-이더리움은 개발자들이 애플리케이션을 빌드, 테스트 및 배포하는 것을 도와줄 수 있는 다양한 도구를 가지고 있고 또 많은 도구가 계속 생겨나고 있습니다. 아래는 개발을 시작할 때 가장 인기 있는 도구들을 모아놓은 것들입니다. 더 깊게 알고 싶다면 이 [목록](https://github.com/ConsenSys/ethereum-developer-tools-list)을 참고해 주세요.
+- [Ethereum Developers Tools List #SmartContractLanguages](https://github.com/ConsenSys/ethereum-developer-tools-list#smart-contract-languages)
 
-### 트러플(Truffle) _개발 환경, 테스팅 프레임워크, 빌드 파이프라인(pipeline)과 각종 개발 도구들_ {#frameworks}
+## Language Specific Resources {#language-specific-resources}
 
-- [홈페이지](https://truffleframework.com/)
-- [깃허브](https://github.com/trufflesuite/truffle)
+We're building a suite of language-specific landing pages for developer to learn about Ethereum in their preferred programming language.
 
-### 엠바크(Embark) _개발환경, 테스트 프레임워크, 이더리움, IPFS, Whisper와 통합된 각종 개발 도구들_ {#other-tools}
+- [Ethereum for Java developers](/java/)
+- [Ethereum for Python developers](/python/)
+- [Ethereum for JavaScript developers](/javascript/)
+- [Ethereum for Go developers](/golang/)
+- [Ethereum for Rust developers](/rust/)
+- [Ethereum for .NET developers](/dot-net/)
+- More coming soon! Don't see your language here? [Open up an issue](https://github.com/ethereum/ethereum-org-website/issues/new/choose)!
 
-- [깃허브](https://github.com/embark-framework/embark)
-- [개발문서](https://embark.status.im/docs/)
+## Developer Tools {#developer-tools}
 
-### 와플(Waffle) _고급 스마트 컨트랙트 개발 및 테스트 프레임워크(ethers.js 기반)._
+Ethereum has a large and growing number of tools to help developers build, test, and deploy their applications. Below are the most popular tools to get you started. If you want to dive deeper, check out this [comprehensive list](https://github.com/ConsenSys/ethereum-developer-tools-list).
 
-- [홈페이지](https://getwaffle.io/)
-- [깃허브](https://github.com/EthWorks/Waffle)
+### Frameworks {#frameworks}
 
-### 이더라임(Etherlime) _탈중앙애플리케이션의 개발(솔리디티, 바이퍼), 배포, 디버깅, 테스트 등을 위한 Ethers.js 기반의 개발 프레임워크_
+**Truffle -** **_A development environment, testing framework, build pipeline, and other tools._**
 
-- [개발문서](https://etherlime.readthedocs.io/en/latest/)
-- [깃허브](https://github.com/LimeChain/etherlime)
+- [trufflesuite.com](https://www.trufflesuite.com/)
+- [GitHub](https://github.com/trufflesuite/truffle)
 
-### 비들러(Buidler) _이더리움 스마트 컨트랙트 개발자를 위한 작업 자동화 도구_
+**Embark -** **_A development environment, testing framework, and other tools integrated with Ethereum, IPFS, and Whisper._**
 
-- [홈페이지](https://buidler.dev)
-- [깃허브](https://github.com/nomiclabs/buidler)
+- [Documentation](https://embark.status.im/docs/)
+- [GitHub](https://github.com/embark-framework/embark)
 
-### 제플린OS(ZeppelinOS) _업그레이드 가능한 스마트 컨트랙트 개발 및 컨트랙트의 안전한 관리를 위한 개발 프레임워크_
+**Waffle -** **_A framework for advanced smart contract development and testing (based on ethers.js)._**
 
-- [홈페이지](https://zeppelinos.org)
-- [깃허브](https://github.com/zeppelinos)
-- [커뮤니티 포럼](https://forum.zeppelin.solutions/c/zeppelinos)
+- [getwaffle.io](https://getwaffle.io/)
+- [GitHub](https://github.com/EthWorks/Waffle)
 
-### 추가자료 찾으세요?
+**Etherlime -** **_Ethers.js based framework for dapp development (Solidity & Vyper), deployment, debugging, testing and more._**
 
-- [이더리움 개발 도구 목록 #프레임워크(FrameWorks)](https://github.com/ConsenSys/ethereum-developer-tools-list#frameworks)
+- [Docs](https://etherlime.readthedocs.io/en/latest/)
+- [GitHub](https://github.com/LimeChain/etherlime)
 
-## 통합 개발 환경 (IDEs) {#integrated-development-environments-ides}
+### Other Tools {#other-tools}
 
-### 비주얼 스튜디오 코드(Visual Studio Code) _공식적으로 이더리움을 지원하는 전문 크로스플랫폼(cross-platform) 통합개발환경_ {#frameworks}
+**Ethereum Grid -** **_A desktop application for downloading, configuring, and running Ethereum clients and tools._**
 
-- [비주얼 스튜디오 코드](https://code.visualstudio.com/)
-- [애저(Azure) 블록체인 워크벤치 플러그인](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-azure-blockchain.azure-blockchain-workbench?tab=Overview)
-- [샘플 코드](https://github.com/Azure-Samples/blockchain/blob/master/blockchain-workbench/application-and-smart-contract-samples/readme.md)
+- [grid.ethereum.org](https://grid.ethereum.org)
+- [GitHub](https://github.com/ethereum/grid)
 
-### 리믹스(Remix) _정적 분석 도구와 테스트용 블록체인 가상 머신을 포함하는 웹 기반 통합개발환경_ {#other-tools}
+**Buidler -** **_A task runner for Ethereum smart contract developers._**
 
-- [홈페이지](https://remix.ethereum.org/)
+- [buidler.dev](https://buidler.dev)
+- [GitHub](https://github.com/nomiclabs/buidler)
 
-### 슈퍼블록스(Superblocks) _웹 기반 통합개발환경으로 브라우저 빌트인 형태의 블록체인 가상머신, 메타마스트(MetaMask) 통합, 전송 로그 기록 등의 다양한 기능을 포함_
+**OpenZeppelin SDK -** **_The Ultimate Smart Contract Toolkit: A suite of tools to help you develop, compile, upgrade, deploy and interact with smart contracts._**
 
-- [홈페이지](https://superblocks.com/lab/)
+- [OpenZeppelin SDK](https://openzeppelin.com/sdk/)
+- [GitHub](https://github.com/OpenZeppelin/openzeppelin-sdk)
+- [Community Forum](https://forum.openzeppelin.com/c/sdk)
 
-### 이드피들(EthFiddle) _스마트 컨트랙트를 작성하고 컴파일하고 다른 사람들에게 알릴 수 있는 웹 기반 통합개발환경_
+**The Graph -** **_A protocol for indexing Ethereum and IPFS data and querying it using GraphQL._**
 
-- [홈페이지](https://ethfiddle.com/)
+- [The Graph](https://thegraph.com/)
+- [Graph Explorer](https://thegraph.com/explorer/)
+- [Documentation](https://thegraph.com/docs/)
+- [GitHub](https://github.com/graphprotocol/)
+- [Discord](https://thegraph.com/discord)
 
-### 추가자료 찾으세요?
+**Tenderly -** **_A platform to easily monitor your smart contracts with error tracking, alerting, performance metrics, and detailed contract analytics._**
 
-- [이더리움 개발 툴 리스트 #통합개발환경들(IDEs)](https://github.com/ConsenSys/ethereum-developer-tools-list#ides)
+- [tenderly.dev](https://tenderly.dev/)
+- [GitHub](https://github.com/Tenderly)
+- [Discord](https://discord.gg/eCWjuvt)
 
-## 프론트엔드 자바스크립트 API {#frontend-javascript-apis}
+**Python Tooling -** **_Variety of libraries for Ethereum interaction via Python._**
 
-### Web3.js _이더리움 자바스크립트 API_
+- [py.ethereum.org](http://python.ethereum.org/)
+- [web3.py GitHub](https://github.com/ethereum/web3.py)
+- [web3.py Chat](https://gitter.im/ethereum/web3.py)
 
-- [깃허브](https://github.com/ethereum/web3.js/)
-- [개발문서](https://web3js.readthedocs.io/en/1.0/)
+**Brownie -** **_Python-based development environment and testing framework._**
 
-### Ethers.js _자바스크립트와 타입스크립트로 짜여진 완전한 이더리움 지갑 구현체와 각종 유틸리티 도구들_
+- [Documentation](https://eth-brownie.readthedocs.io/en/latest/)
+- [GitHub](https://github.com/iamdefinitelyahuman/brownie)
 
-- [깃허브](https://github.com/ethers-io/ethers.js/)
-- [개발문서](https://docs.ethers.io/ethers.js/html/)
+**web3j -** **_A Java/Android/Kotlin/Scala integration library for Ethereum._**
 
-### light.js _라이트 클라이언트에 최적화된 고수준 반응형 자바스크립트 라이브러리_
+- [web3j.io](https://web3j.io)
+- [GitHub](https://github.com/web3j/web3j)
+- [Docs](https://docs.web3j.io/)
+- [Gitter](https://gitter.im/web3j/web3j)
 
-- [깃허브](https://github.com/paritytech/js-libs/tree/master/packages/light.js)
-- [개발문서](https://paritytech.github.io/js-libs/light.js/)
+**One Click Dapp -** **_Generate a frontend directly from ABI for fast development and testing._**
 
-### Web3-wrapper _Web3.js의 타입스크립트 버전_
+- [OneClickDapp.com](https://oneclickdapp.com)
+- [Truffle Plugin](https://npmjs.org/package/oneclick)
+- [Remix Plugin](https://github.com/pi0neerpat/remix-plugin-one-click-dapp)
+- [GitHub](https://github.com/pi0neerpat/one-click-dapp)
 
-- [깃허브](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/web3-wrapper)
-- [개발문서](https://0x.org/docs/web3-wrapper#introduction)
+**Looking for other options?**
 
-### 추가자료 찾으세요?
+- [Ethereum Developer Tools List #Frameworks](https://github.com/ConsenSys/ethereum-developer-tools-list#frameworks)
 
-- [이더리움 개발 도구 목록 #프론트엔드이더리움API(Frontend-Ethereum-APIs)](https://github.com/ConsenSys/ethereum-developer-tools-list#frontend-ethereum-apis)
+## Integrated Development Environments (IDEs) {#integrated-development-environments-ides}
 
-## 백엔드 API {#backend-apis}
+**Ethereum Studio -** **_Web-based IDE ideal for new developers looking to experiment with smart contracts. Ethereum Studio features multiple templates, MetaMask integration, transaction logger, and a built in-browser Ethereum Virtual Machine (EVM) to help you get started building on Ethereum as fast as possible._**
 
-### 인퓨라(Infura) _이더리움 API 서비스(AaaS, API as a Service)_
+- [studio.ethereum.org](https://studio.ethereum.org)
+- [superblocks.com/ethereum-studio](https://superblocks.com/ethereum-studio)
+- [GitHub](https://github.com/SuperblocksHQ/ethereum-studio)
 
-- [홈페이지](https://infura.io)
+**Visual Studio Code -** **_Professional cross-platform IDE with official Ethereum support._**
 
-## 보안 도구 {#security-tools}
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Azure Blockchain Development Kit for Ethereum](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain)
+- [Azure Blockchain Workbench plugin](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-azure-blockchain.azure-blockchain-workbench?tab=Overview)
+- [Code samples](https://github.com/Azure-Samples/blockchain/blob/master/blockchain-workbench/application-and-smart-contract-samples/readme.md)
+- [GitHub](https://github.com/microsoft/vscode)
 
-### 스릿터(Slither) _파이썬3으로 작성된 솔리디티 정적분석 프레임워크_ {#smart-contract-security}
+**Remix -** **_Web-based IDE with built in static analysis, and a test blockchain virtual machine._**
 
-- [깃허브](https://github.com/crytic/slither)
+- [remix.ethereum.org](https://remix.ethereum.org/)
 
-### 미스엑스(MythX) _이더리움 스마트 컨트랙트를 위한 보안 분석 API_ {#formal-verification}
+**EthFiddle -** **_Web-based IDE that lets you write, compile, and debug your smart contract._**
 
-- [홈페이지](https://mythx.io/)
+- [ethfiddle.com](https://ethfiddle.com/)
+- [Gitter](https://gitter.im/loomnetwork/ethfiddle)
 
-### 만티코어(Manticore) _스마트 컨트렉트 및 바이너리에 대한 기호 실행(Symbolic Execution) 명령줄 도구_
+**Looking for other options?**
 
-- [깃허브](https://github.com/trailofbits/manticore)
+- [Ethereum Developer Tools List #IDEs](https://github.com/ConsenSys/ethereum-developer-tools-list#ides)
 
-### 시큐리파이(Securify) _이더리움 스마트 컨트렉트를 위한 보안 스캐너_
+## Frontend JavaScript APIs {#frontend-javascript-apis}
 
-- [홈페이지](https://securify.chainsecurity.com/)
+**Web3.js -** **_Ethereum JavaScript API._**
 
-### 형식 검증에 대한 추가 정보
+- [Documentation](https://web3js.readthedocs.io/en/1.0/)
+- [GitHub](https://github.com/ethereum/web3.js/)
 
-- [스마트 컨트랙트에서는 어떻게 형식 검증을 진행하는가? ](https://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/) _2018년 7월 20일 - 브라이언 머릭(Brian Marick)_
-- [어떻게 형식 검증을 통해 스마트 컨트랙트의 무결성을 보장할 수 있을까? ](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1) _2018년 1월 29일 - 버나드 뮐러(Bernard Mueller)_
+**Ethers.js -** **_Complete Ethereum wallet implementation and utilities in JavaScript and TypeScript._**
 
-### 추가자료 찾으세요?
+- [Documentation](https://docs.ethers.io/ethers.js/html/)
+- [GitHub](https://github.com/ethers-io/ethers.js/)
 
-- [이더리움 개발 도구 목록 #보안도구](https://github.com/ConsenSys/ethereum-developer-tools-list#security-tools)
+**light.js -** **_A high-level reactive JS library optimized for light clients._**
 
-## 테스트 도구 {#testing-tools}
+- [Documentation](https://paritytech.github.io/js-libs/light.js/)
+- [GitHub](https://github.com/paritytech/js-libs/tree/master/packages/light.js)
 
-### 솔리디티 커버리지(Solidity-Coverage) _또다른 솔리디티 코드 커버리지 측정 도구_
+**Web3-wrapper -** **_Typescript alternative to Web3.js._**
 
-- [깃허브](https://github.com/sc-forks/solidity-coverage)
+- [Documentation](https://0x.org/docs/web3-wrapper#introduction)
+- [GitHub](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper)
 
-### hevm _유닛 테스트 및 스마트 컨트랙트 디버깅을 위해 특별히 만들어진 EVM_
+**Looking for other options?**
 
-- [깃허브](https://github.com/dapphub/dapptools/tree/master/src/hevm)
+- [Ethereum Developer Tools List #Frontend-Ethereum-APIs](https://github.com/ConsenSys/ethereum-developer-tools-list#frontend-ethereum-apis)
 
-### 화이트블록 제네시스(Whiteblock Genesis) _블록체인을 위한 엔드 투 엔드(end-to-end) 개발 샌드박스(sandbox) 및 테스팅 플랫폼_
+## Backend APIs {#backend-apis}
 
-- [홈페이지](https://whiteblock.io)
-- [깃허브](https://github.com/whiteblock/genesis)
-- [개발문서](https://docs.whiteblock.io)
+**Infura -** **_The Ethereum API as a service._**
 
-### 추가자료 찾으세요?
+- [infura.io](https://infura.io)
+- [Documentation](https://infura.io/docs)
+- [GitHub](https://github.com/INFURA)
 
-- [이더리움 개발 도구 목록 #테스트도구(Testing-Tools)](https://github.com/ConsenSys/ethereum-developer-tools-list#testing-tools)
+**Cloudflare Ethereum Gateway.**
 
-## 블록 탐색기 {#block-explorers}
+- [cloudflare-eth.com](https://cloudflare-eth.com)
 
-블록 탐색기는 특정 거래, 블록, 컨트랙트 및 기타 온체인(on-chain) 활동에 대한 정보를 검색하여 이더리움 블록체인(테스트넷 포함)을 탐색할 수 있게 해주는 서비스입니다.
+**Nodesmith -** **_JSON-RPC API access to Ethereum mainnet and testnets._**
 
-- [이더스캔](https://etherscan.io/)
-- [블록스카우트](https://blockscout.com/)
-- [이더체인](https://www.etherchain.org/)
+- [nodesmith.io](https://nodesmith.io/network/ethereum/)
+- [Documentation](https://nodesmith.io/docs/#/ethereum/apiRef)
 
-## 테스트넷과 파우셋(Faucets) {#testnets-and-faucets}
+**Chainstack -** **_Shared and dedicated Ethereum nodes as a service._**
 
-이더리움 커뮤니티는 여러 개의 테스트넷을 관리합니다. 테스트넷은 개발자들이 이더리움 메인넷에 배포하기 전, 애플리케이션을 여러 가지 다른 조건하에 테스트하는 것에 사용됩니다.
+- [chainstack.com](https://chainstack.com)
+- [Documentation](https://docs.chainstack.com)
 
-### 롭스텐(Ropsten) _작업 증명(Proof of Work) 블록체인, 테스트 이더 채굴 가능_
+## Storage {#storage}
 
-- [테스트 이더 파우셋](https://faucet.ropsten.be/)
+**IPFS -** **_InterPlanetary File System is a decentralized storage and file referencing system for Ethereum._**
 
-### 링크비(Rinkeby) _권한 증명(Proof of Authority) 블록체인, 게스(Geth) 개발팀에 의해 유지_
+- [ipfs.io](https://ipfs.io/)
+- [Documentation](https://docs.ipfs.io/)
+- [GitHub](https://github.com/ipfs/ipfs)
 
-- [테스트 이더 파우셋](https://faucet.rinkeby.io/)
+**Swarm -** **_A distributed storage platform and content distribution service for the Ethereum web3 stack._**
 
-### 고얼리(Goerli) _크로스 클라이언트 권한 증명 블록체인, 고얼리 커뮤니티가 만들고 관리_
+- [Swarm](https://ethersphere.github.io/swarm-home/)
+- [GitHub](https://github.com/ethersphere/swarm)
 
-- [테스트 이더 파우셋](https://faucet.goerli.mudit.blog/)
-- [홈페이지](https://goerli.net/)
+**OrbitDB -** **_A decentralized peer to peer database on top of IPFS._**
 
-## 클라이언트 & 나만의 노드를 직접 운영하기 {#clients--running-your-own-node}
+- [Documentation](https://github.com/orbitdb/field-manual)
+- [GitHub](https://github.com/orbitdb/orbit-db)
 
-이더리움 네트워크는 호환 가능한 클라이언트 소프트웨어를 실행하는 수많은 노드로 구성되어 있습니다. 대부분의 노드는 [ 게스(Geth) ](https://geth.ethereum.org/) 또는 [ 패리티(Parity)](https://www.parity.io/ethereum/) 클라이언트를 구동하고 있으며 각각 니즈에 따라 다양한 방식으로 구성되어 사용할 수 있습니다.
+## Security Tools {#security-tools}
 
-### 게스(Geth) _고(Go) 언어로 작성된 이더리움 클라이언트_ {#clients}
+### Smart Contract Security {#smart-contract-security}
 
-- [깃허브](https://github.com/ethereum/go-ethereum)
-- [디스코드 채팅](https://discordapp.com/invite/nthXNEv)
+**Slither -** **_Solidity static analysis framework written in Python 3._**
 
-### 패리티(Parity) _러스트(Rust)언어로 작성된 이더리움 클라이언트_ {#running-your-own-node}
+- [GitHub](https://github.com/crytic/slither)
 
-- [홈페이지](https://www.parity.io/)
-- [깃허브](https://github.com/paritytech/parity-ethereum)
+**MythX -** **_Security analysis API for Ethereum smart contracts._**
 
-### 이드노드(Ethnode) _로컬 개발 환경을 위한 이더리움 노드(게스 또는 패리티) 구동 도구_
+- [mythx.io](https://mythx.io/)
+- [Documentation](https://docs.mythx.io/en/latest/)
 
-- [깃허브](https://github.com/vrde/ethnode)
+**Mythril -** **_Security analysis tool for EVM bytecode._**
 
-### 이더리움 노드 자료
+- [mythril](https://github.com/ConsenSys/mythril)
+- [Documentation](https://mythril-classic.readthedocs.io/en/master/about.html)
 
-- [노드 구성 요약](https://dev.to/5chdn/ethereum-node-configuration-modes-cheat-sheet-25l8) _2019년 1월 5일 - 아프리 쇼든(Afri Schoeden)_
+**SmartContract.Codes -** **_Search engine for verified solidity source codes._**
 
-### 추가자료 찾으세요?
+- [smartcontract.codes (alpha)](https://smartcontract.codes/)
+- [Documentation](https://github.com/ethereum-play/smartcontract.codes/blob/master/README.md)
 
-- [이더리움 개발 도구 목록 #이더리움클라이언트(Ethereum-clients)](https://github.com/ConsenSys/ethereum-developer-tools-list#ethereum-clients)
+**Manticore -** **_A command line interface that uses a symbolic execution tool on smart contracts and binaries._**
 
-## 모범 사례, 패턴 및 안티 패턴(Anti-patterns) {#best-practices-patterns-and-anti-patterns}
+- [GitHub](https://github.com/trailofbits/manticore)
+- [Documentation](https://github.com/trailofbits/manticore/wiki)
 
-### 댑시스(DappSys) _스마트 컨트랙트 개발에 사용할 수 있는 안전하고 단순 유연한 솔리디티 조각모음_ {#smart-contracts}
+**Securify -** **_Security scanner for Ethereum smart contracts._**
 
-- [개발문서](https://dapp.tools/dappsys/)
-- [깃허브](https://github.com/dapphub/dappsys)
+- [securify.chainsecurity.com](https://securify.chainsecurity.com/)
+- [Discord](https://discordapp.com/invite/nN77ckb)
 
-### 오픈제플린(OpenZeppelin) _안전한 스마트 컨트랙트 개발을 위한 라이브러리_ {#security}
+**ERC20 Verifier -** **_A verification tool used to check if a contract complies with the ERC20 standard._**
 
-- [홈페이지](https://openzeppelin.org/)
-- [깃허브](https://github.com/OpenZeppelin/openzeppelin-solidity)
+- [erc20-verifier.openzeppelin.com](https://erc20-verifier.openzeppelin.com)
+- [Forum](https://forum.openzeppelin.com/t/online-erc20-contract-verifier/1575)
 
-### 아라곤OS(aragonOS) _업그레이드와 권한 제어를 위한 패턴_
+### Formal Verification {#formal-verification}
 
-- [홈페이지](https://hack.aragon.org/docs/aragonos-intro.html)
+**Information on Formal Verification**
 
-### 스마트 컨트랙트 취약점 레지스트리(Registry)
+- [How formal verification of smart-contacts works](https://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/) _July 20, 2018 - Brian Marick_
+- [How Formal Verification Can Ensure Flawless Smart Contracts](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1) _Jan 29, 2018 - Bernard Mueller_
 
-- [스마트컨트랙트 취약점 분류 레지스트리(Smart-contract Weakness Classification Registry, SWC Registry)](https://smartcontractsecurity.github.io/SWC-registry/)
-- [깃허브](https://github.com/SmartContractSecurity/SWC-registry)
+**Looking for other options?**
 
-### 스마트 컨트랙트 보안 모범 사례 가이드
+- [Ethereum Developer Tools List #Security-Tools](https://github.com/ConsenSys/ethereum-developer-tools-list#security-tools)
 
-- [컨센시스(ConsenSys) 개발문서](https://consensys.github.io/smart-contract-best-practices/)
-- [깃허브](https://github.com/ConsenSys/smart-contract-best-practices/)
-- [보안 권장 사항 모음 및 모범 사례](https://github.com/guylando/KnowledgeLists/blob/master/EthereumSmartContracts.md)
+## Testing Tools {#testing-tools}
 
-### 추가자료 찾으세요?
+**Solidity-Coverage -** **_Alternative solidity code coverage tool._**
 
-- [이더리움 개발 도구 목록 #모범사례패턴(Patterns—best-practices)](https://github.com/ConsenSys/ethereum-developer-tools-list#patterns--best-practices)
+- [GitHub](https://github.com/sc-forks/solidity-coverage)
 
-## 개발자 지원 & 훈련 {#developer-support--training}
+**hevm -** **_Implementation of the EVM made specifically for unit testing and debugging smart contracts._**
 
-### 이더리움 스택익스체인지(Ethereum Stackexchange) {#general-learning}
+- [GitHub](https://github.com/dapphub/dapptools/tree/master/src/hevm)
+- [DappHub Chat](https://dapphub.chat/)
 
-- [홈페이지](https://ethereum.stackexchange.com/)
+**Whiteblock Genesis -** **_An end-to-end development sandbox and testing platform for blockchain._**
 
-### 솔리디티 깃터 채팅방 {#game-based-learning}
+- [Whiteblock.io](https://whiteblock.io)
+- [Documentation](https://docs.whiteblock.io)
+- [GitHub](https://github.com/whiteblock/genesis)
 
-- [깃터 채팅방](https://gitter.im/ethereum/solidity/)
+**Looking for other options?**
 
-### 이더리움 깃터 채팅방
+- [Ethereum Developer Tools List #Testing-Tools](https://github.com/ConsenSys/ethereum-developer-tools-list#testing-tools)
 
-- [깃터 채팅방](https://gitter.im/ethereum/home)
+## Block Explorers {#block-explorers}
 
-### 크립토좀비(Cryptozombies) _이더리움 위에서 게임으로 코드를 배우세요_
+Block explorers are services that let you browse the Ethereum blockchain (and its testnets), by finding information about specific transactions, blocks, contracts, and other on-chain activity.
 
-- [홈페이지](https://cryptozombies.io/)
+- [Etherscan](https://etherscan.io/)
+- [Blockscout](https://blockscout.com/)
+- [Etherchain](https://www.etherchain.org/)
 
-### 체인샷(Chainshot) _웹 기반 탈중앙애플리케이션 코딩 튜토리얼_
+## Testnets and Faucets {#testnets-and-faucets}
 
-- [홈페이지](https://www.chainshot.com/)
+The Ethereum community maintains multiple testnets. These are used by developers to test their applications under different conditions before deploying to the Ethereum mainnet.
 
-### 블록긱스(Blockgeeks) _블록체인 기술 온라인 코스_
+**Ropsten -** **_Proof of Work blockchain, test-ether can be mined._**
 
-- [홈페이지](https://courses.blockgeeks.com/)
+- [Test-ether faucet](https://faucet.ropsten.be/)
 
-### 댑 유니버시티(DappUniversity) _이더리움상에서의 탈중앙화 애플리케이션 개발을 배우세요_
+**Rinkeby -** **_Proof of Authority blockchain, maintained by the Geth development team._**
 
-- [홈페이지](http://www.dappuniversity.com/)
+- [Test-ether faucet](https://faucet.rinkeby.io/)
+- [Universal faucet](https://faucets.blockxlabs.com)
 
-### 이더넛(Ethernaut) _컨트랙트를 해킹해가며 레벨업하는 솔리디티 기반의 워게임(wargame)_
+**Goerli -** **_Cross-client Proof of Authority blockchain, built and maintained by the Goerli community_**
 
-- [홈페이지](https://ethernaut.zeppelin.solutions/)
+- [Test-ether faucet](https://faucet.goerli.mudit.blog/)
+- [goerli.net](https://goerli.net/)
+- [Universal faucet](https://faucets.blockxlabs.com)
 
-## UI/UX {#uiux-design}
+## Clients & Running your own Node {#clients--running-your-own-node}
 
-- [이더리움이 마주하고 있는 UX 문제들](https://medium.com/ecf-review/challenge-of-ux-in-ethereum-122e1a33688d) _2018년 6월 25일 - 안나 로즈(Anna Rose)_
-- [블록체인을 위한 디자인: 무엇이 다르고 무엇이 문제인가?](https://media.consensys.net/designing-for-blockchain-whats-different-and-what-s-at-stake-b867eeade1c9) _2018년 3월 22일 - 사라 베이커 밀스(Sara Baker Mills)_
+The Ethereum network is made up of many nodes who run compatible client software. The majority of these nodes run [Geth](https://geth.ethereum.org/) or [Parity](https://www.parity.io/ethereum/), each of which can be configured in different ways according to your needs.
 
-## 표준(Standards) {#standards}
+### Clients {#clients}
 
-이더리움 커뮤니티는 개발자에게 도움이 되는 많은 표준을 채택해왔습니다. 일반적으로 표준들은 [ 이더리움 개선 제안(Ethereum Improvement Proposals, EIPs)](http://eips.ethereum.org/)을 통해 소개되고, 이더리움 커뮤니티의 구성원들은 [EIP-1에 정의된 표준 절차](http://eips.ethereum.org/EIPS/eip-1)에 따라 제안된 내용에 대해 토론합니다.
+**Geth -** **_Ethereum clients written in Go._**
 
-- [이더리움개선제안(EIP) 목록](http://eips.ethereum.org/)
-- [이더리움 개선제안 깃허브 레포지토리](https://github.com/ethereum/EIPs)
-- [이더리움 개선제안 토론 게시판](https://ethereum-magicians.org/c/eips)
-- [이더리움 거버넌스 개요](https://blog.bmannconsulting.com/ethereum-governance/) _2019년 3월 31일 - 보리스 맨(Boris Mann)_
-- [이더리움 코어 개발자 회의 플레이리스트](https://www.youtube.com/playlist?list=PLaM7G4Llrb7zfMXCZVEXEABT8OSnd4-7w) _(유튜브 재생 목록)_
-  이더리움개선제안이 프로토콜-수준보다는 애플리케이션-수준의 표준일 경우(예: 스마트 컨트렉트 형식에 대한 표준), 해당 제안들은 [이더리움 논평 요청서(Ethereum Requests for Comment, ERC)](https://eips.ethereum.org/erc)라는 이름으로 소개됩니다. 많은 ERC 표준들이 이더리움 생태계에서 널리 사용되는 핵심적인 표준입니다.
-- [ERCs 리스트](http://eips.ethereum.org/erc)
-- [ERC20 - 토큰을 위한 표준 인터페이스](https://eips.ethereum.org/EIPS/eip-20)
-- [ERC721 - 대체불가능(non-fungible) 토큰을 위한 표준 인터페이스](https://eips.ethereum.org/EIPS/eip-721)
+- [GitHub](https://github.com/ethereum/go-ethereum)
+- [Discord chat](https://discordapp.com/invite/nthXNEv)
+
+**Parity -** **_Ethereum client written in Rust._**
+
+- [parity.io](https://www.parity.io/)
+- [GitHub](https://github.com/paritytech/parity-ethereum)
+
+**Pantheon -** **_Ethereum client written in Java._**
+
+- [pegasys.tech](http://pegasys.tech)
+- [GitHub](https://github.com/PegaSysEng/pantheon/)
+
+**Nethermind -** **_Ethereum client written in C# .NET Core._**
+
+- [Nethermind.io](http://nethermind.io/)
+- [GitHub](https://github.com/NethermindEth/nethermind)
+- [Gitter](https://gitter.im/nethermindeth/nethermind)
+
+### Running your own node {#running-your-own-node}
+
+**Ethnode -** **_Run an Ethereum node (Geth or Parity) for local development._**
+
+- [GitHub](https://github.com/vrde/ethnode)
+
+**Ethereum Node Resources**
+
+- [Node Configuration Cheat Sheet](https://dev.to/5chdn/ethereum-node-configuration-modes-cheat-sheet-25l8) _Jan 5, 2019 - Afri Schoeden_
+
+**Looking for other options?**
+
+- [Ethereum Developer Tools List #Ethereum-clients](https://github.com/ConsenSys/ethereum-developer-tools-list#ethereum-clients)
+
+## Best Practices, Patterns, and Anti-patterns {#best-practices-patterns-and-anti-patterns}
+
+### Smart Contracts {#smart-contracts}
+
+**DappSys -** **_Safe, simple, flexible building-blocks for smart-contracts._**
+
+- [dapp.tools/dappsys](https://dapp.tools/dappsys/)
+- [GitHub](https://github.com/dapphub/dappsys)
+
+**OpenZeppelin Contracts -** **_Library for secure smart contract development._**
+
+- [openzeppelin.com/contracts/](https://openzeppelin.com/contracts/)
+- [GitHub](https://github.com/OpenZeppelin/openzeppelin-contracts)
+- [Community Forum](https://forum.openzeppelin.com/c/contracts)
+
+**aragonOS -** **_Patterns for upgradeability & permission control._**
+
+- [hack.aragon.org](https://hack.aragon.org/docs/aragonos-intro.html#aragonos-provides-the-following-functionality)
+- [Documentation](https://wiki.aragon.org/)
+
+**Smart Contract Weakness Registry**
+
+- [SWC registry](https://smartcontractsecurity.github.io/SWC-registry/)
+- [GitHub](https://github.com/SmartContractSecurity/SWC-registry)
+
+### Security {#security}
+
+**Smart Contract Security Best Practices Guide**
+
+- [consensys.github.io/smart-contract-best-practices/](https://consensys.github.io/smart-contract-best-practices/)
+- [GitHub](https://github.com/ConsenSys/smart-contract-best-practices/)
+- [Aggregated collection of security recommendations and best practices](https://github.com/guylando/KnowledgeLists/blob/master/EthereumSmartContracts.md)
+
+**Smart Contract Security Verification Standard (SCSVS)**
+
+- [securing.github.io/SCSVS/](https://securing.github.io/SCSVS/)
+
+**Looking for other options?**
+
+- [Ethereum Developer Tools List #Patterns—best-practices](https://github.com/ConsenSys/ethereum-developer-tools-list#patterns--best-practices)
+
+## Developer Support & Training {#developer-support--training}
+
+### General Learning {#general-learning}
+
+**Ethereum Stackexchange**
+
+- [ethereum.stackexchange.com](https://ethereum.stackexchange.com/)
+
+**ConsenSys Academy -** **_An end-to-end Ethereum developer course that is self-paced and open year-round._**
+
+- [consensys.academy](https://consensys.net/academy/ondemand/)
+
+**Solidity Gitter Chatroom**
+
+- [gitter.im/ethereum/solidity](https://gitter.im/ethereum/solidity/)
+
+**All Ethereum Gitter Chatrooms**
+
+- [gitter.im/ethereum/home](https://gitter.im/ethereum/home)
+
+**Chainshot -** **_Web based dapp coding tutorials._**
+
+- [chainshot.com](https://www.chainshot.com/)
+
+**Blockgeeks -** **_Online courses on blockchain technology._**
+
+- [courses.blockgeeks.com](https://courses.blockgeeks.com/)
+
+**DappUniversity -** **_Learn to build decentralized applications on the Ethereum blockchain._**
+
+- [DappUniversity.com](http://www.dappuniversity.com/)
+
+**B9lab Academy -** **_Home of the oldest professional Ethereum dapp developer course & further learning for auditors and QA. Incl. mentoring and code review._**
+
+- [academy.b9lab.com](https://academy.b9lab.com)
+
+### Game-Based Learning {#game-based-learning}
+
+**Cryptozombies -** **_Learn to code games on ethereum._**
+
+- [Cryptozombies.io](https://cryptozombies.io/)
+
+**Ethernaut -** **_Solidity based wargame where each level is a contract to be hacked._**
+
+- [ethernaut.openzeppelin.com](https://ethernaut.openzeppelin.com/)
+
+**Capture the Ether -** **_The game of Ethereum smart contract security._**
+
+- [capturetheether.com](https://capturetheether.com/)
+
+## UI/UX Design {#uiux-design}
+
+- [Challenge of UX in Ethereum](https://medium.com/ecf-review/challenge-of-ux-in-ethereum-122e1a33688d) _June 25, 2018 - Anna Rose_
+- [Designing for blockchain: what’s different and what’s at stake](https://media.consensys.net/designing-for-blockchain-whats-different-and-what-s-at-stake-b867eeade1c9) _March 22, 2018 - Sarah Baker Mills_
+
+**Rimble UI** **_- Adaptable components and design standards for decentralized applications._**
+
+- [rimble.consensys.design](https://rimble.consensys.design)
+- [GitHub](https://github.com/ConsenSys/rimble-ui)
+
+## Standards {#standards}
+
+The Ethereum community has adopted many standards that are helpful to developers. Typically these are introduced as [Ethereum Improvement Proposals](http://eips.ethereum.org/) (EIPs), which are discussed by community members through a [standard process](http://eips.ethereum.org/EIPS/eip-1).
+
+- [List of EIPs](http://eips.ethereum.org/)
+- [EIP github repo](https://github.com/ethereum/EIPs)
+- [EIP discussion board](https://ethereum-magicians.org/c/eips)
+- [Ethereum Governance Overview](https://blog.bmannconsulting.com/ethereum-governance/) _March 31, 2019 - Boris Mann_
+- [Playlist of all Ethereum Core Dev Meetings](https://www.youtube.com/playlist?list=PLaM7G4Llrb7zfMXCZVEXEABT8OSnd4-7w) _(YouTube Playlist)_
+
+Certain EIPs relate to application-level standards (e.g. a standard smart-contract format), which are introduced as [Ethereum Requests for Comment (ERC)](https://eips.ethereum.org/erc). Many ERCs are critical standards used widely across the Ethereum ecosystem.
+
+- [List of ERCs](http://eips.ethereum.org/erc)
+- [ERC20 - A standard interface for tokens](https://eips.ethereum.org/EIPS/eip-20)
+- [ERC721 - A standard interface for non-fungible tokens](https://eips.ethereum.org/EIPS/eip-721)

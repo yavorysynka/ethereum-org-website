@@ -1,131 +1,154 @@
 ---
-title: Základné informácie
+title: Learn about Ethereum
 meta:
-  - property: og:title
-    content: Základné informácie | Ethereum
-lang: sk
+  - 
+    name: description
+    content: A set of technical and non-technical articles, guides, and resources to learn about Ethereum.
+  - 
+    property: og:title
+    content: Learn about Ethereum
+  - 
+    property: og:description
+    content: A set of technical and non-technical articles, guides, and resources to learn about Ethereum.
+lang: en-US
 sidebar: auto
 sidebarDepth: 0
 ---
 
-# Základné informácie o Ethereu {#learn-about-ethereum}
+# Learn about Ethereum {#learn-about-ethereum}
 
-**Vitajte na stránke [ethereum.org/sk/learn](/sk/learn/), kde máte možnosť dozvedieť sa základné informácie o Ethereu.** Táto stránka obsahuje technické **a** netechnické články, príručky a zdroje. Ak o Ethereu neviete ešte takmer nič, [odporúčame vám začať tu](/sk/beginners/).
+**Welcome to ethereum.org/learn, a set of resources to help you learn more about Ethereum.** This page includes technical **and** non-technical articles, guides, and resources. If you’re totally new to Ethereum, [we suggest you start here](/beginners/).
 
-Niekoľko skvelých článkov a videí na úvod:
+Here are some excellent starting points:
 
 - [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo&feature=youtu.be) *Sep 18, 2017 - Vitalik Buterin (Video)*
+- [Why Decentralization Matters](https://medium.com/s/story/why-decentralization-matters-5e3f79f7638e) *Feb 18, 2018 - Chris Dixon*
 - [The Year in Ethereum](https://medium.com/@jjmstark/the-year-in-ethereum-87a17d6f8276) *Jan 16, 2019 - Josh Stark, Evan Van Ness, and Daniel Zakrisson*
 - [Ethereum is game-changing technology, literally](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8) *Mar 29, 2019 - Virgil Griffith*
 
-Okrem informácií uvedených na tejto stránke existuje množstvo zaujímavých vzdelávacích zdrojov vytvorených našou komunitou:
+In addition to the information on this page, there are many community-built resources worth exploring:
 
-- [EthHub](https://docs.ethhub.io) *Rozsiahly zdroj informácií o Ethereu*
-- [District0x](https://education.district0x.io/general-topics/understanding-ethereum/) *Vzdelávacia stránka o Ethereu pre začiatočníkov*
-- [Ethereum.wiki](https://ethereum.wiki) *Komunitou zostavovaná stránka typu Wikipédie o technológii Etherea *
-- [Kauri](https://kauri.io) *Technické články a návody pre Ethereum a súvisiace projekty*
-- [Ethereum Foundation YouTube](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) *Videá, prednášky a rozhovory o Ethereu*
-- [Week in Ethereum News](https://weekinethereumnews.com/) *Týždenný newsletter o kľúčových novinkách vo vývoji Etherea*
-- [What’s new in ETH 2.0](https://notes.ethereum.org/c/Sk8Zs--CQ) *Pravidelný newsletter o vývoji Etherea 2.0*
-- [ETHGlobal](https://ethglobal.co) *Hackathony Etherea – zúčastnite sa jedného vo vašom okolí!*
+- [EthHub](https://docs.ethhub.io) *Comprehensive knowledge base for all things Ethereum*
+- [District0x](https://education.district0x.io/general-topics/understanding-ethereum/) *An educational resource about Ethereum targeted at beginners*
+- [Ethereum.wiki](https://ethereum.wiki) *A community-built wiki about Ethereum’s technology*
+- [Kauri](https://kauri.io) *Technical articles and tutorials for Ethereum and related projects*
+- [Ethereum Foundation YouTube](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) *Videos and talks about Ethereum*
+- [Week in Ethereum News](https://weekinethereumnews.com/) *A weekly newsletter covering key developments across the ecosystem*
+- [What’s new in ETH 2.0](https://notes.ethereum.org/c/Sk8Zs--CQ) *A regular newsletter about ETH 2.0 development*
+- [ethresear.ch forum](https://ethresear.ch/) *Deeper technical discussions on Ethereum for ETH 2.0 and beyond*
+- [ETHGlobal](https://ethglobal.co) *An Ethereum hackathon series - attend one near you!*
 
-## Základné informácie Ethereu {#ethereum-basics}
 
-Ste začiatočníkom? Tieto články a zdroje sú dobrým miestom, kde začať.
+## Ethereum basics {#ethereum-basics}
+
+New to Ethereum? These articles and resources are a good place to get started.
 
 - [A Beginner’s Guide to Ethereum](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf) *Feb 23, 2017 - Linda Xie*
+- [Video: What is Ether and Ethereum?](https://www.youtube.com/watch?v=fjnovGRQrRE) *April 25, 2019 - CME Group*
 - [What is Ethereum?](https://education.district0x.io/general-topics/understanding-ethereum/what-is-ethereum/) *District0x*
-- [What is Ether?](https://docs.ethhub.io/ethereum-basics/what-is-ether/) *Pravidelne aktualizované – EthHub*
+- [What is Ether?](https://docs.ethhub.io/ethereum-basics/what-is-ether/) *Updated often - EthHub*
+- [Absolute Beginner Introduction to Ethereum](https://www.mewtopia.com/absolute-beginners-guide/) *July 23, 2019*
 - [The Case for Ethereum](http://blog.eladgil.com/2018/01/the-case-for-ethereum.html) *Jan 30, 2018 - Elad Gil*
 - [Blockchains: How they Work and Why they’ll Change the World](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world) *Sept 28, 2017 - Morgan Peck*
-- [Don’t let Doubts about Blockchains Close your Mind](https://www.bloomberg.com/opinion/articles/2018-04-27/blockchains-warrant-skepticism-but-keep-an-open-mind) *April 27, 2018 - Tyler Cowen*
 
-## Ako funguje Ethereum {#how-ethereum-works}
-
-Stručný prehľad Etherea a technológie blockchainu.
-
+## How Ethereum works {#how-ethereum-works}
+High-level explanations of Ethereum and blockchain technology generally.
 - [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) *Sept 27, 2017 - Preethi Kasireddy*
 - [A Gentle Introduction to Ethereum](https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/) *Oct 2, 2016 - Antony Lewis*
-- [Introduction to Blockchain through Cryptoeconomics - Part 1](https://blockchainatberkeley.blog/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) *Jan 26, 2018 - Zubin Koticha*
+- [Introduction to Blockchain through Cryptoeconomics - Part 1](https://medium.com/blockchain-at-berkeley/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) *Jan 26, 2018 - Zubin Koticha*
 - [Introduction to Blockchain through Cryptoeconomics - Part 2](https://medium.com/mechanism-labs/introduction-to-bitcoin-through-cryptoeconomics-part-2-proof-of-work-and-nakamoto-consensus-1252f6a6c012) *July 19, 2018 - Zubin Koticha*
 
-## Smart kontrakty {#smart-contracts}
 
-Smart kontrakt – „inteligentná zmluva“ je v jednoduchosti časť kódu, ktorá beží na blockchaine Etherea. „Zmluvou“ sa nazýva preto, že programovacím kódom, ktorý beží na Ethereu, je možné spravovať rôzne hodnotné veci, ako napríklad ETH, či iné digitálne aktíva.
+## Smart Contracts {#smart-contracts}
 
-- Chcete sa naučiť programovať smart kontrakty na Ethereu? [ethereum.org/sk/developers](/sk/developers/)
+A “smart contract” is simply a piece of code that is running on Ethereum. It’s called a “contract” because code that runs on Ethereum can control valuable things like ETH or other digital assets.
 
-## Proof of Work a ťaženie {#proof-of-work-and-mining}
 
-Ethereum v súčasnosti používa systém s názvom „Proof of Work“. Ten umožňuje uzlom siete Etherea dohodnúť sa na stave všetkých informácií zaznamenaných na blockchaine Etherea a bráni určitým typom ekonomických útokov.
+- Want to learn how to program on Ethereum with smart contracts? [ethereum.org/developers](/developers/)
+- [What is a Smart Contract?](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc#what-is-a-smart-contract) *Nov 12, 2018 - Andreas M. Antonopoulos, Gavin Wood*
+- [What are Smart Contracts/Decentralized Applications?](https://docs.ethhub.io/ethereum-basics/what-is-ethereum/#what-are-smart-contracts-and-decentralized-applications) *Updated often - Ethhub*
 
-- [What does it mean to mine Ethereum?](https://docs.ethhub.io/using-ethereum/mining/) *Pravidelne aktualizované – Ethhub*
+## Proof of Work and Mining {#proof-of-work-and-mining}
+
+Ethereum currently uses a system called “Proof of Work”. This allows the Ethereum network to agree on the state of all information recorded on the Ethereum blockchain, and prevents certain kinds of economic attacks.
+
+
+- [What does it mean to mine Ethereum?](https://docs.ethhub.io/using-ethereum/mining/) *Updated often - Ethhub*
 - [How Ethereum Mining Works](https://www.coindesk.com/information/ethereum-mining-works) *Coindesk*
 
-V rámci nového Etherea 2.0 sa však bude využívať iný systém s názvom „Proof of Stake“. [Prečítajte si viac o Ethereu 2.0 nižšie](./#eth-2-0).
+In ETH 2.0, Ethereum will be moving to a different system called “Proof of Stake”. [Read more about ETH 2.0 below](./#eth-2-0).
 
-## Klienti a uzly {#clients-and-nodes}
+## Clients and Nodes {#clients-and-nodes}
+The Ethereum network is made up of many nodes, each of which runs compatible client software. There are two clients that are used by a majority of nodes: [Geth](https://geth.ethereum.org/) (written in Go) and [Parity](https://www.parity.io/ethereum/) (written in Rust).
 
-Sieť Ethereum pozostáva z mnohých uzlov, z ktorých každý prevádzkuje kompatibilného softvérového klienta. Väčšina uzlov používa jeden z dvoch klientov: [Geth](https://geth.ethereum.org/) (napísaný v jazyku Go) alebo <a href = "https: //[Parity](https://www.parity.io/ethereum/) (napísaný v jazyku Rust).
+- Want to learn how to run a node of your own? → [ethereum.org/developers](/developers/#clients-running-your-own-node)
+- [Comprehensive list of all Ethereum clients](https://github.com/ConsenSys/ethereum-developer-tools-list#ethereum-clients)
 
-- Chcete sa naučiť, ako prevádzkovať vlastný uzol? → [ethereum.org/sk/developers](/sk/developers/#clients-running-your-own-node)
-- [Komplexný zoznam všetkých klientov Etherea](https://github.com/ConsenSys/ethereum-developer-tools-list#ethereum-clients)
+## Enterprise Ethereum {#enterprise-ethereum}
 
-## Zlepšenie škálovateľnosti Etherea {#improving-ethereums-scalability}
+Enterprise Ethereum refers to private, consortium, and hybrid implementations of the Ethereum codebase for business applications. Companies across the globe are already using Enterprise Ethereum to streamline financial markets, manage supply chains, and create new business models.
 
-Veľa úsilia je vyvíjaného na to, aby bolo Ethereum „škálovateľnejšie“, a to zlepšením jeho rýchlosti a celkovej priepustnosti transakcií. Spravidla sú rozdelené do riešení na úrovniach „Layer 1“ a „Layer 2“.
+Read more about [Enterprise Ethereum](/enterprise).
 
-„Layer 1“ sa týka vylepšení základného protokolu Ethereum. Hlavným projektom, ktorý by to mal dosiahnuť je [Ethereum 2.0](./#eth-2-0).
 
-„Layer 2“ označuje technológie, ktoré sú budované „nad“ základným protokolom Etherea a umožňujú väčšiu škálovateľnosť bez rizika ohrozenia bezpečnosti. Existujú tiež „off-chain“ technológie, ako napríklad side-chains, ktoré umožňujú väčšiu škálovateľnosť vďaka zavedeniu určitých kompromisov na úrovni bezpečnosti.
+## Improving Ethereum’s Scalability {#improving-ethereums-scalability}
+
+There are many efforts underway to make Ethereum more “scalable” by improving its speed and overall transaction throughput. Generally these are sorted into “Layer 1” and “Layer 2” solutions.
+
+“Layer 1” refers to improving the core Ethereum protocol. The primary project to improve Ethereum’s core protocol is [ETH 2.0](./#eth-2-0).
+
+“Layer 2” refers to technologies that are built “on top” of the base Ethereum protocol, enabling greater scalability without compromising on security. There are also “off-chain” technologies like side-chains, which enable greater scalability by making a different set of security tradeoffs.
 
 - [Making Sense of Layer 2](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4) *Feb 12, 2018 - Josh Stark*
 - [The Case for Ethereum Scalability](https://medium.com/connext/the-case-for-ethereum-scalability-d2a8035f880f) *Jan 18, 2019 - Hunter Hillman, Steven McKie, and Eric Olszewski*
+- [5 Ways to Scale your Ethereum Dapp](https://kauri.io/article/7ccaaa2fe7f344d5bf53807cb5c01530) *Apr 23, 2019 - Andreas Wallendahl*
 
-### Platobné a stavové kanály {#payment--state-channels}
 
+### Payment & State Channels {#payment--state-channels}
 - [State Channels - an explanation](https://www.jeffcoleman.ca/state-channels/) *Nov 6, 2015 - Jeff Coleman*
 - [Basics of State Channels](https://education.district0x.io/general-topics/understanding-ethereum/basics-state-channels/) *District0x*
-- [State Channels](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/state-channels/) *Pravidelne aktualizované – EthHub*
+- [State Channels](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/state-channels/) *Updated often - EthHub*
 
 ### Sidechains {#sidechains}
-
 - [Scaling Ethereum Dapps through Sidechains](https://medium.com/loom-network/dappchains-scaling-ethereum-dapps-through-sidechains-f99e51fff447) *Feb 8, 2018 - Georgios Konstantopoulos*
 
 ### Plasma {#plasma}
-
 - [Understanding Plasma, Part 1: The Basics](https://www.theblockcrypto.com/2019/02/07/understanding-plasma-part-1-the-basics/) *Feb 7, 2019 - Daniel Goldman*
 - [Understanding Plasma](https://education.district0x.io/general-topics/understanding-ethereum/understanding-plasma/) *District0x*
-- [Learn Plasma – náučný zdroj informácií pre rozhranie Plasma](https://www.learnplasma.org/en/)
+- [Learn Plasma - A learning resource for the Plasma framework](https://www.learnplasma.org/en/)
 
-## Ethereum 2.0 {#eth-2-0}
 
-Ethereum 2.0 (známe aj ako „Serenity“) je ďalšou významnou inováciou základného protokolu Etherea. Kombinuje niekoľko vylepšení základného protokolu Etherea, teda úrovne „Layer 1“.
+## ETH 2.0 {#eth-2-0}
 
-- [ETH 2.0 Roadmap and Phases](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/) *Pravidelne aktualizované – EthHub*
+ETH 2.0 (also known as “Serenity”) refers to the next major upgrade of the core Ethereum protocol. It combines several improvements to Ethereum’s core protocol, or “Layer 1”.
+
+- [ETH 2.0 Roadmap and Phases](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/) *Updated often - EthHub*
 - [8 Teams Are Sprinting to Build the Next Generation of Ethereum](https://www.coindesk.com/next-gen-buidlers-the-8-teams-working-on-ethereum-2-0) *Dec 9, 2018 - Christine Kim*
-- [Proof of Stake](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/) *Pravidelne aktualizované – EthHub*
-- [Sharding](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/sharding/) *Pravidelne aktualizované – EthHub*
+- [Proof of Stake](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/) *Updated often - EthHub*
+- [Sharding](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/sharding/) *Updated often - EthHub*
 - [ETH 2.0 - The Road to Scaling Ethereum - Vitalik Buterin](https://youtu.be/kCVpDrlVesA) *(Video) November, 2018 - YouTube*
+- [ETH 2.0 Researchers AMA Part 1](https://docs.ethhub.io/other/ethereum-2.0-ama/#part-1) *Jan 24, 2019 - EthHub*
+- [ETH 2.0 Researchers AMA Part 2](https://docs.ethhub.io/other/ethereum-2.0-ama/#part-2) *Jul 15, 2019 - EthHub*
+- [9 Things You Didn't Know About Ethereum 2.0](https://our.status.im/9-things-you-didnt-know-about-ethereum-2-0/) *July 18, 2019 - Bruno Škvorc*
 
-## Ethereum 1.x {#eth-1x}
 
-Ethereum 1.x je názov pre súbor inovácií existujúceho protokolu Etherea. Cieľom je pokračovať v zdokonaľovaní a udržiavaní funkčnosti Etherea, pokým nebude implementované Ethereum 2.0.
+## ETH 1.x {#eth-1x}
 
-Viac informácií nájdete na [ stránke EthHub v časti o Ethereu 1.x ](https://docs.ethhub.io/ethereum-roadmap/ethereum-1.x/)
+ETH 1.x is the name for a collection of upgrades to the existing Ethereum protocol. The goal is to continue to improve and maintain Ethereum while ETH 2.0 is developed and implemented.
 
-## Kryptoekonómia {#cryptoeconomics}
+For more information, see [EthHub’s explainer page about ETH 1.x](https://docs.ethhub.io/ethereum-roadmap/ethereum-1.x/)
 
-„Kryptoekonómia“ je praktická veda o budovaní distribuovaných systémov, v ktorých vlastnosti týchto systémov sú zabezpečené finančnými stimulmi a ekonomické mechanizmy kryptografiou. Je to všeobecný termín pre projektovanie a škálovanie blockchainov ako Ethereum a Bitcoin.
+## Cryptoeconomics {#cryptoeconomics}
+
+“Cryptoeconomics” is the practical science of building distributed systems, where properties of those systems are secured by financial incentives, and where the economic mechanisms are guaranteed by cryptography. It is the general term for the practice of designing and scaling blockchains like Ethereum and Bitcoin.
 
 - [Cryptoeconomics.study](https://cryptoeconomics.study/)
 - [Intro to Cryptoeconomics](https://www.youtube.com/watch?v=F0FCI8GxO5I) *(Video) Aug 19, 2018 - Karl Floersch*
 - [Making Sense of Cryptoeconomics](https://medium.com/l4-media/making-sense-of-cryptoeconomics-5edea77e4e8d) *Nov 16 2017 - Josh Stark*
 
-## Kritika a skepticizmus {#critique-and-skepticism}
+## Critique and skepticism {#critique-and-skepticism}
 
-Kritické pohľady na Ethereum a kryptomeny.
-
+Critical views of Ethereum and Cryptocurrencies.
 - [Ethereum’s roadmap isn’t ambitious enough](https://decryptmedia.com/6136/vulcanize-rick-dudley-ethereum-roadmap-makerdao-polkadot) *March 27, 2019 - Interview with Rick Dudley*
 - [The Challenges of Building Ethereum Infrastructure](https://medium.com/@lopp/the-challenges-of-building-ethereum-infrastructure-87e443e47a4b) *Jan 8, 2018 - Jameson Lopp*
 - [Parsimonious Answers to Difficult Questions](https://www.youtube.com/watch?v=GOkSg0BuSdw&feature=youtu.be) *(Video) March 10, 2019 - Rick Dudley*

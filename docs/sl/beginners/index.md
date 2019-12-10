@@ -1,66 +1,74 @@
 ---
-title: Začetniki
+title: What is Ethereum?
 meta:
-  - property: og:title
-    content: Začetniki | Ethereum
-lang: sl
+  - 
+    name: description
+    content: Guides, resources, and tools for users completely new to Ethereum.
+  - 
+    property: og:title
+    content: What is Ethereum?
+  - 
+    property: og:description
+    content: Guides, resources, and tools for users completely new to Ethereum.
+lang: en-US
 ---
 
-# 👋 Pozdravljeni! {#-welcome}
+# What is Ethereum? {#what-is-ethereum}
 
-Ali želite spoznati Ethereum? Ste na pravem mestu. Začnimo s pregledom celotnega projekta.
+New to Ethereum? You’re in the right place. Let’s start with the big picture.
 
-**Ethereum postavlja temelje nove dobe interneta:**
+**Ethereum is the foundation for a new era of the internet:**
 
-- Internet, v katerega so vgrajena denar in plačila.
-- Internet, v katerem imajo uporabniki lastništvo nad svojimi podatki, kjer vaše aplikacije ne vohunijo za vami in ne kradejo vaših osebnih podatkov.
-- Internet, kjer imajo vsi dostop do odprtega finančnega sistema.
-- Internet, ki je zgrajen na nevtralni in odprti infrastrukturi, ki ni pod nadzorom nobenega podjetja ali posameznika.
+- An internet where money and payments are built in.
+- An internet where users can own their data, and your apps don’t spy and steal from you.
+- An internet where everyone has access to an open financial system.
+- An internet built on neutral, open-access infrastructure, controlled by no company or person.
 
-**Ethereum je bil predstavljen leta 2015 in je vodilna programabilna tehnologija veriženja blokov na svetu.**
+**Launched in 2015, Ethereum is the world’s leading programmable blockchain.**
 
-**Tako kot ostale tehnologije veriženja blokov ima tudi Ethereum svojo kriptovaluto, ki se imenuje Ether (ETH).** ETH je digitalni denar. Če ste že slišali za [bitcoin](http://bitcoin.org/), ima ETH veliko enakih lastnosti. Je v celoti digitalen in v trenutku ga je mogoče poslati komurkoli po vsem svetu. Količine ETH v obtoku ne določa nobena vlada ali podjetje – je decentralizirana in majhna. Ljudje po vsem svetu uporabljajo ETH za plačevanje, kot shrambo premoženja in kot jamstvo.
+**Like other blockchains, Ethereum has a native cryptocurrency called Ether (ETH).** ETH is digital money. If you’ve heard of [Bitcoin](http://bitcoin.org/), ETH has many of the same features. It is purely digital, and can be sent to anyone anywhere in the world instantly. The supply of ETH isn’t controlled by any government or company - it is decentralized, and it is scarce. People all over the world use ETH to make payments, as a store of value, or as collateral.
 
-**Za razliko od ostalih tehnologij veriženja blokov pa lahko Ethereum naredi mnogo več.** Ethereum je programabilen, kar pomeni, da ga lahko razvijalci uporabijo za [izdelavo novih vrst aplikacij](/use/sl/#1-use-an-application-built-on-ethereum).
+**But unlike other blockchains, Ethereum can do much more.** Ethereum is programmable, which means that developers can use it to [build new kinds of applications](/use/#1-use-an-application-built-on-ethereum).
 
-Te decentralizirane aplikacije (ali "dappi") pridobijo prednosti tehnologij kriptovalut in veriženja blokov. Lahko so vredne zaupanja, kar pomeni, da bodo potem, ko so "naložene" v Ethereum, vedno delovale tako, kot so bile programirane. Nadzorujejo lahko digitalna sredstva in s tem ustvarijo nove vrste finančnih aplikacij. Lahko so decentralizirane, zaradi česar jih ne more nadzorovati nobena posamezna entiteta ali oseba.
+These decentralized applications (or “dapps”) gain the benefits of cryptocurrency and blockchain technology. They can be trustworthy, meaning that once they are “uploaded” to Ethereum, they will always run as programmed. They can control digital assets in order to create new kinds of financial applications. They can be decentralized, meaning that no single entity or person controls them.
 
-**Prav zdaj na tisoče razvijalcev po vsemu svetu razvija aplikacije na Ethereumu ter izumlja nove vrste aplikacij, od katerih lahko mnoge uporabite že danes:**
+**Right now, thousands of developers all over the world are building applications on Ethereum, and inventing new kinds of applications, many of which you can use today:**
 
-- [**Denarnice za kriptovalute**](/use/sl/#3-what-is-a-wallet-and-which-one-should-i-use) omogočajo poceni in takojšnje plačevanje z ETH ali drugimi sredstvi
-- **Finančne aplikacije** omogočajo izposojo, posojanje ali vlaganje digitalnih sredstev
-- **Decentralizirani trgi** omogočajo trgovanje z digitalnimi sredstvi ali celo trgovanje z “napovedmi” o dogodkih v resničnem svetu
-- **Igre**, v katerih ste lastniki sredstev iz igre in lahko celo zaslužite pravi denar
-- **In še veliko,** veliko več.
+- [**Cryptocurrency wallets**](/use/#3-what-is-a-wallet-and-which-one-should-i-use) that let you make cheap, instant payments with ETH or other assets
+- **Financial applications** that let you borrow, lend, or invest your digital assets
+- **Decentralized markets**, that let you trade digital assets, or even trade “predictions” about events in the real world
+- **Games** where you own in-game assets, and can even make real money
+- **And much,** much more.
 
-**Skupnost Ethereuma je največja in najbolj aktivna skupnost veriženja blokov na svetu.** Vključuje razvijalce jedra protokola, raziskovalce kriptoekonomije, cypherpunke, rudarske organizacije, imetnike ETH, razvijalce aplikacij, navadne uporabnike, anarhiste, podjetja na seznamu Fortune 500 in od zdaj naprej tudi **vas**.
+**The Ethereum community is the largest and most active blockchain community in the world.** It includes core protocol developers, cryptoeconomic researchers, cypherpunks, mining organizations, ETH holders, app developers, ordinary users, anarchists, fortune 500 companies, and, as of now, **you**.
 
-**Ethereum ni pod nadzorom nobenega podjetja ali centralizirane organizacije.** Ethereum vzdržuje in izboljšuje raznolika globalna skupnost, ki s svojim delom prispeva k vsemu, od jedra protokola do aplikacij za uporabnike. To spletno mesto je tako kot celoten projekt Ethereum postavila skupina ljudi, ki delajo za isti cilj.
+**There is no company or centralized organization that controls Ethereum.** Ethereum is maintained and improved over time by a diverse global community of contributors who work on everything from the core protocol to consumer applications. This website, just like the rest of Ethereum, was built - and continues to be built - by a collection of people working together.
 
-**Pozdravljeni v Ethereumu.**
+**Welcome to Ethereum.**
 
-**Ne veste, kam naprej?**
+**Not sure where to go next?**
 
-- Želite začeti uporabljati Ethereum? [ethereum.org/sl/use](/sl/use/)
-- Želite več informacij o Ethereumu in njegovi tehnologiji? [ethereum.org/sl/learn](/sl/learn/)
-- Ste razvijalec, ki se zanima za razvoj na Ethereumu? [ethereum.org/sl/developers](/sl/developers/)
+- Want to get started using Ethereum? [ethereum.org/use](/use/)
+- Curious to learn more about Ethereum and its technology? [ethereum.org/learn](/learn/)
+- Are you a developer interested in building on ethereum? [ethereum.org/developers](/developers/)
 
-**Ali iščete več virov o Ethereumu za začetnike?**
+**Looking for more beginner resources about Ethereum?**
 
-[Decentralized Everything z Vitalikom Buterinom](https://youtu.be/WSN5BaCzsbo)
+[Decentralized Everything with Vitalik Buterin](https://youtu.be/WSN5BaCzsbo)
 
 <div class="iframe-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WSN5BaCzsbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Ben Horowitz pojasni, kakšna je pot naprej za tehnologijo veriženja blokov](https://www.youtube.com/watch?v=l9jvKWKmRfs&feature=youtu.be)
+[Ben Horowitz explains the road ahead for blockchain](https://www.youtube.com/watch?v=l9jvKWKmRfs&feature=youtu.be)
 
 <div class="iframe-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/l9jvKWKmRfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Ethereum’s Blockchain – članek TechCruncha](https://www.youtube.com/watch?v=WfULutvxvzY)
+[Ethereum’s Blockchain by TechCrunch](https://www.youtube.com/watch?v=WfULutvxvzY)
 
 <div class="iframe-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WfULutvxvzY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
